@@ -44,9 +44,11 @@ ExplainShell - отличный сервис для проверки работ�
 
 Блог: https://github.blog
 
-Git за полчаса: руководство для начинающих: https://proglib.io/p/git-for-half-an-hour
+Git за полчаса - руководство для начинающих: https://proglib.io/p/git-for-half-an-hour
 
 Интерактивный курс по Git: https://githowto.com/
+
+Объяснение работы Git на котиках: https://www.khtulhu.org.ua/blog/1085-ob-yasnenie-raboty-git-na-kotikakh.html
 
 О файле .gitignore: https://tyapk.ru/blog/post/gitignore
 
@@ -205,7 +207,7 @@ Node-fetch:
 
 > https://www.npmjs.com/package/node-fetch
 
-Chalk - раскраска терминала
+Chalk - раскраска терминала:
 
 > https://github.com/chalk/chalk
 
@@ -230,8 +232,6 @@ Puppeteer - скрапинг web-сайтов:
 Lerna:
 
 > https://github.com/lerna/lerna
-
-Здесь еще хорошие решения: https://github.com/expressjs
 
 Модули node для работы с SQLite:
 
@@ -260,14 +260,6 @@ https://nats.io/
 ### Серверное программирование web-сайтов - официальные рекомендации от Mozilla:
 
 > https://developer.mozilla.org/ru/docs/Learn/Server-side
-
-### Go Hugo:
-
-Creating Hugo Themes: https://draft.dev/learn/creating-hugo-themes
-
-Create Your Own Hugo Theme (большое полное видео): https://www.youtube.com/watch?v=wcMqrb3v2SM
-
-Легкое создание сайтов на Hugo: https://code.tutsplus.com/ru/tutorials/make-creating-websites-fun-again-with-hugo-the-static-website-generator-written-in-go--cms-27319
 
 ### Telegram
 
@@ -298,6 +290,14 @@ AIOgram async framework:
 ### GoLang:
 
 Vegeta - HTTP Load Testing Tool and Library: https://github.com/tsenart/vegeta
+
+### Go Hugo:
+
+Creating Hugo Themes: https://draft.dev/learn/creating-hugo-themes
+
+Create Your Own Hugo Theme (большое полное видео): https://www.youtube.com/watch?v=wcMqrb3v2SM
+
+Легкое создание сайтов на Hugo: https://code.tutsplus.com/ru/tutorials/make-creating-websites-fun-again-with-hugo-the-static-website-generator-written-in-go--cms-27319
 
 ### Docker
 
@@ -345,7 +345,7 @@ GitHub: https://github.com/esrlabs/chipmunk
 
 https://www.securitylab.ru/software/
 
-### "Mac на службе у хакера" - хорошая подборка статей для начинающих пентестеров.
+### "Mac на службе у хакера" - хорошая серия статей для начинающих пентестеров.
 
 Часть 1 - Шифрование диска: https://www.securitylab.ru/analytics/491107.php
 
@@ -427,15 +427,15 @@ https://habr.com/ru/company/alexhost/blog/527612/
 
 ### Vulners Perimeter Scanner: https://vulners.com/vulners-perimeter-scanner
 
-### OSINTGram - собираем данные из Instagram:
-
-https://telegra.ph/OSINTGRAM-Sobiraem-dannye-iz-Instagram-12-04
- 
-GitHub: https://github.com/Datalux/Osintgram
-
 # Web Scraping:
 
 GetData.io Web Scraper: https://chrome.google.com/webstore/detail/web-scraper-getdataio/ofncgcgajhgnbkbmkdhbgkoopfbemhfj?hl=ru&ref=hrstack
+
+OSINTGram - собираем данные из Instagram:
+
+> https://telegra.ph/OSINTGRAM-Sobiraem-dannye-iz-Instagram-12-04
+>
+> GitHub: https://github.com/Datalux/Osintgram
 
 # Разное
 
