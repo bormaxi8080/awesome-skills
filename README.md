@@ -36,6 +36,10 @@
 
 Advanced Bash Scripting Guide: https://www.opennet.ru/docs/RUS/bash_scripting_guide/
 
+Oh My Zsh - платформа с открытым исходным кодом для управления вашей конфигурацией Zsh.
+Поставляется в комплекте с тысячами полезных функций, помощников, плагинов, тем:
+> https://ohmyz.sh/
+
 ExplainShell - отличный сервис для проверки работы командной строки Linux: https://explainshell.com/
 
 ### Git:
