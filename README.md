@@ -36,6 +36,8 @@
 
 Advanced Bash Scripting Guide: https://www.opennet.ru/docs/RUS/bash_scripting_guide/
 
+Вводная статья по Kali Linux: https://hackware.ru/?p=2767
+
 Oh My Zsh - платформа с открытым исходным кодом для управления вашей конфигурацией Zsh.
 Поставляется в комплекте с тысячами полезных функций, помощников, плагинов, тем:
 > https://ohmyz.sh/
@@ -72,7 +74,14 @@ Grip - утилита для автономного просмотра разм�
 ### MacOS
 ### Ubuntu
 ### Debian
+
 ### Kali Linux
+
+Официальный сайт и документация: https://kali.org
+
+Перевод официальной документации: https://hackware.ru/?p=2767
+
+Небольшая вводная статья: https://teletype.in/@hackerseverywhere/BympqZiD4
 
 # Виртуальные машины
 
@@ -172,6 +181,8 @@ Running and debugging TypeScript in JetBrains WebStorm: https://www.jetbrains.co
 Полная версия руководства на Habr + PDF: https://habr.com/ru/company/ruvds/blog/428576/
 
 Руководство на Metalint: https://metanit.com/web/nodejs/
+
+Управление версиями Node.js и NPM с помощью NVM: https://habr.com/ru/company/timeweb/blog/541452/
 
 Using Node in JetBrains WebStorm: https://www.jetbrains.com/help/webstorm/developing-node-js-applications.html#ws_node_version
 
