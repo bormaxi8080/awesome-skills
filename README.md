@@ -124,6 +124,17 @@ Grip - утилита для автономного просмотра разм�
 Running and debugging TypeScript in JetBrains WebStorm: https://www.jetbrains.com/help/webstorm/running-and-debugging-typescript.html
 
 ### C++
+
+### Rust
+
+Официальный сайт и документация: https://www.rust-lang.org/
+
+Rust в примерах: https://doc.rust-lang.ru/stable/rust-by-example/
+
+Русскоговорящее сообщество Rust: https://rust-lang.ru/
+
+Разбор особенностей и некоторые ссылки: https://habr.com/ru/post/433302/
+
 ### Java
 ### Scala
 
