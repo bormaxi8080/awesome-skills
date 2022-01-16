@@ -96,6 +96,8 @@ Grip - утилита для автономного просмотра разм�
 > Ubuntu: https://www.linuxvmimages.com/images/ubuntu-2004/
 > 
 > Kali Linux: https://www.kali.org/get-kali/
+> 
+> MacOS High Sierra: https://betacode.net/12025/install-mac-os-virtual-machine-in-virtualbox
 
 ### Parallels Desktop
 
