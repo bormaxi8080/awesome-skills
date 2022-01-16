@@ -75,6 +75,8 @@ Grip - утилита для автономного просмотра разм�
 
 Официальное руководство пользователя MacOS: https://support.apple.com/ru-ru/guide/mac-help/welcome/mac
 
+MacAppStore - Search and Install any app on MacOS: https://macappstore.org/
+
 Яблык - все про Apple: https://yablyk.com/
 
 ### Ubuntu
@@ -256,12 +258,40 @@ Perl plugin для IntelliJ Idea:
 > https://habr.com/ru/post/301910/
 
 ### Lua
+
+Официальный сайт и документация: https://www.lua.org/
+
+Lua за 15 минут:
+> https://habr.com/ru/post/184538/
+> 
+> http://tylerneylon.com/a/learn-lua/
+
+Хороший мануал на русском: https://docs.geoscan.aero/ru/master/programming/lua/lua_main.html
+
+Хаб на Хабре: https://habr.com/ru/hub/lua/
+
 ### Erlang
+
+Официальный сайт и документация: https://www.erlang.org/
+
+Краткое руководство на CoderLessons: https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/vyuchit-erlang/erlang-kratkoe-rukovodstvo
+
+Руководство по программированию на языке Erlang: https://pessim50.ucoz.ru/Erlang.pdf
+
+Специфика:
+> https://eax.me/erlang-is-specific/
+> 
+> https://habr.com/ru/post/50028/
 
 # Популярные IDE
 
-### Cемейство IDE от JetBrains 
+### Cемейство IDE от JetBrains
+
+Официальный сайт и документация: https://www.jetbrains.com/
+
 ### Eclipse IDE
+
+Официальный сайт и документация: https://www.eclipse.org/ide/
 
 # Сервера приложений
 
@@ -364,6 +394,18 @@ Lerna:
 https://nats.io/
 
 ### Redis
+
+Официальный сайт и документация: https://redis.io/
+
+Вводная на AWS: https://aws.amazon.com/ru/redis/
+
+Redis для начинающих: https://webdevblog.ru/redis-dlya-nachinajushhij/
+
+Шпаргалка по Redis на Хабре: https://habr.com/ru/post/204354/
+
+Маленькая книга о Redis: https://3s.group/upload/iblock/890/890258c1a79e7154773b210ea701b184.pdf
+
+Redis в Python - полная документация на примерах: https://python-scripts.com/redis
 
 # Библиотеки и фреймворки
 
