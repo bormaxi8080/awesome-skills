@@ -85,7 +85,18 @@ Grip - утилита для автономного просмотра разм�
 
 # Виртуальные машины
 
-### VirtualBox
+### Oracle VM VirtualBox
+
+Официальный сайт и документация: https://www.virtualbox.org/
+
+Образы для Windows: https://g-ek.com/skachat-oficzialnyie-virtualnyie-mashinyi-windows-10
+
+Образы для Linux:
+
+> Ubuntu: https://www.linuxvmimages.com/images/ubuntu-2004/
+> 
+> Kali Linux: https://www.kali.org/get-kali/
+
 ### Parallels Desktop
 
 # Базы данных
@@ -163,6 +174,11 @@ Rust в примерах: https://doc.rust-lang.ru/stable/rust-by-example/
 Парсинг файлов CSV в Go: https://golangify.com/parsing-csv
 
 ### PHP
+
+Официальный сайт и документация: https://www.php.net/
+
+
+
 ### Ruby, RubyOnRails
 
 ### Perl
