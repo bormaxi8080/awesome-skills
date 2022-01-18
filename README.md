@@ -54,6 +54,10 @@ Git за полчаса - руководство для начинающих: ht
 
 Интерактивный курс по Git: https://githowto.com/
 
+Шпаргалка:
+
+![alt text](git-commands.jpg "Git commands")
+
 Объяснение работы Git на котиках: https://www.khtulhu.org.ua/blog/1085-ob-yasnenie-raboty-git-na-kotikakh.html
 
 О файле .gitignore: https://tyapk.ru/blog/post/gitignore
@@ -473,11 +477,11 @@ Create Your Own Hugo Theme (большое полное видео): https://www
 
 Официальная документация: https://cloud.google.com/translate
 
-API является платным, но есть множество обходных путей!
+API является платным, но есть множество обходных путей:
 
-https://qna.habr.com/q/16856
-
-https://coderoad.ru/43155233/Google-Translate-API-%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-Google-Translate-API-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9
+> https://qna.habr.com/q/16856
+>
+> https://coderoad.ru/43155233/Google-Translate-API-%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-Google-Translate-API-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9
 
 # UX, HTML, CSS, Bootstrap, Material UI и пр.
 
