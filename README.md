@@ -529,6 +529,20 @@ https://www.securitylab.ru/software/
 
 Огромное количество инструкций и примеров: https://networkguru.ru/wireshark/
 
+### Telnet:
+
+Простые примеры: https://losst.ru/kak-polzovatsya-telnet
+
+Документация от Microsoft: https://docs.microsoft.com/ru-ru/windows-server/administration/windows-commands/telnet
+
+### Команда dig (domain information groper) - многофункциональный инструмент для опроса DNS-серверов:
+
+https://andreyex.ru/linux/komandy-linux-i-komandy-shell/kak-ispolzovat-komandu-dig-dlya-zaprosa-dns-v-linux/
+
+https://greendail.ru/node/474
+
+https://losst.ru/komanda-dig-v-linux#:~:text=%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20dig%20(domain%20information%20groper,%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0%D0%BC%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B5%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20DNS
+
 ### NMap
 
 https://nmap.org/npcap/guide/
