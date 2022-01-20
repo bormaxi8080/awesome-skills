@@ -28,6 +28,7 @@
 - [UX, HTML, CSS, Bootstrap, Material UI и пр.](#ux)
 - [Полезные утилиты](#полезные-утилиты)
 - [Пентестинг, безопасность и защита](#пентестинг-безопасность-и-защита)
+- [Протоколы и стандарты передачи данных](#протоколы-и-стандарты)
 - [Разное](#разное)
 
 # Основные понятия и концепции
@@ -612,6 +613,22 @@ OSINTGram - собираем данные из Instagram:
 > https://telegra.ph/OSINTGRAM-Sobiraem-dannye-iz-Instagram-12-04
 >
 > GitHub: https://github.com/Datalux/Osintgram
+
+# Протоколы и стандарты передачи данных
+
+RFC и IETF:
+
+> Полный список стандартов RFC: https://www.rfc-editor.org/standards
+>
+> Наиболее популярные RFC: https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_RFC
+>
+> IETF Data Tracker: https://datatracker.ietf.org/
+
+SMTP:
+
+> https://ru.wikipedia.org/wiki/SMTP
+> 
+> http://www2.icmm.ru/~masich/win/lexion/mail/smtp.html#relay
 
 # Разное
 
