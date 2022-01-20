@@ -215,9 +215,11 @@ Rust в примерах: https://doc.rust-lang.ru/stable/rust-by-example/
 
 Хаб на Хабре: https://habr.com/ru/hub/python/
 
-Библиотеки для работы с SQLite:
+Find, install and publish Python packages with the Python Package Index (поисковик по библиотекам): https://pypi.org
 
-> https://pyneng.readthedocs.io/ru/latest/book/25_db/sqlite3.html
+Абстрактные классы и интерфейсы в Python: https://habr.com/ru/post/72757/
+
+Библиотеки для работы с SQLite: https://pyneng.readthedocs.io/ru/latest/book/25_db/sqlite3.html
 
 ### GoLang
 
@@ -653,6 +655,12 @@ Catch-all:
 > https://golb.hplar.ch/2019/08/catch-all-smtp.html
 > 
 > How to detect if domain has catch all policy to accept email: https://stackoverflow.com/questions/17947198/how-to-detect-if-domain-has-catch-all-policy-to-accept-email
+
+### MTA (Message Transfer Agent):
+
+> Основные принципы: https://ru.bmstu.wiki/MTA_(Message_Transfer_Agent)
+> 
+> More: https://mailtrap.io/blog/mail-transfer-agent/
 
 # Разное
 
