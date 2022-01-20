@@ -524,6 +524,10 @@ https://www.securitylab.ru/software/
 
 Часть 10 - Упорядочивание утилит: https://www.securitylab.ru/analytics/492935.php
 
+### Honeypots:
+
+Хорошая вводная статья про инструментарий: https://habr.com/ru/company/alexhost/blog/528796/
+
 ### Wireshark
 
 Официальный сайт и документация: https://www.wireshark.org/
