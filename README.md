@@ -616,19 +616,29 @@ OSINTGram - собираем данные из Instagram:
 
 # Протоколы и стандарты передачи данных
 
-RFC и IETF:
+### RFC и IETF:
 
-> Полный список стандартов RFC: https://www.rfc-editor.org/standards
->
-> Наиболее популярные RFC: https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_RFC
->
-> IETF Data Tracker: https://datatracker.ietf.org/
+Полный список стандартов RFC: https://www.rfc-editor.org/standards
 
-SMTP:
+Наиболее популярные RFC: https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_RFC
+
+IETF Data Tracker (поиск полного описания RFC по номеру): https://datatracker.ietf.org/
+
+### SMTP:
+
+Простое описание протокола SMTP:
 
 > https://ru.wikipedia.org/wiki/SMTP
-> 
+>
 > http://www2.icmm.ru/~masich/win/lexion/mail/smtp.html#relay
+
+Catch-all:
+
+> https://ru.wikipedia.org/wiki/Catch-all
+> 
+> https://golb.hplar.ch/2019/08/catch-all-smtp.html
+> 
+> How to detect if domain has catch all policy to accept email: https://stackoverflow.com/questions/17947198/how-to-detect-if-domain-has-catch-all-policy-to-accept-email
 
 # Разное
 
