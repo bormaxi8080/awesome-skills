@@ -424,14 +424,14 @@ Redis в Python - полная документация на примерах: h
 
 Описание от AWS, сравнение с Redis: https://aws.amazon.com/ru/memcached/
 
-### RabbitMQ
+### RabbitMQ message broker
 
 Официальный сайт и документация: https://www.rabbitmq.com/
 
 Введение в RabbitMQ: https://habr.com/ru/post/488654/
 (1 часть, там же остальные части в продолжении)
 
-### Celery
+### Celery - async message queue
 
 Официальный сайт и документация: http://celeryproject.org/
 
