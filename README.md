@@ -82,6 +82,8 @@ Grip - утилита для автономного просмотра разм�
 
 MacAppStore - Search and Install any app on MacOS: https://macappstore.org/
 
+Homebrew Formulae - online package browser for Homebrew: https://formulae.brew.sh/
+
 Яблык - все про Apple: https://yablyk.com/
 
 ### Ubuntu
@@ -489,6 +491,12 @@ API является платным, но есть множество обход
 # UX, HTML, CSS, Bootstrap, Material UI и пр.
 
 # Полезные утилиты
+
+### Prometheus - metrics and alerting with the leading open-source monitoring solution:
+
+Официальный сайт и документация: https://prometheus.io/
+
+Вводная статья на Habr: https://habr.com/ru/company/southbridge/blog/455290/
 
 ### Chipmunk - утилита для работы с большими логами:
 
