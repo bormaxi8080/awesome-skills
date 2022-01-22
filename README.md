@@ -402,7 +402,7 @@ Lerna:
 
 https://nats.io/
 
-### Redis
+### Redis - Open source in-memory data structure store, used as a database, cache, and message broker
 
 Официальный сайт и документация: https://redis.io/
 
@@ -415,6 +415,35 @@ Redis для начинающих: https://webdevblog.ru/redis-dlya-nachinajushh
 Маленькая книга о Redis: https://3s.group/upload/iblock/890/890258c1a79e7154773b210ea701b184.pdf
 
 Redis в Python - полная документация на примерах: https://python-scripts.com/redis
+
+### Memcached - a distributed memory object caching system
+
+Официальный сайт и документация: https://memcached.org/
+
+Маленькая вводная: https://habr.com/ru/post/42607/
+
+Описание от AWS, сравнение с Redis: https://aws.amazon.com/ru/memcached/
+
+### RabbitMQ
+
+Официальный сайт и документация: https://www.rabbitmq.com/
+
+Введение в RabbitMQ: https://habr.com/ru/post/488654/
+(1 часть, там же остальные части в продолжении)
+
+### Celery
+
+Официальный сайт и документация: http://celeryproject.org/
+
+GitHub: https://github.com/celery/celery
+
+Введение в celery: https://docs.celeryproject.org/en/stable/getting-started/introduction.html
+
+Celery - лучшие практики: https://habr.com/ru/post/269347/
+
+### Tarantool - платформа in-memory вычислений
+
+Официальный сайт и документация: https://www.tarantool.io/
 
 # Библиотеки и фреймворки
 
@@ -472,6 +501,24 @@ Create Your Own Hugo Theme (большое полное видео): https://www
 >
 > Figmachine - Convert Figma to React Code: https://www.figmachine.com/
 
+### Django
+
+Официальный сайт и документация: https://www.djangoproject.com/
+
+Документация от Mozilla: https://developer.mozilla.org/ru/docs/Learn/Server-side/Django
+
+Неплохая документация на русском: https://djbook.ru/rel3.0/
+
+Хаб по Django на Хабре: https://habr.com/ru/hub/django/
+
+Django fun:
+
+> https://django.fun/
+> 
+> Статьи о Django: https://django.fun/tutorials/
+> 
+> Django и Celery (в связке): https://django.fun/tutorials/django-i-celery-1-ustanovka/
+
 ### Браузерные расширения Chrome и Firefox:
 
 > Как посмотреть исходный код любого расширения в браузере: https://mipped.com/polezno/9742-kak-posmotret-ishodnyy-kod-lyubogo-rasshireniya-v-brauzere.html
@@ -497,6 +544,14 @@ API является платным, но есть множество обход
 Официальный сайт и документация: https://prometheus.io/
 
 Вводная статья на Habr: https://habr.com/ru/company/southbridge/blog/455290/
+
+### Grafana - operational dashboards
+
+Официальный сайт и документация: https://grafana.com/
+
+GitHub: https://github.com/grafana/grafana
+
+Пример внедрения: https://habr.com/ru/company/southbridge/blog/431122/
 
 ### Chipmunk - утилита для работы с большими логами:
 
