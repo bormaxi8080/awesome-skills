@@ -441,6 +441,8 @@ GitHub: https://github.com/celery/celery
 
 Celery - лучшие практики: https://habr.com/ru/post/269347/
 
+Celery - начинаем правильно: https://khashtamov.com/ru/celery-best-practices/
+
 ### Tarantool - платформа in-memory вычислений
 
 Официальный сайт и документация: https://www.tarantool.io/
