@@ -196,6 +196,12 @@ Running and debugging TypeScript in JetBrains WebStorm: https://www.jetbrains.co
 
 ### C++
 
+Официальный сайт стандарта C++: https://isocpp.org/
+
+Большой сайт по C++, документация: https://www.cplusplus.com/
+
+Туториалы: https://www.w3schools.com/cpp/cpp_intro.asp
+
 ### Rust
 
 Официальный сайт и документация: https://www.rust-lang.org/
@@ -207,7 +213,22 @@ Rust в примерах: https://doc.rust-lang.ru/stable/rust-by-example/
 Разбор особенностей и некоторые ссылки: https://habr.com/ru/post/433302/
 
 ### Java
+
+Официальный сайт: https://www.java.com/
+
+На русском: https://www.java.com/ru/
+
+Официальная документация: https://dev.java/
+
+Хаб на Habr: https://habr.com/ru/hub/java/
+
+Раздел на Metanit: https://metanit.com/java/
+
 ### Scala
+
+Официальный сайт и документация: https://www.scala-lang.org/
+
+Хаб на Habr: https://habr.com/ru/hub/scala/
 
 ### Python
 
@@ -416,6 +437,8 @@ Redis для начинающих: https://webdevblog.ru/redis-dlya-nachinajushh
 
 Redis в Python - полная документация на примерах: https://python-scripts.com/redis
 
+Redis Queue в Python: https://khashtamov.com/ru/python-rq-howto/
+
 ### Memcached - a distributed memory object caching system
 
 Официальный сайт и документация: https://memcached.org/
@@ -429,19 +452,24 @@ Redis в Python - полная документация на примерах: h
 Официальный сайт и документация: https://www.rabbitmq.com/
 
 Введение в RabbitMQ: https://habr.com/ru/post/488654/
-(1 часть, там же остальные части в продолжении)
 
-### Celery - async message queue
+### Celery async message queue
 
 Официальный сайт и документация: http://celeryproject.org/
 
 GitHub: https://github.com/celery/celery
 
-Введение в celery: https://docs.celeryproject.org/en/stable/getting-started/introduction.html
+Введение в Celery: https://docs.celeryproject.org/en/stable/getting-started/introduction.html
 
 Celery - лучшие практики: https://habr.com/ru/post/269347/
 
 Celery - начинаем правильно: https://khashtamov.com/ru/celery-best-practices/
+
+Django и Celery (в связке): https://django.fun/tutorials/django-i-celery-1-ustanovka/
+
+Пакет django-celery: https://github.com/adilkhash/django-celery
+
+Flower - web based tool for monitoring and administrating Celery clusters: https://github.com/mher/flower
 
 ### Tarantool - платформа in-memory вычислений
 
@@ -518,8 +546,6 @@ Django fun:
 > https://django.fun/
 > 
 > Статьи о Django: https://django.fun/tutorials/
-> 
-> Django и Celery (в связке): https://django.fun/tutorials/django-i-celery-1-ustanovka/
 
 ### Браузерные расширения Chrome и Firefox:
 
