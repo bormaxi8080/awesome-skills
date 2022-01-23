@@ -563,7 +563,57 @@ API является платным, но есть множество обход
 >
 > https://coderoad.ru/43155233/Google-Translate-API-%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-Google-Translate-API-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9
 
-# UX, HTML, CSS, Bootstrap, Material UI и пр.
+# HTML, CSS, Bootstrap, UX, Material UI
+
+### HTML
+
+HTML Tutorials: https://www.w3schools.com/html/
+
+Документация от Mozilla: https://developer.mozilla.org/ru/docs/Web/HTML
+
+Справочник по HTML: http://htmlbook.ru/html
+
+### HTML5
+
+Справочник по HTML5: https://html5book.ru/html-html5/
+
+Погружение в HTML5: http://htmlbook.ru/html5
+
+Различия меду HTML(4) и HTML5: https://www.hostinger.ru/rukovodstva/chto-takoe-html-i-ih-razlichiya
+
+### CSS
+
+CSS Tutorials: https://www.w3schools.com/css/default.asp
+
+Документация от Mozilla: https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics
+
+Самоучитель CSS: http://htmlbook.ru/samcss
+
+CSS для начинающих: https://ru.code-basics.com/languages/css
+
+### Bootstrap
+
+Официальный сайт и документация: https://getbootstrap.com/
+
+Создание быстрых отзывчивых сайтов с Bootstrap. Документация на русском: https://bootstrap-4.ru/
+
+### Material UI
+
+Официальный сайт и документация: https://mui.com/
+
+Reactjs, Material-UI with JSS. Краткий гайд: https://habr.com/ru/post/492378/
+
+MUI React templates & tools satore: https://material-ui.com/store/
+
+Material Design:
+
+> https://material.io/
+> 
+> https://material.io/components
+
+### UX
+
+UX Club - самое большое российское коммьюнити по UX: https://www.facebook.com/groups/136827946465842
 
 # Полезные утилиты
 
