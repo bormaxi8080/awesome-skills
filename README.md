@@ -24,6 +24,7 @@
 - [Популярные IDE](#популярные-IDE)
 - [Сервера приложений](#сервера-приложений)
 - [Библиотеки и фреймворки](#бибилиотеки-и-фреймворки)
+- [Мобильная разработка](#мобильная-разработка)
 - [Облачные платформы и API](#облачные-платформы-и-api)
 - [UX, HTML, CSS, Bootstrap, Material UI и пр.](#ux)
 - [Полезные утилиты](#полезные-утилиты)
@@ -83,6 +84,8 @@ Grip - утилита для автономного просмотра разм�
 MacAppStore - Search and Install any app on MacOS: https://macappstore.org/
 
 Homebrew Formulae - online package browser for Homebrew: https://formulae.brew.sh/
+
+MacBug - хороший сайт о программировании под MacOs, iOS: http://macbug.ru/
 
 Яблык - все про Apple: https://yablyk.com/
 
@@ -550,6 +553,50 @@ Django fun:
 ### Браузерные расширения Chrome и Firefox:
 
 > Как посмотреть исходный код любого расширения в браузере: https://mipped.com/polezno/9742-kak-posmotret-ishodnyy-kod-lyubogo-rasshireniya-v-brauzere.html
+
+# Мобильная разработка
+
+### iOS
+
+Objective C:
+
+> Официальная документация от Apple: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+> 
+> Objective C с нуля: https://habr.com/ru/post/107126/
+
+Swift:
+
+> Официальный сайт и документация: https://www.swift.org/
+> 
+> Официальная документация от Apple: https://developer.apple.com/documentation/swift
+> 
+> Хаб на Habr: https://habr.com/ru/hub/swift/
+
+Cocoa:
+
+> Официальная документация от Apple: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html
+> 
+> Учебник на русском: http://macbug.ru/cocoa.php
+> 
+> Хаб на Habr: https://habr.com/ru/hub/cocoa/
+
+### Android
+
+Android Developers Community: https://developer.android.com/
+
+Android Official Documentation: https://developer.android.com/
+
+Android Studio: https://developer.android.com/studio
+
+Android JetPack: https://developer.android.com/jetpack
+
+Android.com на русском: https://www.android.com/intl/ru_ru/
+
+Хаб на Habr: https://habr.com/ru/hub/android_dev/
+
+Kotlin:
+
+> Develop Android apps with Kotlin (official): https://developer.android.com/kotlin
 
 # Облачные платформы и API
 
