@@ -628,6 +628,17 @@ API является платным, но есть множество обход
 >
 > https://coderoad.ru/43155233/Google-Translate-API-%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-Google-Translate-API-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9
 
+### Google Language API:
+
+https://cloud.google.com/natural-language
+
+API является платным.
+
+Обсуждение автоматического определения языков: https://habr.com/ru/post/52239/
+
+На данный момент самый "крутой" способ орпделить язык и сделать относительно точный перевод - использовать translate.google.com через Puppeteer или другую библиотеку, подставляя нужные значения.
+Еще интересный вариант - переводить с помощью функции GOOGLETRANSLATE в таблице Google: https://shagabutdinov.ru/translate_sheets/
+
 # HTML, CSS, Bootstrap, Material UI, UX
 
 ### HTML
