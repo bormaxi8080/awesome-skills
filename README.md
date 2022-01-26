@@ -498,9 +498,21 @@ Flower - web based tool for monitoring and administrating Celery clusters: https
 
 Управление ботами в Telegram:
 
-> https://tlgrm.ru/docs/bots#botfather
+> Telegram на русском (очень много всякой информации): https://tlgrm.ru/blog
+> 
+> Боты: информация для разработчиков: https://tlgrm.ru/docs/bots#botfather
+> 
+> Модуль Telegram: создание чат-бота и канала, минимальные настройки компонентов: https://vc.ru/services/278869-modul-telegram-sozdanie-chat-bota-i-kanala-minimalnye-nastroyki-komponentov
 >
-> https://vc.ru/selectel/22593-howto-bot-selectel
+> Всё, о чём должен знать разработчик Телеграм-ботов: https://habr.com/ru/post/543676/
+> 
+> Пишем ботов для Telegram на языке Python: https://mastergroosha.github.io/telegram-tutorial/
+>
+> Неплохой разбор полетов с ботами для Telegram: https://habr.com/ru/company/ods/blog/462141/
+> 
+> Python telegram.ext package: https://python-telegram-bot.readthedocs.io/en/stable/telegram.ext.html
+> 
+> Создание бота для Telegram без навыков программирования: https://vc.ru/selectel/22593-howto-bot-selectel
 
 AIOgram async framework:
 
@@ -510,11 +522,9 @@ AIOgram async framework:
 > 
 > Быстрый старт: https://surik00.gitbooks.io/aiogram-lessons/content/chapter1.html
 > 
-> Еще интересные статьи:
+> Telegram-бот на Python за полчаса с aiogram: https://tproger.ru/articles/telegram-bot-create-and-deploy/
 > 
-> https://tproger.ru/articles/telegram-bot-create-and-deploy/
-> 
-> https://mastergroosha.github.io/telegram-tutorial-2/quickstart/
+> Знакомство с AIOgram: https://mastergroosha.github.io/telegram-tutorial-2/quickstart/
 > 
 > Подключение оплат: https://vc.ru/dev/240195-kak-nastroit-priem-platezhey-2-0-v-telegram-za-5-chasov
 
