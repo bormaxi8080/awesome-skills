@@ -261,6 +261,16 @@ Find, install and publish Python packages with the Python Package Index (пои�
 > 
 > Антипаттерн setting.py: https://habr.com/ru/post/115893/
 
+Логгирование:
+
+> Logging facility for Python: https://docs.python.org/3/library/logging.html
+> 
+> Вводная на русском: https://tproger.ru/articles/shpargalka-po-logirovaniju-na-python/
+> 
+> Логгирование в Python: https://python-scripts.com/logging-python
+> 
+> Настройка логирования в python. Повышаем информативность лога: https://habr.com/ru/sandbox/150814/
+
 Библиотеки для работы с SQLite: https://pyneng.readthedocs.io/ru/latest/book/25_db/sqlite3.html
 
 ### GoLang
