@@ -271,6 +271,10 @@ Find, install and publish Python packages with the Python Package Index (пои�
 > 
 > Настройка логирования в python. Повышаем информативность лога: https://habr.com/ru/sandbox/150814/
 
+Очереди в Python:
+
+> Модуль Queue: https://docs.python.org/3/library/queue.html
+
 Библиотеки для работы с SQLite: https://pyneng.readthedocs.io/ru/latest/book/25_db/sqlite3.html
 
 ### GoLang
