@@ -46,6 +46,14 @@ Oh My Zsh - платформа с открытым исходным кодом �
 
 ExplainShell - отличный сервис для проверки работы командной строки Linux: https://explainshell.com/
 
+Уведомления через Shell:
+
+> Linux notify-send: https://ss64.com/bash/notify-send.html
+> 
+> Собственные уведомления в Gnome: https://habr.com/ru/post/47892/
+> 
+> MacOS terminal-notifier: https://github.com/julienXX/terminal-notifier
+
 ### Git:
 
 Официальный сайт и документация: https://git-scm.com/
