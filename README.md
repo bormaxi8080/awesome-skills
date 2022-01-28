@@ -60,6 +60,8 @@ ExplainShell - отличный сервис для проверки работ�
 
 Блог: https://github.blog
 
+4 лучших Git-клиента для Mac OS: https://medium.com/os-x-tips-tricks/3-%D0%BB%D1%83%D1%87%D1%88%D0%B8%D1%85-git-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-mac-os-x-9980eaf356b6
+
 Git за полчаса - руководство для начинающих: https://proglib.io/p/git-for-half-an-hour
 
 Интерактивный курс по Git: https://githowto.com/
