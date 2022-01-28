@@ -78,6 +78,12 @@ Token authentication requirements for Git operations: https://github.blog/2020-1
 
 Краткое руководство по MD: https://paulradzkov.com/2014/markdown_cheatsheet/
 
+Obsidian - мощный редактор для работы с Markdown:
+
+> Официальный сайт и документация: https://obsidian.md/
+> 
+> Небольшая вводная: https://habr.com/ru/company/macloud/blog/560776/
+
 Grip - утилита для автономного просмотра разметки MD:
 > https://github.com/joeyespo/grip
 > 
@@ -486,6 +492,10 @@ Redis Queue в Python: https://khashtamov.com/ru/python-rq-howto/
 
 Введение в RabbitMQ: https://habr.com/ru/post/488654/
 
+Установка и настройка RabbitMQ в MacOS: https://russianblogs.com/article/91201405100/
+
+Коротко о работе с RabbitMQ из Python: https://habr.com/ru/post/434510/
+
 ### Celery async message queue
 
 Официальный сайт и документация: http://celeryproject.org/
@@ -498,9 +508,17 @@ Celery - лучшие практики: https://habr.com/ru/post/269347/
 
 Celery - начинаем правильно: https://khashtamov.com/ru/celery-best-practices/
 
+50 оттенков Celery: https://habr.com/ru/company/oleg-bunin/blog/433476/
+
+Celery Python - jcyjds b ghbvths: https://dev-gang.ru/article/celery-python-osnovy-i-primery-ba4pn1pyb9/
+
+3 кейса для использования Celery в Django-приложении: https://habr.com/ru/post/461775/
+
 Django и Celery (в связке): https://django.fun/tutorials/django-i-celery-1-ustanovka/
 
 Пакет django-celery: https://github.com/adilkhash/django-celery
+
+Flask & Celery - Асинхронные задачи с Celery в Python: https://chel-center.ru/python-yfc/2021/05/12/asinhronnye-zadachi-s-celery-v-python/
 
 Flower - web based tool for monitoring and administrating Celery clusters: https://github.com/mher/flower
 
