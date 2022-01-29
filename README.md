@@ -368,6 +368,8 @@ Lua за 15 минут:
 
 ### Node.js
 
+Официальный сайт и документация: https://nodejs.org/
+
 "Официальные" руководства: https://nodeguide.ru/doc/
 
 Руководство на Habr: https://habr.com/ru/company/ruvds/blog/422893/
