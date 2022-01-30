@@ -177,6 +177,8 @@ MariaDB foundation: https://mariadb.org/
 
 Официальный сайт и документация: https://www.postgresql.org/
 
+Установка и настройка PostgreSQL: https://wiki.calculate-linux.org/ru/postgresql
+
 Руководство на Metanit: https://metanit.com/sql/postgresql/
 
 Хорошие туториалы на английском: https://www.postgresqltutorial.com/
