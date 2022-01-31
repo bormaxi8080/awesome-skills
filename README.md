@@ -151,6 +151,8 @@ MacBug - хороший сайт о программировании под MacO
 
 ### Теория и основные концепции работы с БД
 
+List of tz database time zones: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 ### MySQL
 
 Официальный сайт и документация: https://www.mysql.com/
@@ -183,7 +185,9 @@ MariaDB foundation: https://mariadb.org/
 
 Хорошие туториалы на английском: https://www.postgresqltutorial.com/
 
-PostgresPro: https://postgrespro.ru
+PostgresPro - форк для PostgreSQL: https://postgrespro.ru
+
+Psycopg - PostgreSQL adapter for Python: https://www.psycopg.org/
 
 ### SQLite
 
@@ -604,7 +608,9 @@ Create Your Own Hugo Theme (большое полное видео): https://www
 
 Документация от Mozilla: https://developer.mozilla.org/ru/docs/Learn/Server-side/Django
 
-Неплохая документация на русском: https://djbook.ru/rel3.0/
+Исчерпывающая книга про Django, неплохая документация на русском: https://djbook.ru/rel3.0/
+
+И тут всего остального про Django навалом: https://djbook.ru/
 
 Хаб по Django на Хабре: https://habr.com/ru/hub/django/
 
