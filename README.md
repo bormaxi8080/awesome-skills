@@ -273,7 +273,7 @@ Find, install and publish Python packages with the Python Package Index (пои�
 > 
 > https://www.awesomeandrew.ru/2021/03/03/%D0%BE%D1%82-%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BA%D0%B0-%D0%B2-%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%D1%8B-%D0%BF%D0%B8%D1%88%D0%B5%D0%BC-%D1%84%D0%B0%D0%B9%D0%BB-%D0%BA%D0%BE%D0%BD%D1%84%D0%B8/
 > 
-> Антипаттерн setting.py: https://habr.com/ru/post/115893/
+> Антипаттерн settings.py: https://habr.com/ru/post/115893/
 
 Логгирование:
 
@@ -290,6 +290,8 @@ Find, install and publish Python packages with the Python Package Index (пои�
 > Модуль Queue: https://docs.python.org/3/library/queue.html
 
 Библиотеки для работы с SQLite: https://pyneng.readthedocs.io/ru/latest/book/25_db/sqlite3.html
+
+Работа с JSON: https://python-scripts.com/json
 
 ### GoLang
 
@@ -505,6 +507,8 @@ Redis Queue в Python: https://khashtamov.com/ru/python-rq-howto/
 Установка и настройка RabbitMQ в MacOS: https://russianblogs.com/article/91201405100/
 
 Коротко о работе с RabbitMQ из Python: https://habr.com/ru/post/434510/
+
+Pika - pure Python implementation of the AMQP 0-9-1 protocol: https://pika.readthedocs.io/en/stable/index.html
 
 ### Celery async message queue
 
