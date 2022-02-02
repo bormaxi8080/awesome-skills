@@ -520,6 +520,11 @@ GitHub: https://github.com/celery/celery
 
 Введение в Celery: https://docs.celeryproject.org/en/stable/getting-started/introduction.html
 
+Автоматический веб-скрапинг с помощью Python и Celery:
+часть 1 - https://www.internet-technologies.ru/articles/sozdanie-skrapera-rss-kanala-s-pomoschyu-python.html
+часть 2 - https://www.internet-technologies.ru/articles/avtom-veb-skraping-s-pom-python-i-celery.html#header-55486-5
+часть 3 - https://www.internet-technologies.ru/articles/sozd-priloz-parsinga-veb-stranic-python.html
+
 Celery - лучшие практики: https://habr.com/ru/post/269347/
 
 Celery - начинаем правильно: https://khashtamov.com/ru/celery-best-practices/
