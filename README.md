@@ -66,7 +66,7 @@ Git за полчаса - руководство для начинающих: ht
 
 Интерактивный курс по Git: https://githowto.com/
 
-Шпаргалка:
+Маленькая шпаргалка:
 
 ![alt text](git-commands.jpg "Git commands")
 
@@ -264,6 +264,8 @@ Rust в примерах: https://doc.rust-lang.ru/stable/rust-by-example/
 Хаб на Хабре: https://habr.com/ru/hub/python/
 
 Find, install and publish Python packages with the Python Package Index (поисковик по библиотекам): https://pypi.org
+
+Awesome Python - курс молодого бойца: https://chel-center.ru/python-yfc/awesome-python/
 
 Абстрактные классы и интерфейсы в Python: https://habr.com/ru/post/72757/
 
@@ -775,7 +777,11 @@ GitHub: https://github.com/esrlabs/chipmunk
 
 https://www.securitylab.ru/software/
 
-### "Mac на службе у хакера" - хорошая серия статей для начинающих пентестеров.
+### Сервисы поиска исходного кода:
+
+SearchCode: https://searchcode.com/
+
+### "Mac на службе у хакера" - хорошая серия статей для начинающих пентестеров:
 
 Часть 1 - Шифрование диска: https://www.securitylab.ru/analytics/491107.php
 
