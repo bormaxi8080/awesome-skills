@@ -290,6 +290,31 @@ Awesome Python - курс молодого бойца: https://chel-center.ru/py
 Очереди в Python:
 
 > Модуль Queue: https://docs.python.org/3/library/queue.html
+>
+> Celery: см. отдельный раздел ниже
+
+Flask:
+
+> Официальный сайт и документация: https://flask.palletsprojects.com/en/2.0.x/
+>
+> Русский перевод документации: https://flask-russian-docs.readthedocs.io/ru/latest/
+>
+> Учебник на Habr: https://habr.com/ru/post/193242/
+
+Pyramid:
+
+> Официальный сайт и документация: https://trypyramid.com/
+> 
+> Еще доки: https://docs.pylonsproject.org/projects/pyramid/en/latest/index.html
+> 
+> Руководство на Habr: https://habr.com/ru/post/135916/
+
+Tornado web server:
+
+> Официальный сайт и документация: https://www.tornadoweb.org/en/stable/
+>
+> Небольшая вводная: https://habr.com/ru/sandbox/27705/
+> 
 
 Библиотеки для работы с SQLite: https://pyneng.readthedocs.io/ru/latest/book/25_db/sqlite3.html
 
