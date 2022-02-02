@@ -606,6 +606,8 @@ Flower - web based tool for monitoring and administrating Celery clusters: https
 > 
 > Создание бота для Telegram без навыков программирования: https://vc.ru/selectel/22593-howto-bot-selectel
 
+Лимиты, сущевствующие в Telegram: https://www.vamtlgrm.com/limity-sushhestvuyushhie-v-telegram/
+
 AIOgram async framework:
 
 > GitHub: https://github.com/aiogram/aiogram
