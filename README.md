@@ -937,6 +937,8 @@ OSINTGram - собираем данные из Instagram:
 >
 > GitHub: https://github.com/Datalux/Osintgram
 
+Web Scrapping with Go: https://www.scrapingbee.com/blog/web-scraping-go/
+
 # Протоколы и стандарты передачи данных
 
 ### RFC и IETF:
