@@ -410,6 +410,12 @@ Express:
 >
 > Руководство от Mozilla: https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs
 
+Fastify:
+
+> Официальный сайт и документация: https://www.fastify.io/
+>
+> Обзор: https://habr.com/ru/post/555668/
+
 Async:
 
 > https://caolan.github.io/async/v3/docs.html
