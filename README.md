@@ -65,15 +65,15 @@
 >
 > - [Небольшая вводная](https://habr.com/ru/company/macloud/blog/560776/)
 - [Grip - утилита для автономного просмотра разметки MD](https://github.com/joeyespo/grip)
-- [White Spaces](https://kirillbelyaev.com/s/), список всех существующих пробелов и рекомендации по использованию каждого;
-- [Типограф](https://typograf.github.io/mobile.html), правит пунктуацию, ставит неразрывные пробелы и проч.;
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), справочник по MD;
-- [Markdown Editor](https://readme.so/), визуальный редактор MD;
-- [Polacode](https://github.com/octref/polacode), скриншоттер для фрагментов кода;
+- [White Spaces](https://kirillbelyaev.com/s/), список всех существующих пробелов и рекомендации по использованию каждого
+- [Типограф](https://typograf.github.io/mobile.html), правит пунктуацию, ставит неразрывные пробелы и проч.
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), справочник по MD
+- [Markdown Editor](https://readme.so/), визуальный редактор MD
+- [Polacode](https://github.com/octref/polacode), скриншоттер для фрагментов кода
 - [Vale: a command-line tool that brings code-like linting to prose](https://github.com/errata-ai/vale)
 
 ### Regular Expressions
--   [Regex 101](https://regex101.com/), редактор и тестер регулярных выражений с объяснениями каждого символа и примерами.
+-   [Regex 101](https://regex101.com/), редактор и тестер регулярных выражений с объяснениями каждого символа и примерами
 
 # Операционные системы
 
@@ -652,15 +652,15 @@ Metasploit Framework:
 # Интересные репозитарии в Git
 
 # Разное
--   [You Might Not Need JS](http://youmightnotneedjs.com/), набор фич, некоторые их которых действительно можно сделать без JS;
--   [HTML DOM](https://htmldom.dev/), набор нативных функций для работы с DOM-деревом;
--   [Does it Mutate](https://doesitmutate.xyz/), подскажет, какие методы изменяют массив, а какие нет;
--   [Keycode Info](http://keycode.info/), покажет код нажатой клавиши;
--   [Tmstmp](https://bespoyasov.ru/tmstmp/), переводит даты в таймштампы и обратно;
--   [Generating Random Integers](https://stackoverflow.com/a/1527820/3141337), пример генерации случайного целого с подробным объяснением работы;
--   [Jest Mocking Strategies](https://mercedesbernard.com/blog/jest-mocking-strategies), мои моки в Jest никогда не работают с первого раза;
--   [Debounce / Throttle](http://demo.nimius.net/debounce_throttle/), показывает разницу между `debounce` и `throttle`;
--   [Anything to Anything Transformer](https://transform.tools/json-schema-to-openapi-schema), конвертирует что угодно во что угодно;
+-   [You Might Not Need JS](http://youmightnotneedjs.com/), набор фич, некоторые их которых действительно можно сделать без JS
+-   [HTML DOM](https://htmldom.dev/), набор нативных функций для работы с DOM-деревом
+-   [Does it Mutate](https://doesitmutate.xyz/), подскажет, какие методы изменяют массив, а какие нет
+-   [Keycode Info](http://keycode.info/), покажет код нажатой клавиши
+-   [Tmstmp](https://bespoyasov.ru/tmstmp/), переводит даты в таймштампы и обратно
+-   [Generating Random Integers](https://stackoverflow.com/a/1527820/3141337), пример генерации случайного целого с подробным объяснением работы
+-   [Jest Mocking Strategies](https://mercedesbernard.com/blog/jest-mocking-strategies), мои моки в Jest никогда не работают с первого раза
+-   [Debounce / Throttle](http://demo.nimius.net/debounce_throttle/), показывает разницу между `debounce` и `throttle`
+-   [Anything to Anything Transformer](https://transform.tools/json-schema-to-openapi-schema), конвертирует что угодно во что угодно
 
 ### Сервисы поиска исходного кода:
 - [SearchCode](https://searchcode.com/)
