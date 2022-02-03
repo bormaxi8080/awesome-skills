@@ -570,7 +570,7 @@ Kotlin:
 - [Часть 7 - Установка RVM для работы с Ruby](https://www.securitylab.ru/analytics/492846.php)
 - [Часть 8 - Установка Kali Linux на виртуальной машине](https://www.securitylab.ru/analytics/492847.php)
 - [Часть 9 - Установка Metaspoloit Framework](https://www.securitylab.ru/analytics/492848.php)
-- [Часть 10 - Упорядочивание утилит](https://www.securitylab.ru/analytics/492935.php_
+- [Часть 10 - Упорядочивание утилит](https://www.securitylab.ru/analytics/492935.php)
 
 ### Honeypots:
 - [Хорошая вводная статья про инструментарий Honeypots](https://habr.com/ru/company/alexhost/blog/528796/)
@@ -632,31 +632,22 @@ Metasploit Framework:
 
 # Полезные утилиты
 
-### Prometheus - metrics and alerting with the leading open-source monitoring solution:
+### Prometheus
+- [Официальный сайт и документация](https://prometheus.io/), Prometheus - metrics and alerting with the leading open-source monitoring solution
+- [Вводная статья на Habr](https://habr.com/ru/company/southbridge/blog/455290/)
 
-Официальный сайт и документация: https://prometheus.io/
+### Grafana
+- [Официальный сайт и документация](https://grafana.com/), Grafana - operational dashboards
+- [GitHub](https://github.com/grafana/grafana)
+- [Пример внедрения](https://habr.com/ru/company/southbridge/blog/431122/)
 
-Вводная статья на Habr: https://habr.com/ru/company/southbridge/blog/455290/
-
-### Grafana - operational dashboards
-
-Официальный сайт и документация: https://grafana.com/
-
-GitHub: https://github.com/grafana/grafana
-
-Пример внедрения: https://habr.com/ru/company/southbridge/blog/431122/
-
-### Chipmunk - утилита для работы с большими логами:
-
-GitHub: https://github.com/esrlabs/chipmunk 
-
-Описание на Habr: https://habr.com/ru/post/496126/
+### Chipmunk
+- [GitHub](https://github.com/esrlabs/chipmunk), Chipmunk - утилита для работы с большими логами
+- [Описание на Habr](https://habr.com/ru/post/496126/)
 
 ### Balena Etcher - создание образов дисков на MacOS
-
-Официальный сайт: https://www.balena.io/etcher/
-
-На русском: https://balena-etcher.com/
+- [Официальный сайт](https://www.balena.io/etcher/)
+- [На русском](https://balena-etcher.com/)
 
 # Интересные репозитарии в Git
 
