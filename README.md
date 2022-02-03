@@ -324,11 +324,25 @@ Tornado web server:
 
 Официальный сайт и документация: https://go.dev/
 
-Материалы по Go (отдельный репозиторий): https://gist.github.com/egorsmkv/9df2aef2eddf51986b6d2b5833a4423e
+Материалы по Go / egorsmkv: https://gist.github.com/egorsmkv/9df2aef2eddf51986b6d2b5833a4423e
+
+GoLang Training / GoesToEleven: https://github.com/GoesToEleven/GolangTraining
+
+Эффективный Go / Konstantin8105: https://github.com/Konstantin8105/Effective_Go_RU
+
+Bulid applications with GoLang: https://github.com/astaxie/build-web-application-with-golang/blob/master/ru/preface.md
 
 Книги:
 
-> Введение в программирование на Go: http://golang-book.ru/
+Введение в программирование на Go:
+> http://golang-book.ru/
+> https://github.com/maxpoletaev/golang-book
+
+Cloud Native Go examples: https://github.com/cloud-native-go/examples
+
+Маленькая книга о Go: https://sefus.ru/little-go-book/
+
+Разное:
 
 Шпаргалка по структурам данных в Go: https://habr.com/ru/post/456194/
 
@@ -811,13 +825,12 @@ GitHub: https://github.com/esrlabs/chipmunk
 
 # Пентестинг, безопасность и защита
 
-### SecurityLab - Soft: огромная подборка всякого разного софта:
-
-https://www.securitylab.ru/software/
 
 ### Сервисы поиска исходного кода:
 
 SearchCode: https://searchcode.com/
+
+### Статьи и книги:
 
 ### "Mac на службе у хакера" - хорошая серия статей для начинающих пентестеров:
 
@@ -845,87 +858,88 @@ SearchCode: https://searchcode.com/
 
 Хорошая вводная статья про инструментарий: https://habr.com/ru/company/alexhost/blog/528796/
 
-### Wireshark
+### Утилиты
 
-Официальный сайт и документация: https://www.wireshark.org/
+SecurityLab - Soft: огромная подборка всякого разного софта: https://www.securitylab.ru/software/
 
-Небольшое руководство и шпаргалка: https://habr.com/ru/post/436226/
+Wireshark:
 
-Огромное количество инструкций и примеров: https://networkguru.ru/wireshark/
-
-### Telnet:
-
-Простые примеры: https://losst.ru/kak-polzovatsya-telnet
-
-Документация от Microsoft: https://docs.microsoft.com/ru-ru/windows-server/administration/windows-commands/telnet
-
-### Команда dig (domain information groper) - многофункциональный инструмент для опроса DNS-серверов:
-
-https://andreyex.ru/linux/komandy-linux-i-komandy-shell/kak-ispolzovat-komandu-dig-dlya-zaprosa-dns-v-linux/
-
-https://greendail.ru/node/474
-
-https://losst.ru/komanda-dig-v-linux#:~:text=%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20dig%20(domain%20information%20groper,%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0%D0%BC%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B5%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20DNS
-
-### NMap
-
-https://nmap.org/npcap/guide/
-
-Сканирование через скрипты обнаружения уязвимостей: 
-
-> https://github.com/scipag/vulscan (nmap -sV --script vulners domain.com)
+> Официальный сайт и документация: https://www.wireshark.org/
 >
-> https://github.com/vulnersCom/nmap-vulners (nmap -sV --script=vulscan.nse domain.com)
- 
-Автоматизированный shell: https://github.com/bormaxi8080/nmap-scanner
+> Небольшое руководство и шпаргалка: https://habr.com/ru/post/436226/
+>
+> Огромное количество инструкций и примеров: https://networkguru.ru/wireshark/
 
-Несколько интересных статей:
+Telnet:
 
-> https://habr.com/ru/post/88064/
+> Простые примеры: https://losst.ru/kak-polzovatsya-telnet
+>
+> Документация от Microsoft: https://docs.microsoft.com/ru-ru/windows-server/administration/windows-commands/telnet
+
+NMap:
+
+> https://nmap.org/npcap/guide/
+>
+> Сканирование через скрипты обнаружения уязвимостей: 
+>
+>> https://github.com/scipag/vulscan (nmap -sV --script vulners domain.com)
+>>
+>> https://github.com/vulnersCom/nmap-vulners (nmap -sV --script=vulscan.nse domain.com)
+>
+> Автоматизированный shell: https://github.com/bormaxi8080/nmap-scanner
+>
+> Несколько интересных статей:
+>
+>> https://habr.com/ru/post/88064/
+>> 
+>> https://losst.ru/kak-polzovatsya-nmap-dlya-skanirovaniya-seti
+>>
+>> https://antiddos.biz/kak-polzovatsya-nmap-dlya-poiska-uyazvimostej-servera/
+>
+> Еще некоторые примеры: https://xakinfo.ru/os/nmap-anonymous/
+
+Metasploit Framework:
+
+> https://www.metasploit.com/
+>
+> Официальная документация: https://docs.rapid7.com/metasploit/
+>
+> Установка: https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers
+>
+>Обзоры:
 > 
-> https://losst.ru/kak-polzovatsya-nmap-dlya-skanirovaniya-seti
+>> https://habr.com/ru/company/varonis/blog/528578/
+>>
+>> https://vc.ru/life/136613-metasploit-framework-kratkoe-prakticheskoe-rukovodstvo
+> 
+> Гид по Metasploit Framework от SecurityLab: https://www.securitylab.ru/blog/personal/Informacionnaya_bezopasnost_v_detalyah/323370.php
+
+theHarvester: https://github.com/laramies/theHarvester
+
+hydra: https://null-byte.wonderhowto.com/how-to/hack-like-pro-crack-online-passwords-with-tamper-data-thc-hydra-0155374/
+
+Nikto (Nikto2): https://cirt.net/Nikto2
+
+### Всякое разное
+Vulners Perimeter Scanner: https://vulners.com/vulners-perimeter-scanner
+
+Log4j Detection: https://github.com/bi-zone/Log4j_Detector
+
+WPScan - мощный фреймворк для пентеста WordPress:
+
+> https://wpscan.com/wordpress-security-scanner
+> 
+> GitHub: https://github.com/wpscanteam/wpscan
 >
-> https://antiddos.biz/kak-polzovatsya-nmap-dlya-poiska-uyazvimostej-servera/
- 
-Еще некоторые примеры: https://xakinfo.ru/os/nmap-anonymous/
+> https://habr.com/ru/company/alexhost/blog/527612/
 
-### Metasploit Framework
+Команда dig (domain information groper) - многофункциональный инструмент для опроса DNS-серверов:
 
-https://www.metasploit.com/
-
-Официальная документация: https://docs.rapid7.com/metasploit/
-
-Установка: https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers
-
-Обзоры:
- 
-> https://habr.com/ru/company/varonis/blog/528578/
+> https://andreyex.ru/linux/komandy-linux-i-komandy-shell/kak-ispolzovat-komandu-dig-dlya-zaprosa-dns-v-linux/
 >
-> https://vc.ru/life/136613-metasploit-framework-kratkoe-prakticheskoe-rukovodstvo
- 
-Гид по Metasploit Framework от SecurityLab: https://www.securitylab.ru/blog/personal/Informacionnaya_bezopasnost_v_detalyah/323370.php
-
-### theHarvester:
-
-https://github.com/laramies/theHarvester
-
-### hydra:
-
-https://null-byte.wonderhowto.com/how-to/hack-like-pro-crack-online-passwords-with-tamper-data-thc-hydra-0155374/
-
-### Nikto (Nikto2):
-
-https://cirt.net/Nikto2
-
-### WPScan - мощный фреймворк для пентеста WordPress:
-
-https://wpscan.com/wordpress-security-scanner
- 
-GitHub: https://github.com/wpscanteam/wpscan
-
-https://habr.com/ru/company/alexhost/blog/527612/
-
-### Vulners Perimeter Scanner: https://vulners.com/vulners-perimeter-scanner
+> https://greendail.ru/node/474
+>
+> https://losst.ru/komanda-dig-v-linux#:~:text=%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20dig%20(domain%20information%20groper,%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0%D0%BC%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B5%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20DNS
 
 # Web Scraping:
 
