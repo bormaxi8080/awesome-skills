@@ -19,6 +19,7 @@
 - [Основные понятия и концепции](#основные-понятия-и-концепции)
 - [Операционные системы](#операционные-системы)
 - [Виртуальные машины](#виртуальные-машины)
+- [Протоколы и стандарты передачи данных](#протоколы-и-стандарты)
 - [Базы данных](#базы-данных)
 - [Языки программирования](#языки-программирования)
 - [Популярные IDE](#популярные-IDE)
@@ -27,9 +28,9 @@
 - [Мобильная разработка](#мобильная-разработка)
 - [Облачные платформы и API](#облачные-платформы-и-api)
 - [UX, HTML, CSS, Bootstrap, Material UI и пр.](#ux)
-- [Полезные утилиты](#полезные-утилиты)
 - [Пентестинг, безопасность и защита](#пентестинг-безопасность-и-защита)
-- [Протоколы и стандарты передачи данных](#протоколы-и-стандарты)
+- [Полезные утилиты](#полезные-утилиты)
+- [Интересные репозитаарии в Git](#интересные-репозитарии-в-git)
 - [Разное](#разное)
 
 # Основные понятия и концепции
@@ -68,6 +69,8 @@ Git за полчаса - руководство для начинающих: ht
 
 Маленькая шпаргалка:
 
+-   [Explain Shell](https://explainshell.com/), объясняет команды терминала и ключи к ним.
+
 ![alt text](git-commands.jpg "Git commands")
 
 Объяснение работы Git на котиках: https://www.khtulhu.org.ua/blog/1085-ob-yasnenie-raboty-git-na-kotikakh.html
@@ -76,7 +79,10 @@ Git за полчаса - руководство для начинающих: ht
 
 Token authentication requirements for Git operations: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
 
-### Markdown:
+-   [Oh shit! Git](https://ohshitgit.com/), подскажет, что делать, если вы допустили ошибку в гите;
+-   [Git Explorer](https://gitexplorer.com/), справочник по командам и возможностям гита;
+
+### Markdown, редактура:
 
 Краткое руководство по MD: https://paulradzkov.com/2014/markdown_cheatsheet/
 
@@ -90,6 +96,14 @@ Grip - утилита для автономного просмотра разм�
 > https://github.com/joeyespo/grip
 > 
 > Запуск: grip
+
+-   [White Spaces](https://kirillbelyaev.com/s/), список всех существующих пробелов и рекомендации по использованию каждого;
+-   [Типограф](https://typograf.github.io/mobile.html), правит пунктуацию, ставит неразрывные пробелы и проч.;
+-   [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), справочник по MD;
+-   [Markdown Editor](https://readme.so/), визуальный редактор MD;
+-   [Polacode](https://github.com/octref/polacode), скриншоттер для фрагментов кода;
+
+Vale: a command-line tool that brings code-like linting to prose: https://github.com/errata-ai/vale
 
 # Операционные системы
 
@@ -125,12 +139,6 @@ MacBug - хороший сайт о программировании под MacO
 
 Небольшая вводная статья: https://teletype.in/@hackerseverywhere/BympqZiD4
 
-### Balena Etcher - создание образов дисков на MacOS
-
-Официальный сайт: https://www.balena.io/etcher/
-
-На русском: https://balena-etcher.com/
-
 # Виртуальные машины
 
 ### Oracle VM VirtualBox
@@ -147,11 +155,67 @@ MacBug - хороший сайт о программировании под MacO
 > 
 > MacOS High Sierra: https://betacode.net/12025/install-mac-os-virtual-machine-in-virtualbox
 
+# Протоколы и стандарты передачи данных
+
+### RFC и IETF:
+
+Полный список стандартов RFC: https://www.rfc-editor.org/standards
+
+Наиболее популярные RFC: https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_RFC
+
+IETF Data Tracker (поиск полного описания RFC по номеру): https://datatracker.ietf.org/
+
+### DNS:
+
+Простое описание: https://ru.wikipedia.org/wiki/DNS
+
+Записи DNS: https://ru.wikipedia.org/wiki/DNS#%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%B8_DNS
+
+Типы ресурсных записей: https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BF%D1%8B_%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BD%D1%8B%D1%85_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B5%D0%B9_DNS#A
+
+MX:
+
+> https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C_MX
+>
+> Как проверить MX-запись домена: https://timeweb.com/ru/community/articles/kak-proverit-mx-zapis-domena
+
+### SMTP:
+
+Простое описание протокола SMTP:
+
+> https://ru.wikipedia.org/wiki/SMTP
+>
+> http://www2.icmm.ru/~masich/win/lexion/mail/smtp.html#relay
+
+Catch-all:
+
+> https://ru.wikipedia.org/wiki/Catch-all
+> 
+> https://golb.hplar.ch/2019/08/catch-all-smtp.html
+> 
+> How to detect if domain has catch all policy to accept email: https://stackoverflow.com/questions/17947198/how-to-detect-if-domain-has-catch-all-policy-to-accept-email
+
+Reacher - Open-Source Email Verification API:
+
+> ## [https://reacher.email](https://reacher.email/)
+>
+> https://github.com/orgs/reacherhq/repositories
+>
+> https://github.com/reacherhq/check-if-email-exists
+
+### MTA (Message Transfer Agent):
+
+> Основные принципы: https://ru.bmstu.wiki/MTA_(Message_Transfer_Agent)
+> 
+> More: https://mailtrap.io/blog/mail-transfer-agent/
+
 # Базы данных
 
 ### Теория и основные концепции работы с БД
 
 List of tz database time zones: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+-   [Checklist for Changing Data Model](https://rtpg.co/2021/06/07/changes-checklist.html), чеклист для миграции данных и схем данных.
 
 ### MySQL
 
@@ -207,15 +271,28 @@ Twitter: https://twitter.com/MongoDB
 
 # Языки программирования
 
-### JavaScript
+### JavaScript и SPA
 
-Исчерпывающая информация на русском: https://javascript.ru/
+-   [HTTP Statuses](https://httpstatuses.com/), список HTTP статусов ответа с их значениями;
+
+Исчерпывающая информация по JavaScript на русском: https://javascript.ru/
 
 Современный учебник по JavaScript: https://learn.javascript.ru/
 
+-   [You Might Not Need JS](http://youmightnotneedjs.com/), набор фич, некоторые их которых действительно можно сделать без JS;
+-   [HTML DOM](https://htmldom.dev/), набор нативных функций для работы с DOM-деревом;
+-   [Does it Mutate](https://doesitmutate.xyz/), подскажет, какие методы изменяют массив, а какие нет;
+-   [Keycode Info](http://keycode.info/), покажет код нажатой клавиши;
+-   [Tmstmp](https://bespoyasov.ru/tmstmp/), переводит даты в таймштампы и обратно;
+-   [Generating Random Integers](https://stackoverflow.com/a/1527820/3141337), пример генерации случайного целого с подробным объяснением работы;
+-   [Jest Mocking Strategies](https://mercedesbernard.com/blog/jest-mocking-strategies), мои моки в Jest никогда не работают с первого раза;
+-   [Debounce / Throttle](http://demo.nimius.net/debounce_throttle/), показывает разницу между `debounce` и `throttle`;
+-   [Anything to Anything Transformer](https://transform.tools/json-schema-to-openapi-schema), конвертирует что угодно во что угодно;
+-   [Regex 101](https://regex101.com/), редактор и тестер регулярных выражений с объяснениями каждого символа и примерами.
+
 Вот этот парень у себя в LinkedIn делает классные мануалы/примеры кода по JS: https://www.linkedin.com/in/sam-shpakov/
 
-### TypeScript:
+### TypeScript
 
 Running and debugging TypeScript in JetBrains WebStorm: https://www.jetbrains.com/help/webstorm/running-and-debugging-typescript.html
 
@@ -751,6 +828,14 @@ API является платным.
 
 # HTML, CSS, Bootstrap, Material UI, UX
 
+### Подготовка графики
+
+-   [Squoosh](https://squoosh.app/), приложение, CLI и API для оптимизации графики;
+-   [SVG URL Encoder](https://yoksel.github.io/url-encoder/ru/), кодирует SVG в URL-строку, чтобы использовать его в `background` без base64;
+-   [SVG OMG](https://jakearchibald.github.io/svgomg/), оптимизатор SVG;
+-   [Social Image Preview](https://socialsharepreview.com/), предпросмотрщик изображений для соцсетей;
+-   [Facebook Debug](https://developers.facebook.com/tools/debug/), дебагер соц-изображений для Facebook.
+
 ### HTML
 
 HTML Tutorials: https://www.w3schools.com/html/
@@ -767,7 +852,29 @@ HTML Tutorials: https://www.w3schools.com/html/
 
 Различия меду HTML(4) и HTML5: https://www.hostinger.ru/rukovodstva/chto-takoe-html-i-ih-razlichiya
 
-### CSS
+### HTML и доступность
+
+-   [Emmet](https://www.emmet.io/), генератор HTML-кода из «CSS-селекторов»;
+-   [Can I Include](https://caninclude.glitch.me/), ответит на вопрос «Можно ли класть один тег в другой?»;
+-   [HTML head](https://html-head.ru/), поможет найти нужный элемент для `<head>` страницы;
+-   [Logical Content Flow](https://defaced.dev/tools/logical-content-flow/), найдёт проблемы с заголовками, их порядком и отображением;
+-   [Better Mobile Inputs](https://better-mobile-inputs.netlify.app/), поможет подобрать `<input>` и атрибуты для него так, чтобы им было удобно пользоваться на мобильных;
+-   [Weblind](https://weblind.ru/), рекомендации по разработке сайтов для людей с нарушениями зрения;
+-   [Inclusive Components](https://inclusive-components.design/), примеры реализации слайдеров, аккордеонов и других компонентов с упором на доступность;
+-   [Axe](https://www.deque.com/axe/), браузерный плагин для комплексной проверки доступности страниц;
+-   [Good Email Code](https://www.goodemailcode.com/), справочник и набор рекомендаций для пуленепробиваемой вёрстки писем;
+-   [How to Favicon in 2021](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs), статья-чеклист о том, как добавлять фавиконку на сайт без лишнего кода;
+-   [W3C Validator](https://validator.w3.org/nu/#textarea), валидатор HTML-кода.
+
+### Подготовка графики
+
+-   [Squoosh](https://squoosh.app/), приложение, CLI и API для оптимизации графики;
+-   [SVG URL Encoder](https://yoksel.github.io/url-encoder/ru/), кодирует SVG в URL-строку, чтобы использовать его в `background` без base64;
+-   [SVG OMG](https://jakearchibald.github.io/svgomg/), оптимизатор SVG;
+-   [Social Image Preview](https://socialsharepreview.com/), предпросмотрщик изображений для соцсетей;
+-   [Facebook Debug](https://developers.facebook.com/tools/debug/), дебагер соц-изображений для Facebook.
+
+### Стилизация и CSS
 
 CSS Tutorials: https://www.w3schools.com/css/default.asp
 
@@ -776,6 +883,21 @@ CSS Tutorials: https://www.w3schools.com/css/default.asp
 Самоучитель CSS: http://htmlbook.ru/samcss
 
 CSS для начинающих: https://ru.code-basics.com/languages/css
+
+-   [Can I Use](https://caniuse.com/), поможет проверить браузерную поддержку свойства;
+-   [Can I Use CMD](https://github.com/sgentle/caniuse-cmd), CLI для Can I Use;
+-   [Nth Tester](https://css-tricks.com/examples/nth-child-tester/), поможет проверить, так ли работает ваш `nth-child` селектор;
+-   [Flexbox Playground](https://codepen.io/enxaneta/full/adLPwv/), визуализирует работу флекс-свойств;
+-   [Grid by Example](https://gridbyexample.com/examples/), шпаргалка по CSS grid;
+-   [Grid Lover](https://www.gridlover.net/try), конструктор вертикального ритма и отступов для заголовков и параграфов;
+-   [Specificity Calc](https://specificity.keegan.st/), калькулятор специфичности селекторов;
+-   [Colord](https://colord.omgovich.ru/), конвертер цветов между разными цветовыми схемами;
+-   [CSS Gradient](https://cssgradient.io/), конструктор CSS градиентов;
+-   [Easings](https://easings.net/), справочник по easing-функциям с примерами;
+-   [Cubic Bezier](https://cubic-bezier.com/#.87,0,.13,1), конструктор и редактор кривых Безье;
+-   [CSS Patterns](https://projects.verou.me/css3patterns/), коллекция фоновых узоров на чистом CSS;
+-   [CSS Shapes](https://css-tricks.com/the-shapes-of-css/), набор часто используемых фигур на чистом CSS;
+-   [CSS Triggers](https://csstriggers.com/), подскажет, какие свойства запускают layout, paint и composite.
 
 ### Bootstrap
 
@@ -801,30 +923,9 @@ Material Design:
 
 UX Club - самое большое российское коммьюнити по UX: https://www.facebook.com/groups/136827946465842
 
-# Полезные утилиты
-
-### Prometheus - metrics and alerting with the leading open-source monitoring solution:
-
-Официальный сайт и документация: https://prometheus.io/
-
-Вводная статья на Habr: https://habr.com/ru/company/southbridge/blog/455290/
-
-### Grafana - operational dashboards
-
-Официальный сайт и документация: https://grafana.com/
-
-GitHub: https://github.com/grafana/grafana
-
-Пример внедрения: https://habr.com/ru/company/southbridge/blog/431122/
-
-### Chipmunk - утилита для работы с большими логами:
-
-GitHub: https://github.com/esrlabs/chipmunk 
-
-Описание на Habr: https://habr.com/ru/post/496126/
-
 # Пентестинг, безопасность и защита
 
+-   [Application Security](https://application.security/free/owasp-top-10), интерактивный чеклист по уязвимостям веб-приложений с объяснениями и рекомендациями к защите;
 
 ### Сервисы поиска исходного кода:
 
@@ -859,6 +960,8 @@ SearchCode: https://searchcode.com/
 Хорошая вводная статья про инструментарий: https://habr.com/ru/company/alexhost/blog/528796/
 
 ### Утилиты
+
+Ciphey - Input encrypted text, get the decrypted text back: https://github.com/Ciphey/Ciphey
 
 SecurityLab - Soft: огромная подборка всякого разного софта: https://www.securitylab.ru/software/
 
@@ -953,51 +1056,35 @@ OSINTGram - собираем данные из Instagram:
 
 Web Scrapping with Go: https://www.scrapingbee.com/blog/web-scraping-go/
 
-# Протоколы и стандарты передачи данных
+# Полезные утилиты
 
-### RFC и IETF:
+### Prometheus - metrics and alerting with the leading open-source monitoring solution:
 
-Полный список стандартов RFC: https://www.rfc-editor.org/standards
+Официальный сайт и документация: https://prometheus.io/
 
-Наиболее популярные RFC: https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_RFC
+Вводная статья на Habr: https://habr.com/ru/company/southbridge/blog/455290/
 
-IETF Data Tracker (поиск полного описания RFC по номеру): https://datatracker.ietf.org/
+### Grafana - operational dashboards
 
-### DNS:
+Официальный сайт и документация: https://grafana.com/
 
-Простое описание: https://ru.wikipedia.org/wiki/DNS
+GitHub: https://github.com/grafana/grafana
 
-Записи DNS: https://ru.wikipedia.org/wiki/DNS#%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%B8_DNS
+Пример внедрения: https://habr.com/ru/company/southbridge/blog/431122/
 
-Типы ресурсных записей: https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BF%D1%8B_%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BD%D1%8B%D1%85_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B5%D0%B9_DNS#A
+### Chipmunk - утилита для работы с большими логами:
 
-MX:
+GitHub: https://github.com/esrlabs/chipmunk 
 
-> https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C_MX
->
-> Как проверить MX-запись домена: https://timeweb.com/ru/community/articles/kak-proverit-mx-zapis-domena
+Описание на Habr: https://habr.com/ru/post/496126/
 
-### SMTP:
+### Balena Etcher - создание образов дисков на MacOS
 
-Простое описание протокола SMTP:
+Официальный сайт: https://www.balena.io/etcher/
 
-> https://ru.wikipedia.org/wiki/SMTP
->
-> http://www2.icmm.ru/~masich/win/lexion/mail/smtp.html#relay
+На русском: https://balena-etcher.com/
 
-Catch-all:
-
-> https://ru.wikipedia.org/wiki/Catch-all
-> 
-> https://golb.hplar.ch/2019/08/catch-all-smtp.html
-> 
-> How to detect if domain has catch all policy to accept email: https://stackoverflow.com/questions/17947198/how-to-detect-if-domain-has-catch-all-policy-to-accept-email
-
-### MTA (Message Transfer Agent):
-
-> Основные принципы: https://ru.bmstu.wiki/MTA_(Message_Transfer_Agent)
-> 
-> More: https://mailtrap.io/blog/mail-transfer-agent/
+# Интересные репозитарии в Git
 
 # Разное
 
@@ -1012,6 +1099,8 @@ https://github.com/bormaxi8080/teamlead
 Вынесено в отдельный репозиторий:
 
 https://github.com/bormaxi8080/bormaxi-about-hiring
+
+[Resume.io](https://resume.io/), конструктор CV
 
 # Об авторе
 
