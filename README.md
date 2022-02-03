@@ -362,7 +362,7 @@ AIOgram async framework:
 
 ### Tornado
 - [Официальный сайт и документация](https://www.tornadoweb.org/en/stable/)
-- [Небольшая вводная](https://habr.com/ru/sandbox/27705/)
+- [Небольшая вводная в Tornado](https://habr.com/ru/sandbox/27705/)
 
 ### Docker
 - [Официальная документация](https://docs.docker.com/)
@@ -371,7 +371,7 @@ AIOgram async framework:
 
 # Frontend
 ### React.js
-- [Learn React.js](https://learn-reactjs.ru/home), полное руководство по React.js
+- [Learn React.js](https://learn-reactjs.ru/home), полное руководство по React
 
 ### Go Hugo:
 - [Creating Hugo Themes](https://draft.dev/learn/creating-hugo-themes)
@@ -405,7 +405,7 @@ AIOgram async framework:
 ### HTML5
 - [Справочник по HTML5](https://html5book.ru/html-html5/)
 - [Погружение в HTML5](http://htmlbook.ru/html5)
-- [Различия меду HTML(4) и HTML5](https://www.hostinger.ru/rukovodstva/chto-takoe-html-i-ih-razlichiya)
+- [Различия между HTML(4) и HTML5](https://www.hostinger.ru/rukovodstva/chto-takoe-html-i-ih-razlichiya)
 
 ### Стилизация и CSS
 - [CSS Tutorials](https://www.w3schools.com/css/default.asp)
@@ -522,7 +522,7 @@ Express Framework:
 
 Objective C:
 - [Официальная документация от Apple](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-- [Objective C с нуля: https://habr.com/ru/post/107126/]
+- [Objective C с нуля](https://habr.com/ru/post/107126/)
 
 Swift:
 - [Официальный сайт и документация](https://www.swift.org/)
