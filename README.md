@@ -461,9 +461,9 @@ AIOgram async framework:
 
 Книги:
 
-> https://monster-book.com/node-js
+> - https://monster-book.com/node-js
 >
-> https://habr.com/ru/company/ruvds/blog/428576/
+> - https://habr.com/ru/company/ruvds/blog/428576/
 
 Express Framework:
 
@@ -472,31 +472,40 @@ Express Framework:
 
 - [Fastify](https://www.fastify.io/), краткий обзор: https://habr.com/ru/post/555668/
 
-- [Async Framework](https://caolan.github.io/async/v3/docs.html) 
-- [Руководство по Async](https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async), от Mozilla
+Async Framework:
+
+> - [Официальная документация](https://caolan.github.io/async/v3/docs.html) 
+>
+> - [Руководство по Async](https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async), от Mozilla
 
 - [Lodash](https://lodash.com/docs/), краткий обзор: https://habr.com/ru/post/217515/
 
 - [Node-fetch](https://www.npmjs.com/package/node-fetch), XMLHttpRequest emplementation libraru
-- [Chalk](https://github.com/chalk/chalk), раскраска терминала:
-- [Debug](https://developer.ibm.com/articles/intro-to-the-nodejs-debug-module/)
+- [Chalk](https://github.com/chalk/chalk), раскраска терминала
+- [Debug](https://developer.ibm.com/articles/intro-to-the-nodejs-debug-module/), библиотека для отладки
 
 - Puppeteer - скрапинг web-сайтов:
-- https://github.com/puppeteer/puppeteer 
-- https://habr.com/ru/company/oleg-bunin/blog/421137/
-- https://habr.com/ru/company/ruvds/blog/341348/
-- https://habr.com/ru/post/413547/
+> - https://github.com/puppeteer/puppeteer 
+>
+> - https://habr.com/ru/company/oleg-bunin/blog/421137/
+>
+> - https://habr.com/ru/company/ruvds/blog/341348/
+>
+> - https://habr.com/ru/post/413547/
 
 - [Lerna](https://github.com/lerna/lerna), A tool for managing JavaScript projects with multiple packages
 
 - Модули node для работы с SQLite:
 
-- https://github.com/grumdrig/node-sqlite
-- https://github.com/mapbox/node-sqlite3
-- https://github.com/grumdrig/node-sqlite
-- https://www.npmjs.com/package/better-sqlite3
-- [Что выбрать](https://coderoad.ru/14355004/%D0%A7%D1%82%D0%BE-SQLite-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D1%81-nodejs)
-- Визуализация SQLite в Node.js: https://habr.com/ru/company/vdsina/blog/527146/
+> - [node-sqlite](https://github.com/grumdrig/node-sqlite)
+> 
+> - [node-sqlite3](https://github.com/mapbox/node-sqlite3)
+>
+> - [better-sqlite3](https://www.npmjs.com/package/better-sqlite3)
+>
+> - [Что выбрать](https://coderoad.ru/14355004/%D0%A7%D1%82%D0%BE-SQLite-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D1%81-nodejs)
+>
+> - [Визуализация SQLite в Node.js](https://habr.com/ru/company/vdsina/blog/527146/)
 
 - [Примеры работы Node.js с MongoDB](https://nodejsdev.ru/doc/mongodb/)
 
