@@ -22,21 +22,20 @@
 - [Протоколы и стандарты передачи данных](#протоколы-и-стандарты)
 - [Базы данных](#базы-данных)
 - [Языки программирования](#языки-программирования)
-- [Сервера приложений и очередей](#сервера-приложений-и-очередей)
+- [Сервера приложений](#сервера-приложений)
 - [Библиотеки и фреймворки](#бибилиотеки-и-фреймворки)
+- [Frontend](#frontend)
+- [Backend](#backend)
 - [Мобильная разработка](#мобильная-разработка)
 - [Популярные IDE](#популярные-IDE)
-- [Облачные платформы и API](#облачные-платформы-и-api)
-- [UX, HTML, CSS, Bootstrap, Material UI и пр.](#ux)
 - [Пентестинг, безопасность и защита](#пентестинг-безопасность-и-защита)
 - [Полезные утилиты](#полезные-утилиты)
-- [Интересные репозитаарии в Git](#интересные-репозитарии-в-git)
+- [Интересные репозитарии в Git](#интересные-репозитарии-в-git)
 - [Разное](#разное)
 
 # Основные понятия и концепции
 
 ### Основы работы в ОС семейства Linux. Shell и командная строка
-
 - [Advanced Bash Scripting Guide](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)
 - [Вводная статья по Kali Linux](https://hackware.ru/?p=2767)
 - [Oh My Zsh](https://ohmyz.sh/)- платформа с открытым исходным кодом для управления вашей конфигурацией Zsh. Поставляется в комплекте с тысячами полезных функций, помощников, плагинов, тем.
@@ -48,8 +47,7 @@
 >
 > - [MacOS terminal-notifier](https://github.com/julienXX/terminal-notifier)
 
-### Git:
-
+### Git
 - [Официальный сайт и документация](https://git-scm.com/)
 - [Блог GitHub](https://github.blog)
 - [4 лучших Git-клиента для Mac OS](https://medium.com/os-x-tips-tricks/3-%D0%BB%D1%83%D1%87%D1%88%D0%B8%D1%85-git-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-mac-os-x-9980eaf356b6)
@@ -60,8 +58,7 @@
 - [О файле .gitignore](https://tyapk.ru/blog/post/gitignore)
 - [Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
 
-### Markdown, редактура:
-
+### Markdown, редактура
 - [Краткое руководство по MD](https://paulradzkov.com/2014/markdown_cheatsheet/)
 - Obsidian - мощный редактор для работы с Markdown:
 > - [Официальный сайт и документация](https://obsidian.md/)
@@ -75,400 +72,392 @@
 - [Polacode](https://github.com/octref/polacode), скриншоттер для фрагментов кода;
 - [Vale: a command-line tool that brings code-like linting to prose](https://github.com/errata-ai/vale)
 
+### Regular Expressions
+-   [Regex 101](https://regex101.com/), редактор и тестер регулярных выражений с объяснениями каждого символа и примерами.
+
 # Операционные системы
 
 ### MacOS
-
-Официальное руководство пользователя MacOS: https://support.apple.com/ru-ru/guide/mac-help/welcome/mac
-
-MacAppStore - Search and Install any app on MacOS: https://macappstore.org/
-
-Homebrew Formulae - online package browser for Homebrew: https://formulae.brew.sh/
-
-MacBug - хороший сайт о программировании под MacOs, iOS: http://macbug.ru/
-
-Яблык - все про Apple: https://yablyk.com/
+- [Официальное руководство пользователя MacOS](https://support.apple.com/ru-ru/guide/mac-help/welcome/mac)
+- [MacAppStore - Search and Install any app on MacOS](https://macappstore.org/)
+- [Homebrew Formulae - online package browser for Homebrew](https://formulae.brew.sh/)
+- [MacBug](http://macbug.ru/)- хороший сайт о программировании под MacOs, iOS
+- [Яблык](https://yablyk.com/) - все про Apple
 
 ### Ubuntu
-
-Официальный сайт и документация: https://ubuntu.com/
-
-Про Ubuntu на русском: https://ubuntu.ru/
+- [Официальный сайт и документация](https://ubuntu.com/)
+- [Про Ubuntu на русском](https://ubuntu.ru/)
 
 ### Debian
-
-Официальный сайт и документация: https://www.debian.org/
-
-В чём разница между Debian и Ubuntu? Что лучше выбрать: https://habr.com/ru/company/ruvds/blog/576380/
+- [Официальный сайт и документация](https://www.debian.org/)
+- [В чём разница между Debian и Ubuntu? Что и когда лучше выбрать](https://habr.com/ru/company/ruvds/blog/576380/)
 
 ### Kali Linux
-
-Официальный сайт и документация: https://kali.org
-
-Перевод официальной документации: https://hackware.ru/?p=2767
-
-Небольшая вводная статья: https://teletype.in/@hackerseverywhere/BympqZiD4
+- [Официальный сайт и документация](https://kali.org)
+- [Перевод официальной документации](https://hackware.ru/?p=2767)
+- [Небольшая вводная статья](https://teletype.in/@hackerseverywhere/BympqZiD4)
 
 # Виртуальные машины
 
 ### Oracle VM VirtualBox
-
-Официальный сайт и документация: https://www.virtualbox.org/
-
-Образы для Windows: https://g-ek.com/skachat-oficzialnyie-virtualnyie-mashinyi-windows-10
-
-Образы для Linux:
-
-> Ubuntu: https://www.linuxvmimages.com/images/ubuntu-2004/
-> 
-> Kali Linux: https://www.kali.org/get-kali/
-> 
-> MacOS High Sierra: https://betacode.net/12025/install-mac-os-virtual-machine-in-virtualbox
+- [Официальный сайт и документация](https://www.virtualbox.org/)
+- [Образы Windows](https://g-ek.com/skachat-oficzialnyie-virtualnyie-mashinyi-windows-10)	
+- [Образы Ubuntu](https://www.linuxvmimages.com/images/ubuntu-2004/)
+- [Образы Kali Linux](https://www.kali.org/get-kali/)
+- [Образ MacOS High Sierra](https://betacode.net/12025/install-mac-os-virtual-machine-in-virtualbox)
 
 # Протоколы и стандарты передачи данных
 
 ### RFC и IETF:
-
-Полный список стандартов RFC: https://www.rfc-editor.org/standards
-
-Наиболее популярные RFC: https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_RFC
-
-IETF Data Tracker (поиск полного описания RFC по номеру): https://datatracker.ietf.org/
+- [Полный список стандартов RFC](https://www.rfc-editor.org/standards)
+- [Наиболее популярные RFC](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_RFC)
+- [IETF Data Tracker](https://datatracker.ietf.org/), поиск полного описания RFC по номеру
 
 ### DNS:
+- [Простое описание протокола DNS](https://ru.wikipedia.org/wiki/DNS)
+- [Записи DNS](https://ru.wikipedia.org/wiki/DNS#%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%B8_DNS)
+- [Типы ресурсных записей DNS](https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BF%D1%8B_%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BD%D1%8B%D1%85_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B5%D0%B9_DNS#A)
+- [MX](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C_MX)
+- [Как проверить MX-запись домена](https://timeweb.com/ru/community/articles/kak-proverit-mx-zapis-domena)
+- [Команда dig (domain information groper)](https://andreyex.ru/linux/komandy-linux-i-komandy-shell/kak-ispolzovat-komandu-dig-dlya-zaprosa-dns-v-linux/), многофункциональный инструмент для опроса DNS-серверов
 
-Простое описание: https://ru.wikipedia.org/wiki/DNS
-
-Записи DNS: https://ru.wikipedia.org/wiki/DNS#%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%B8_DNS
-
-Типы ресурсных записей: https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BF%D1%8B_%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BD%D1%8B%D1%85_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B5%D0%B9_DNS#A
-
-MX:
-
-> https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C_MX
->
-> Как проверить MX-запись домена: https://timeweb.com/ru/community/articles/kak-proverit-mx-zapis-domena
+### HTTP/HTTPS:
+-   [HTTP Statuses](https://httpstatuses.com/), список HTTP статусов ответа с их значениями;
 
 ### SMTP:
-
-Простое описание протокола SMTP:
-
-> https://ru.wikipedia.org/wiki/SMTP
->
-> http://www2.icmm.ru/~masich/win/lexion/mail/smtp.html#relay
-
-Catch-all:
-
+- [Простое описание протокола SMTP](https://ru.wikipedia.org/wiki/SMTP)
+- (Описание протокола от ICANN](http://www2.icmm.ru/~masich/win/lexion/mail/smtp.html#relay)
+- Catch-all:
 > https://ru.wikipedia.org/wiki/Catch-all
 > 
 > https://golb.hplar.ch/2019/08/catch-all-smtp.html
 > 
-> How to detect if domain has catch all policy to accept email: https://stackoverflow.com/questions/17947198/how-to-detect-if-domain-has-catch-all-policy-to-accept-email
-
-Reacher - Open-Source Email Verification API:
-
-> ## [https://reacher.email](https://reacher.email/)
+> [How to detect if domain has catch all policy to accept email](https://stackoverflow.com/questions/17947198/how-to-detect-if-domain-has-catch-all-policy-to-accept-email)
+- [Reacher](https://reacher.email/), Open-Source Email Verification API:
+> - https://github.com/orgs/reacherhq/repositories
 >
-> https://github.com/orgs/reacherhq/repositories
->
-> https://github.com/reacherhq/check-if-email-exists
+> - https://github.com/reacherhq/check-if-email-exists
 
 ### MTA (Message Transfer Agent):
-
-> Основные принципы: https://ru.bmstu.wiki/MTA_(Message_Transfer_Agent)
-> 
-> More: https://mailtrap.io/blog/mail-transfer-agent/
+- [Основные принципы MTA](https://ru.bmstu.wiki/MTA_(Message_Transfer_Agent))
+- [More about MTA](https://mailtrap.io/blog/mail-transfer-agent/)
 
 # Базы данных
 
 ### Теория и основные концепции работы с БД
-
-List of tz database time zones: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
--   [Checklist for Changing Data Model](https://rtpg.co/2021/06/07/changes-checklist.html), чеклист для миграции данных и схем данных.
+- [List of tz database time zones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
+- [Checklist for Changing Data Model](https://rtpg.co/2021/06/07/changes-checklist.html), чеклист для миграции данных и схем данных.
 
 ### MySQL
-
-Официальный сайт и документация: https://www.mysql.com/
-
-Мануалы:
-
-> http://www.mysql.ru/docs/
-> 
-> https://metanit.com/sql/mysql/
-
-Оригинальный API для MySQL- PHP: https://www.php.net/manual/ru/book.mysql.php
+- [Официальный сайт и документация](https://www.mysql.com/)
+- [Документация на русском](http://www.mysql.ru/docs/)
+- [Руководство по MySql на Metanit](https://metanit.com/sql/mysql/)
+- [Оригинальный API для MySQL- PHP](https://www.php.net/manual/ru/book.mysql.php)
 
 ### MariaDB
-
-Официальный сайт и документация: https://mariadb.com/
-
-MariaDB foundation: https://mariadb.org/
-
-История проекта: https://ru.wikipedia.org/wiki/MariaDB
-
-Установка на MacOS: https://mariadb.com/kb/en/installing-mariadb-on-macos-using-homebrew/
+- [Официальный сайт и документация](https://mariadb.com/)
+- [MariaDB foundation](https://mariadb.org/)
+- [История проекта](https://ru.wikipedia.org/wiki/MariaDB)
+- [Установка на MacOS](https://mariadb.com/kb/en/installing-mariadb-on-macos-using-homebrew/)
 
 ### PostrgeSQL
-
-Официальный сайт и документация: https://www.postgresql.org/
-
-Установка и настройка PostgreSQL: https://wiki.calculate-linux.org/ru/postgresql
-
-Руководство на Metanit: https://metanit.com/sql/postgresql/
-
-Хорошие туториалы на английском: https://www.postgresqltutorial.com/
-
-PostgresPro - форк для PostgreSQL: https://postgrespro.ru
-
-Psycopg - PostgreSQL adapter for Python: https://www.psycopg.org/
+- [Официальный сайт и документация](https://www.postgresql.org/)
+- [Установка и настройка PostgreSQL](https://wiki.calculate-linux.org/ru/postgresql)
+- [Руководство на Metanit](https://metanit.com/sql/postgresql/)
+- [Хорошие туториалы на английском](https://www.postgresqltutorial.com/)
+- [Psycopg](https://www.psycopg.org/), PostgreSQL adapter for Python
 
 ### SQLite
-
-Официальный сайт и документация: https://www.sqlite.org
+- [Официальный сайт и документация](https://www.sqlite.org)
 
 ### MongoDB
-
-Официальный сайт и документация: https://www.mongodb.com/
-
-Twitter: https://twitter.com/MongoDB
-
-Руководство на Metanit: https://metanit.com/nosql/mongodb/
-
-Руководство на CoderLessons: https://coderlessons.com/tutorials/bazy-dannykh/uchitsia-mongodb/mongodb-kratkoe-rukovodstvo
-
-Примеры работы на Node.js: https://nodejsdev.ru/doc/mongodb/
+- [Официальный сайт и документация](https://www.mongodb.com/)
+- [MongoDB Twitter account](https://twitter.com/MongoDB)
+- [Руководство на Metanit](https://metanit.com/nosql/mongodb/)
+- [Руководство на CoderLessons](https://coderlessons.com/tutorials/bazy-dannykh/uchitsia-mongodb/mongodb-kratkoe-rukovodstvo)
+- [Примеры работы на Node.js](https://nodejsdev.ru/doc/mongodb/)
 
 # Языки программирования
 
 ### JavaScript и SPA
-
--   [HTTP Statuses](https://httpstatuses.com/), список HTTP статусов ответа с их значениями;
-
-Исчерпывающая информация по JavaScript на русском: https://javascript.ru/
-
-Современный учебник по JavaScript: https://learn.javascript.ru/
-
--   [You Might Not Need JS](http://youmightnotneedjs.com/), набор фич, некоторые их которых действительно можно сделать без JS;
--   [HTML DOM](https://htmldom.dev/), набор нативных функций для работы с DOM-деревом;
--   [Does it Mutate](https://doesitmutate.xyz/), подскажет, какие методы изменяют массив, а какие нет;
--   [Keycode Info](http://keycode.info/), покажет код нажатой клавиши;
--   [Tmstmp](https://bespoyasov.ru/tmstmp/), переводит даты в таймштампы и обратно;
--   [Generating Random Integers](https://stackoverflow.com/a/1527820/3141337), пример генерации случайного целого с подробным объяснением работы;
--   [Jest Mocking Strategies](https://mercedesbernard.com/blog/jest-mocking-strategies), мои моки в Jest никогда не работают с первого раза;
--   [Debounce / Throttle](http://demo.nimius.net/debounce_throttle/), показывает разницу между `debounce` и `throttle`;
--   [Anything to Anything Transformer](https://transform.tools/json-schema-to-openapi-schema), конвертирует что угодно во что угодно;
--   [Regex 101](https://regex101.com/), редактор и тестер регулярных выражений с объяснениями каждого символа и примерами.
-
-Вот этот парень у себя в LinkedIn делает классные мануалы/примеры кода по JS: https://www.linkedin.com/in/sam-shpakov/
+- [JavaScript RU](https://javascript.ru/), исчерпывающая информация по JavaScript на русском
+- [Learn JavaScript](https://learn.javascript.ru/), современный учебник по JavaScript
+- Вот этот парень у себя в LinkedIn делает классные мануалы/примеры кода по JS: https://www.linkedin.com/in/sam-shpakov/
 
 ### TypeScript
-
-Running and debugging TypeScript in JetBrains WebStorm: https://www.jetbrains.com/help/webstorm/running-and-debugging-typescript.html
+- [Running and debugging TypeScript in JetBrains WebStorm](https://www.jetbrains.com/help/webstorm/running-and-debugging-typescript.html)
 
 ### C++
-
-Официальный сайт стандарта C++: https://isocpp.org/
-
-Большой сайт по C++, документация: https://www.cplusplus.com/
-
-Туториалы: https://www.w3schools.com/cpp/cpp_intro.asp
+- [Официальный сайт стандарта C++](https://isocpp.org/)
+- [Большой сайт по C++, документация](https://www.cplusplus.com/)
+- [Туториалы](https://www.w3schools.com/cpp/cpp_intro.asp)
 
 ### Rust
-
-Официальный сайт и документация: https://www.rust-lang.org/
-
-Rust в примерах: https://doc.rust-lang.ru/stable/rust-by-example/
-
-Русскоговорящее сообщество Rust: https://rust-lang.ru/
-
-Разбор особенностей и некоторые ссылки: https://habr.com/ru/post/433302/
+- [Официальный сайт и документация](https://www.rust-lang.org/)
+- [Rust в примерах](https://doc.rust-lang.ru/stable/rust-by-example/)
+- [Русскоговорящее сообщество Rust](https://rust-lang.ru/)
+- [Разбор особенностей Rust и некоторые ссылки](https://habr.com/ru/post/433302/)
 
 ### Java
-
-Официальный сайт: https://www.java.com/
-
-На русском: https://www.java.com/ru/
-
-Официальная документация: https://dev.java/
-
-Хаб на Habr: https://habr.com/ru/hub/java/
-
-Раздел на Metanit: https://metanit.com/java/
+- [Официальный сайт Java](https://www.java.com/)
+- [Официальная документация по Java](https://dev.java/)
+- [Java на русском](https://www.java.com/ru/)
+- [Хаб на Habr](https://habr.com/ru/hub/java/)
+- [Раздел на Metanit](https://metanit.com/java/)
 
 ### Scala
-
-Официальный сайт и документация: https://www.scala-lang.org/
-
-Хаб на Habr: https://habr.com/ru/hub/scala/
+- [Официальный сайт и документация](https://www.scala-lang.org/)
+- [Хаб на Habr](https://habr.com/ru/hub/scala/)
 
 ### Python
-
-Официальный сайт и документация: https://www.python.org/
-
-Материалы по Python на TProger: https://tproger.ru/tag/python/?page=2
-
-Хаб на Хабре: https://habr.com/ru/hub/python/
-
-Find, install and publish Python packages with the Python Package Index (поисковик по библиотекам): https://pypi.org
-
-Awesome Python - курс молодого бойца: https://chel-center.ru/python-yfc/awesome-python/
-
-Абстрактные классы и интерфейсы в Python: https://habr.com/ru/post/72757/
-
-Работа с конфигурационными файлами:
-
-> https://habr.com/ru/post/485236/
-> 
-> https://www.awesomeandrew.ru/2021/03/03/%D0%BE%D1%82-%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BA%D0%B0-%D0%B2-%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%D1%8B-%D0%BF%D0%B8%D1%88%D0%B5%D0%BC-%D1%84%D0%B0%D0%B9%D0%BB-%D0%BA%D0%BE%D0%BD%D1%84%D0%B8/
-> 
-> Антипаттерн settings.py: https://habr.com/ru/post/115893/
-
-Логгирование:
-
-> Logging facility for Python: https://docs.python.org/3/library/logging.html
-> 
-> Вводная на русском: https://tproger.ru/articles/shpargalka-po-logirovaniju-na-python/
-> 
-> Логгирование в Python: https://python-scripts.com/logging-python
-> 
-> Настройка логирования в python. Повышаем информативность лога: https://habr.com/ru/sandbox/150814/
-
-Очереди в Python:
-
-> Модуль Queue: https://docs.python.org/3/library/queue.html
->
-> Celery: см. отдельный раздел ниже
-
-Flask:
-
-> Официальный сайт и документация: https://flask.palletsprojects.com/en/2.0.x/
->
-> Русский перевод документации: https://flask-russian-docs.readthedocs.io/ru/latest/
->
-> Учебник на Habr: https://habr.com/ru/post/193242/
-
-Pyramid:
-
-> Официальный сайт и документация: https://trypyramid.com/
-> 
-> Еще доки: https://docs.pylonsproject.org/projects/pyramid/en/latest/index.html
-> 
-> Руководство на Habr: https://habr.com/ru/post/135916/
-
-Tornado web server:
-
-> Официальный сайт и документация: https://www.tornadoweb.org/en/stable/
->
-> Небольшая вводная: https://habr.com/ru/sandbox/27705/
-> 
-
-Библиотеки для работы с SQLite: https://pyneng.readthedocs.io/ru/latest/book/25_db/sqlite3.html
-
-Работа с JSON: https://python-scripts.com/json
+- [Официальный сайт и документация](https://www.python.org/)
+- [Материалы по Python на TProger](https://tproger.ru/tag/python/)
+- [Хаб на Хабре](https://habr.com/ru/hub/python/)
+- [Find, install and publish Python packages with the Python Package Index](https://pypi.org), поисковик по библиотекам
+- [Awesome Python](https://chel-center.ru/python-yfc/awesome-python/), курс молодого бойца
+- [Абстрактные классы и интерфейсы в Python](https://habr.com/ru/post/72757/)
+- [Работа с конфигурационными файлами](https://habr.com/ru/post/485236/)
+- [Антипаттерн settings.py](https://habr.com/ru/post/115893/)
+- [Logging facility for Python](https://docs.python.org/3/library/logging.html)
+- [Логгирование в Python](https://python-scripts.com/logging-python)
+- [Настройка логирования в Python](https://habr.com/ru/sandbox/150814/), повышаем информативность лога
+- [Модуль Queue](https://docs.python.org/3/library/queue.html)
+- [Библиотеки для работы с SQLite](https://pyneng.readthedocs.io/ru/latest/book/25_db/sqlite3.html)
+- [Работа с JSON в Python](https://python-scripts.com/json)
+- Celery: см. отдельный раздел ниже
 
 ### GoLang
-
-Официальный сайт и документация: https://go.dev/
-
-Материалы по Go / egorsmkv: https://gist.github.com/egorsmkv/9df2aef2eddf51986b6d2b5833a4423e
-
-GoLang Training / GoesToEleven: https://github.com/GoesToEleven/GolangTraining
-
-Эффективный Go / Konstantin8105: https://github.com/Konstantin8105/Effective_Go_RU
-
-Bulid applications with GoLang: https://github.com/astaxie/build-web-application-with-golang/blob/master/ru/preface.md
+- [Официальный сайт и документация](https://go.dev/)
+- [Материалы по Go](https://gist.github.com/egorsmkv/9df2aef2eddf51986b6d2b5833a4423e), egorsmkv
+- [GoLang Training](https://github.com/GoesToEleven/GolangTraining), GoesToEleven
+- [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU), Konstantin8105
+- [Bulid applications with GoLang](https://github.com/astaxie/build-web-application-with-golang/blob/master/ru/preface.md)
 
 Книги:
-
-Введение в программирование на Go:
-> http://golang-book.ru/
-> https://github.com/maxpoletaev/golang-book
-
-Cloud Native Go examples: https://github.com/cloud-native-go/examples
-
-Маленькая книга о Go: https://sefus.ru/little-go-book/
+- [Введение в программирование на Go](http://golang-book.ru/), GitHub: https://github.com/maxpoletaev/golang-book
+- [Cloud Native Go examples](https://github.com/cloud-native-go/examples)
+- [Маленькая книга о Go](https://sefus.ru/little-go-book/)
 
 Разное:
-
-Шпаргалка по структурам данных в Go: https://habr.com/ru/post/456194/
-
-Парсинг файлов CSV в Go: https://golangify.com/parsing-csv
-
-Vegeta - HTTP Load Testing Tool and Library: https://github.com/tsenart/vegeta
+- [Шпаргалка по структурам данных в Go](https://habr.com/ru/post/456194/)
+- [Парсинг файлов CSV в Go](https://golangify.com/parsing-csv)
+- [Vegeta](https://github.com/tsenart/vegeta), GoLang HTTP Load Testing Tool and Library
 
 ### PHP
-
-Официальный сайт и документация: https://www.php.net/
+- [Официальный сайт и документация](https://www.php.net/)
 
 ### Ruby, RubyOnRails
-
-Ruby - официальный сайт и документция: https://www.ruby-lang.org/ru/
-
-RubyOnRails: https://rubyonrails.org/
-
-Чем хорошо RubyOnRails и как он ускоряет разработку: https://habr.com/ru/company/skillbox/blog/428487/
-
-Хороший сайт на русском: http://www.rubyonrails.ru/
+- [Официальный сайт и документция](https://www.ruby-lang.org/ru/), Ruby
+- [RubyOnRails](https://rubyonrails.org/)
+- [Чем хорош RubyOnRails и как он ускоряет разработку](https://habr.com/ru/company/skillbox/blog/428487/)
+- [Хороший сайт на русском](http://www.rubyonrails.ru/)
 
 ### Perl
-
-Официальный сайт и документация: https://www.perl.org/
-
-Хаб на Хабре: https://habr.com/ru/hub/perl/
-
-Краткий экскурс в Perl-программирование: https://www.opennet.ru/docs/RUS/perl_help/
-
-Perl plugin для IntelliJ Idea:
-> https://habr.com/ru/post/265799/
-> 
-> https://habr.com/ru/post/301910/
+- [Официальный сайт и документация](https://www.perl.org/)
+- [Хаб на Хабре](https://habr.com/ru/hub/perl/)
+- [Краткий экскурс в Perl-программирование](https://www.opennet.ru/docs/RUS/perl_help/)
 
 ### Lua
-
-Официальный сайт и документация: https://www.lua.org/
-
-Lua за 15 минут:
-> https://habr.com/ru/post/184538/
-> 
-> http://tylerneylon.com/a/learn-lua/
-
-Хороший мануал на русском: https://docs.geoscan.aero/ru/master/programming/lua/lua_main.html
-
-Хаб на Хабре: https://habr.com/ru/hub/lua/
+- [Официальный сайт и документация](https://www.lua.org/)
+- [Lua за 15 минут](https://habr.com/ru/post/184538/)
+- [Learn Lua](http://tylerneylon.com/a/learn-lua/)
+- [Хороший мануал по Lua на русском](https://docs.geoscan.aero/ru/master/programming/lua/lua_main.html)
+- [Хаб на Хабре](https://habr.com/ru/hub/lua/)
 
 ### Erlang
+- [Официальный сайт и документация](https://www.erlang.org/)
+- [Краткое руководство на CoderLessons](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/vyuchit-erlang/erlang-kratkoe-rukovodstvo)
+- [Руководство по программированию на языке Erlang](https://pessim50.ucoz.ru/Erlang.pdf)
+- [Специфика Erlang](https://eax.me/erlang-is-specific/)
 
-Официальный сайт и документация: https://www.erlang.org/
+# Сервера приложений
+### NATS
+- [Официальный сайт и документация](https://nats.io/)
 
-Краткое руководство на CoderLessons: https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/vyuchit-erlang/erlang-kratkoe-rukovodstvo
+### Redis
+- [Официальный сайт и документация](https://redis.io/), Redis is an open source in-memory data structure store, used as a database, cache, and message broker
+- [Маленькая книга о Redis](https://3s.group/upload/iblock/890/890258c1a79e7154773b210ea701b184.pdf)
+- [Redis для начинающих](https://webdevblog.ru/redis-dlya-nachinajushhij/)
+- [Вводная по Redis на AWS](https://aws.amazon.com/ru/redis/)
+- [Шпаргалка по Redis на Хабре](https://habr.com/ru/post/204354/)
+- [Redis в Python](https://python-scripts.com/redis), полная документация на примерах
+- [Redis Queue в Python](https://khashtamov.com/ru/python-rq-howto/)
 
-Руководство по программированию на языке Erlang: https://pessim50.ucoz.ru/Erlang.pdf
+### Memcached
+- [Официальный сайт и документация](https://memcached.org/), Memcached is a distributed memory object caching system
+- [Маленькая вводная по Memcached](https://habr.com/ru/post/42607/)
+- [Описание от AWS](https://aws.amazon.com/ru/memcached/), сравнение с Redis
 
-Специфика:
-> https://eax.me/erlang-is-specific/
-> 
-> https://habr.com/ru/post/50028/
+### RabbitMQ
+- [Официальный сайт и документация](https://www.rabbitmq.com/), RabbitMQ message broker
+- [Введение в RabbitMQ](https://habr.com/ru/post/488654/)
+- [Установка и настройка RabbitMQ в MacOS](https://russianblogs.com/article/91201405100/)
+- [Коротко о работе с RabbitMQ из Python](https://habr.com/ru/post/434510/)
+- [Pika](https://pika.readthedocs.io/en/stable/index.html), pure Python implementation of the AMQP 0-9-1 protocol
 
-# Сервера приложений и очередей
+### Celery
+- [Официальный сайт и документация](http://celeryproject.org/), Celery async message queue
+- [GitHub](https://github.com/celery/celery)
+- [Введение в Celery](https://docs.celeryproject.org/en/stable/getting-started/introduction.html)
+- [Celery - лучшие практики](https://habr.com/ru/post/269347/)
+- [Celery - начинаем правильно](https://khashtamov.com/ru/celery-best-practices/)
+- [50 оттенков Celery](https://habr.com/ru/company/oleg-bunin/blog/433476/)
+- [Celery Python](https://dev-gang.ru/article/celery-python-osnovy-i-primery-ba4pn1pyb9/), основы и примеры
+- [3 кейса для использования Celery в Django-приложении](https://habr.com/ru/post/461775/)
+- [Django и Celery](https://django.fun/tutorials/django-i-celery-1-ustanovka/), в связке
+- [Пакет django-celery](https://github.com/adilkhash/django-celery)
+- [Flask & Celery](https://chel-center.ru/python-yfc/2021/05/12/asinhronnye-zadachi-s-celery-v-python/), Асинхронные задачи с Celery в Python
+- [Flower](https://github.com/mher/flower), web based tool for monitoring and administrating Celery clusters:
+
+Автоматический веб-скрапинг с помощью Python и Celery:
+- [Часть 1](https://www.internet-technologies.ru/articles/sozdanie-skrapera-rss-kanala-s-pomoschyu-python.html)
+- [Часть 2](https://www.internet-technologies.ru/articles/avtom-veb-skraping-s-pom-python-i-celery.html#header-55486-5)
+- [Часть 3](https://www.internet-technologies.ru/articles/sozd-priloz-parsinga-veb-stranic-python.html)
+
+### Tarantool
+- [Официальный сайт и документация](https://www.tarantool.io/), Tarantool, платформа in-memory вычислений
+
+# Библиотеки и фреймворки
+### Telegram
+
+Управление ботами в Telegram:
+- [Telegram на русском](https://tlgrm.ru/blog), очень много всякой информации
+- [Telegram-боты](https://tlgrm.ru/docs/bots#botfather), информация для разработчиков
+- [Модуль Telegram](https://vc.ru/services/278869-modul-telegram-sozdanie-chat-bota-i-kanala-minimalnye-nastroyki-komponentov), создание чат-бота и канала, минимальные настройки компонентов
+- [Всё, о чём должен знать разработчик Телеграм-ботов](https://habr.com/ru/post/543676/)
+- [Пишем ботов для Telegram на языке Python](https://mastergroosha.github.io/telegram-tutorial/)
+- [Неплохой разбор полетов с ботами для Telegram](https://habr.com/ru/company/ods/blog/462141/)
+- [Python telegram.ext package](https://python-telegram-bot.readthedocs.io/en/stable/telegram.ext.html_
+- [Лимиты, существующие в Telegram](https://www.vamtlgrm.com/limity-sushhestvuyushhie-v-telegram/)
+
+AIOgram async framework:
+- [AIOgram GitHub](https://github.com/aiogram/aiogram)
+- [Официальная документация по AIOgram](https://docs.aiogram.dev/en/latest/)
+- [Быстрый старт]https://surik00.gitbooks.io/aiogram-lessons/content/chapter1.html)
+- [Telegram-бот на Python за полчаса с aiogram](https://tproger.ru/articles/telegram-bot-create-and-deploy/)
+- [Знакомство с AIOgram](https://mastergroosha.github.io/telegram-tutorial-2/quickstart/)
+
+Платежи в Telegram:
+- [Подключение оплат](https://vc.ru/dev/240195-kak-nastroit-priem-platezhey-2-0-v-telegram-za-5-chasov)
+- [Как настроить прием платежей 2.0 в Telegram за 5 часов](https://vc.ru/dev/240195-kak-nastroit-priem-platezhey-2-0-v-telegram-za-5-chasov)
+
+### Django
+- [Официальный сайт и документация](https://www.djangoproject.com/)
+- [Документация от Mozilla](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django)
+- [Исчерпывающая книга про Django](https://djbook.ru/rel3.0/), неплохая документация на русском
+- [DJBook](https://djbook.ru/), и тут всего остального про Django навалом
+- [Хаб по Django на Хабре](https://habr.com/ru/hub/django/)
+- [Django fun](https://django.fun/)
+- [Статьи про Django](https://django.fun/tutorials/)
+
+### Flask
+- [Официальный сайт и документация](https://flask.palletsprojects.com/en/2.0.x/)
+- [Русский перевод документации Flask](https://flask-russian-docs.readthedocs.io/ru/latest/)
+- [Учебник по Flask на Habr](https://habr.com/ru/post/193242/)
+
+### Pyramid
+- [Официальный сайт и документация](https://trypyramid.com/)
+- [Руководство на Habr](https://habr.com/ru/post/135916/)
+- [Еще доки](https://docs.pylonsproject.org/projects/pyramid/en/latest/index.html)
+
+### Tornado
+- [Официальный сайт и документация](https://www.tornadoweb.org/en/stable/)
+- [Небольшая вводная](https://habr.com/ru/sandbox/27705/)
+
+### Docker
+- [Официальная документация](https://docs.docker.com/)
+- [Быстрый старт](https://tproger.ru/translations/how-to-start-using-docker/)
+- [Полное практическое руководство по Docker](https://habr.com/ru/post/310460/), на русском
+
+# Frontend
+### React.js
+- [Learn React.js](https://learn-reactjs.ru/home), полное руководство по React.js
+
+### Go Hugo:
+- [Creating Hugo Themes](https://draft.dev/learn/creating-hugo-themes)
+- [Create Your Own Hugo Theme](https://www.youtube.com/watch?v=wcMqrb3v2SM), большое полное видео
+- [Легкое создание сайтов на Hugo](https://code.tutsplus.com/ru/tutorials/make-creating-websites-fun-again-with-hugo-the-static-website-generator-written-in-go--cms-27319)
+
+### Подготовка графики
+-   [Squoosh](https://squoosh.app/), приложение, CLI и API для оптимизации графики;
+-   [SVG URL Encoder](https://yoksel.github.io/url-encoder/ru/), кодирует SVG в URL-строку, чтобы использовать его в `background` без base64
+-   [SVG OMG](https://jakearchibald.github.io/svgomg/), оптимизатор SVG;
+-   [Social Image Preview](https://socialsharepreview.com/), предпросмотрщик изображений для соцсетей
+-   [Facebook Debug](https://developers.facebook.com/tools/debug/), дебагер соц-изображений для Facebook
+- [Figmachine](https://www.figmachine.com/), Convert Figma to React Code
+
+### HTML и доступность
+- [HTML Tutorials](https://www.w3schools.com/html/)
+- [Документация от Mozilla](https://developer.mozilla.org/ru/docs/Web/HTML)
+- [Справочник по HTML](http://htmlbook.ru/html)
+- [Emmet](https://www.emmet.io/), генератор HTML-кода из «CSS-селекторов»
+- [Can I Include](https://caninclude.glitch.me/), ответит на вопрос «Можно ли класть один тег в другой?»
+- [HTML head](https://html-head.ru/), поможет найти нужный элемент для `<head>` страницы
+- [Logical Content Flow](https://defaced.dev/tools/logical-content-flow/), найдёт проблемы с заголовками, их порядком и отображением
+- [Better Mobile Inputs](https://better-mobile-inputs.netlify.app/), поможет подобрать `<input>` и атрибуты для него так, чтобы им было удобно пользоваться на мобильных
+- [Weblind](https://weblind.ru/), рекомендации по разработке сайтов для людей с нарушениями зрения
+- [Inclusive Components](https://inclusive-components.design/), примеры реализации слайдеров, аккордеонов и других компонентов с упором на доступность
+- [Axe](https://www.deque.com/axe/), браузерный плагин для комплексной проверки доступности страниц
+- [Good Email Code](https://www.goodemailcode.com/), справочник и набор рекомендаций для пуленепробиваемой вёрстки писем
+- [How to Favicon in 2021](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs), статья-чеклист о том, как добавлять фавиконку на сайт без лишнего кода
+- [W3C Validator](https://validator.w3.org/nu/#textarea), валидатор HTML-кода
+
+### HTML5
+- [Справочник по HTML5](https://html5book.ru/html-html5/)
+- [Погружение в HTML5](http://htmlbook.ru/html5)
+- [Различия меду HTML(4) и HTML5](https://www.hostinger.ru/rukovodstva/chto-takoe-html-i-ih-razlichiya)
+
+### Стилизация и CSS
+- [CSS Tutorials](https://www.w3schools.com/css/default.asp)
+- [Документация от Mozilla](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [CSS для начинающих](https://ru.code-basics.com/languages/css)
+- [Самоучитель CSS](http://htmlbook.ru/samcss)
+- [Can I Use](https://caniuse.com/), поможет проверить браузерную поддержку свойства
+- [Can I Use CMD](https://github.com/sgentle/caniuse-cmd), CLI для Can I Use;
+- [Nth Tester](https://css-tricks.com/examples/nth-child-tester/), поможет проверить, так ли работает ваш `nth-child` селектор
+- [Flexbox Playground](https://codepen.io/enxaneta/full/adLPwv/), визуализирует работу флекс-свойств
+- [Grid by Example](https://gridbyexample.com/examples/), шпаргалка по CSS grid;
+- [Grid Lover](https://www.gridlover.net/try), конструктор вертикального ритма и отступов для заголовков и параграфов
+- [Specificity Calc](https://specificity.keegan.st/), калькулятор специфичности селекторов
+- [Colord](https://colord.omgovich.ru/), конвертер цветов между разными цветовыми схемами
+- [CSS Gradient](https://cssgradient.io/), конструктор CSS градиентов
+- [Easings](https://easings.net/), справочник по easing-функциям с примерами
+- [Cubic Bezier](https://cubic-bezier.com/#.87,0,.13,1), конструктор и редактор кривых Безье
+- [CSS Paterns](https://projects.verou.me/css3patterns/), коллекция фоновых узоров на чистом CSS
+- [CSS Shapes](https://css-tricks.com/the-shapes-of-css/), набор часто используемых фигур на чистом CSS
+- [CSS Triggers](https://csstriggers.com/), подскажет, какие свойства запускают layout, paint и composite
+
+### Браузерные расширения Chrome и Firefox:
+- [Как посмотреть исходный код любого расширения в браузере](https://mipped.com/polezno/9742-kak-posmotret-ishodnyy-kod-lyubogo-rasshireniya-v-brauzere.html)
+
+### Bootstrap
+- [Официальный сайт и документация](https://getbootstrap.com/)
+- [Создание быстрых отзывчивых сайтов с Bootstrap](https://bootstrap-4.ru/), документация на русском
+
+### Material UI
+- [Официальный сайт и документация](https://mui.com/)
+- [Reactjs, Material-UI with JSS])(https://habr.com/ru/post/492378/), крайткий гайд
+- [MUI React templates & tools satore](https://material-ui.com/store/)
+- [Material Design](https://material.io/)
+- [Material Design Components](https://material.io/components)
+
+### UX
+- [UX Club](https://www.facebook.com/groups/136827946465842), самое большое российское коммьюнити по UX
+
+# Backend
+Подробный roadmap по backend технологиям есть в этом репозитарии: https://github.com/bzick/oh-my-backend
+
+Часть материалов из данного репозитария скопировано сюда.
 
 ### Node.js
-
-Официальный сайт и документация: https://nodejs.org/
-
-"Официальные" руководства: https://nodeguide.ru/doc/
-
-Руководство на Habr: https://habr.com/ru/company/ruvds/blog/422893/
-
-Сайт для разработчиков Node.js: https://nodejsdev.ru/
-
-Полная версия руководства на Habr + PDF: https://habr.com/ru/company/ruvds/blog/428576/
-
-Руководство на Metalint: https://metanit.com/web/nodejs/
-
-Управление версиями Node.js и NPM с помощью NVM: https://habr.com/ru/company/timeweb/blog/541452/
-
-Using Node in JetBrains WebStorm: https://www.jetbrains.com/help/webstorm/developing-node-js-applications.html#ws_node_version
+- [Официальный сайт и документация](https://nodejs.org/)
+- [Официальные руководства](https://nodeguide.ru/doc/)
+- [Руководство по Node.js на Habr](https://habr.com/ru/company/ruvds/blog/422893/)
+- [Полная версия руководства на Habr](https://habr.com/ru/company/ruvds/blog/428576/) + PDF
+- [Сайт для разработчиков Node.js](https://nodejsdev.ru/), на русском
+- [Руководство на Metalint](https://metanit.com/web/nodejs/)
+- [Управление версиями Node.js и NPM](https://habr.com/ru/company/timeweb/blog/541452/), с помощью NVM
+- [Using Node in JetBrains WebStorm](https://www.jetbrains.com/help/webstorm/developing-node-js-applications.html#ws_node_version)
 
 Книги:
 
@@ -476,492 +465,140 @@ Using Node in JetBrains WebStorm: https://www.jetbrains.com/help/webstorm/develo
 >
 > https://habr.com/ru/company/ruvds/blog/428576/
 
-Express:
+Express Framework:
 
-> Официальный сайт и документация: https://expressjs.com/ru/
-> 
-> GitHub: https://github.com/expressjs/express
+- [Официальный сайт и документация](https://expressjs.com/ru/)
+- [Руководство по Express от Mozilla](https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs)
+
+- [Fastify](https://www.fastify.io/), краткий обзор: https://habr.com/ru/post/555668/
+
+- [Async Framework](https://caolan.github.io/async/v3/docs.html) 
+- [Руководство по Async](https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async), от Mozilla
+
+- [Lodash](https://lodash.com/docs/), краткий обзор: https://habr.com/ru/post/217515/
+
+- [Node-fetch](https://www.npmjs.com/package/node-fetch), XMLHttpRequest emplementation libraru
+- [Chalk](https://github.com/chalk/chalk), раскраска терминала:
+- [Debug](https://developer.ibm.com/articles/intro-to-the-nodejs-debug-module/)
+
+- Puppeteer - скрапинг web-сайтов:
+- https://github.com/puppeteer/puppeteer 
+- https://habr.com/ru/company/oleg-bunin/blog/421137/
+- https://habr.com/ru/company/ruvds/blog/341348/
+- https://habr.com/ru/post/413547/
+
+- [Lerna](https://github.com/lerna/lerna), A tool for managing JavaScript projects with multiple packages
+
+- Модули node для работы с SQLite:
+
+- https://github.com/grumdrig/node-sqlite
+- https://github.com/mapbox/node-sqlite3
+- https://github.com/grumdrig/node-sqlite
+- https://www.npmjs.com/package/better-sqlite3
+- [Что выбрать](https://coderoad.ru/14355004/%D0%A7%D1%82%D0%BE-SQLite-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D1%81-nodejs)
+- Визуализация SQLite в Node.js: https://habr.com/ru/company/vdsina/blog/527146/
+
+- [Примеры работы Node.js с MongoDB](https://nodejsdev.ru/doc/mongodb/)
+
+### Backend - разное
+- [Серверное программирование web-сайтов](https://developer.mozilla.org/ru/docs/Learn/Server-side), официальные рекомендации от Mozilla
+
+- [Google Translate API](https://cloud.google.com/translate)
+
+- [Google Language API](https://cloud.google.com/natural-language):
+> API является платным.
 >
-> NPM: https://www.npmjs.com/package/express
+> Обсуждение автоматического определения языков: https://habr.com/ru/post/52239/
 >
-> Руководство от Mozilla: https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs
-
-Fastify:
-
-> Официальный сайт и документация: https://www.fastify.io/
->
-> Обзор: https://habr.com/ru/post/555668/
-
-Async:
-
-> https://caolan.github.io/async/v3/docs.html
-> 
-> Руководство от Mozilla: https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async
-
-Lodash:
-
-> https://lodash.com/docs/
-> 
-> https://github.com/lodash/lodash
->
-> https://www.npmjs.com/package/lodash
->
-> https://habr.com/ru/post/217515/
-
-Node-fetch:
-
-> https://www.npmjs.com/package/node-fetch
-
-Chalk - раскраска терминала:
-
-> https://github.com/chalk/chalk
-
-Debug:
-
-> https://www.npmjs.com/package/debug
->
-> https://developer.ibm.com/articles/intro-to-the-nodejs-debug-module/
-
-Puppeteer - скрапинг web-сайтов:
-
-> https://github.com/puppeteer/puppeteer
->
-> https://www.npmjs.com/package/puppeteer-full-page-screenshot
-> 
-> https://habr.com/ru/company/oleg-bunin/blog/421137/
->
-> https://habr.com/ru/company/ruvds/blog/341348/
->
-> https://habr.com/ru/post/413547/
-
-Lerna:
-
-> https://github.com/lerna/lerna
-
-Модули node для работы с SQLite:
-
-> https://github.com/grumdrig/node-sqlite
->
-> https://github.com/mapbox/node-sqlite3
->
-> https://github.com/grumdrig/node-sqlite
-> 
-> https://www.npmjs.com/package/better-sqlite3
-> 
-> Что выбрать: https://coderoad.ru/14355004/%D0%A7%D1%82%D0%BE-SQLite-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D1%81-nodejs
-> 
-> Визуализация SQLite в Node.js: https://habr.com/ru/company/vdsina/blog/527146/
-
-Примеры работы с MongoDB: https://nodejsdev.ru/doc/mongodb/
-
-### NATS
-
-https://nats.io/
-
-### Redis - Open source in-memory data structure store, used as a database, cache, and message broker
-
-Официальный сайт и документация: https://redis.io/
-
-Вводная на AWS: https://aws.amazon.com/ru/redis/
-
-Redis для начинающих: https://webdevblog.ru/redis-dlya-nachinajushhij/
-
-Шпаргалка по Redis на Хабре: https://habr.com/ru/post/204354/
-
-Маленькая книга о Redis: https://3s.group/upload/iblock/890/890258c1a79e7154773b210ea701b184.pdf
-
-Redis в Python - полная документация на примерах: https://python-scripts.com/redis
-
-Redis Queue в Python: https://khashtamov.com/ru/python-rq-howto/
-
-### Memcached - a distributed memory object caching system
-
-Официальный сайт и документация: https://memcached.org/
-
-Маленькая вводная: https://habr.com/ru/post/42607/
-
-Описание от AWS, сравнение с Redis: https://aws.amazon.com/ru/memcached/
-
-### RabbitMQ message broker
-
-Официальный сайт и документация: https://www.rabbitmq.com/
-
-Введение в RabbitMQ: https://habr.com/ru/post/488654/
-
-Установка и настройка RabbitMQ в MacOS: https://russianblogs.com/article/91201405100/
-
-Коротко о работе с RabbitMQ из Python: https://habr.com/ru/post/434510/
-
-Pika - pure Python implementation of the AMQP 0-9-1 protocol: https://pika.readthedocs.io/en/stable/index.html
-
-### Celery async message queue
-
-Официальный сайт и документация: http://celeryproject.org/
-
-GitHub: https://github.com/celery/celery
-
-Введение в Celery: https://docs.celeryproject.org/en/stable/getting-started/introduction.html
-
-Автоматический веб-скрапинг с помощью Python и Celery:
-часть 1 - https://www.internet-technologies.ru/articles/sozdanie-skrapera-rss-kanala-s-pomoschyu-python.html
-часть 2 - https://www.internet-technologies.ru/articles/avtom-veb-skraping-s-pom-python-i-celery.html#header-55486-5
-часть 3 - https://www.internet-technologies.ru/articles/sozd-priloz-parsinga-veb-stranic-python.html
-
-Celery - лучшие практики: https://habr.com/ru/post/269347/
-
-Celery - начинаем правильно: https://khashtamov.com/ru/celery-best-practices/
-
-50 оттенков Celery: https://habr.com/ru/company/oleg-bunin/blog/433476/
-
-Celery Python - jcyjds b ghbvths: https://dev-gang.ru/article/celery-python-osnovy-i-primery-ba4pn1pyb9/
-
-3 кейса для использования Celery в Django-приложении: https://habr.com/ru/post/461775/
-
-Django и Celery (в связке): https://django.fun/tutorials/django-i-celery-1-ustanovka/
-
-Пакет django-celery: https://github.com/adilkhash/django-celery
-
-Flask & Celery - Асинхронные задачи с Celery в Python: https://chel-center.ru/python-yfc/2021/05/12/asinhronnye-zadachi-s-celery-v-python/
-
-Flower - web based tool for monitoring and administrating Celery clusters: https://github.com/mher/flower
-
-### Tarantool - платформа in-memory вычислений
-
-Официальный сайт и документация: https://www.tarantool.io/
-
-# Библиотеки и фреймворки
-
-Подробный roadmap по backend технологиям есть в этом репозитарии: https://github.com/bzick/oh-my-backend
-
-Часть материалов из данного репозитария скопировано сюда.
-
-### Серверное программирование web-сайтов - официальные рекомендации от Mozilla:
-
-> https://developer.mozilla.org/ru/docs/Learn/Server-side
-
-### Telegram
-
-Управление ботами в Telegram:
-
-> Telegram на русском (очень много всякой информации): https://tlgrm.ru/blog
-> 
-> Боты: информация для разработчиков: https://tlgrm.ru/docs/bots#botfather
-> 
-> Модуль Telegram: создание чат-бота и канала, минимальные настройки компонентов: https://vc.ru/services/278869-modul-telegram-sozdanie-chat-bota-i-kanala-minimalnye-nastroyki-komponentov
->
-> Всё, о чём должен знать разработчик Телеграм-ботов: https://habr.com/ru/post/543676/
-> 
-> Пишем ботов для Telegram на языке Python: https://mastergroosha.github.io/telegram-tutorial/
->
-> Неплохой разбор полетов с ботами для Telegram: https://habr.com/ru/company/ods/blog/462141/
-> 
-> Python telegram.ext package: https://python-telegram-bot.readthedocs.io/en/stable/telegram.ext.html
-> 
-> Создание бота для Telegram без навыков программирования: https://vc.ru/selectel/22593-howto-bot-selectel
-
-Лимиты, сущевствующие в Telegram: https://www.vamtlgrm.com/limity-sushhestvuyushhie-v-telegram/
-
-AIOgram async framework:
-
-> GitHub: https://github.com/aiogram/aiogram
-> 
-> Официальная документация: https://docs.aiogram.dev/en/latest/
-> 
-> Быстрый старт: https://surik00.gitbooks.io/aiogram-lessons/content/chapter1.html
-> 
-> Telegram-бот на Python за полчаса с aiogram: https://tproger.ru/articles/telegram-bot-create-and-deploy/
-> 
-> Знакомство с AIOgram: https://mastergroosha.github.io/telegram-tutorial-2/quickstart/
-> 
-> Подключение оплат: https://vc.ru/dev/240195-kak-nastroit-priem-platezhey-2-0-v-telegram-za-5-chasov
-
-Как настроить прием платежей 2.0 в Telegram за 5 часов: https://vc.ru/dev/240195-kak-nastroit-priem-platezhey-2-0-v-telegram-za-5-chasov
-
-### Go Hugo:
-
-Creating Hugo Themes: https://draft.dev/learn/creating-hugo-themes
-
-Create Your Own Hugo Theme (большое полное видео): https://www.youtube.com/watch?v=wcMqrb3v2SM
-
-Легкое создание сайтов на Hugo: https://code.tutsplus.com/ru/tutorials/make-creating-websites-fun-again-with-hugo-the-static-website-generator-written-in-go--cms-27319
-
-### Docker
-
-> Официальная документация: https://docs.docker.com/
-> 
-> Старт: https://tproger.ru/translations/how-to-start-using-docker/
-> 
-> Полное практическое руководство на русском: https://habr.com/ru/post/310460/
-
-### React
-
-> Learn React.js - Полное руководство: https://learn-reactjs.ru/home
->
-> Figmachine - Convert Figma to React Code: https://www.figmachine.com/
-
-### Django
-
-Официальный сайт и документация: https://www.djangoproject.com/
-
-Документация от Mozilla: https://developer.mozilla.org/ru/docs/Learn/Server-side/Django
-
-Исчерпывающая книга про Django, неплохая документация на русском: https://djbook.ru/rel3.0/
-
-И тут всего остального про Django навалом: https://djbook.ru/
-
-Хаб по Django на Хабре: https://habr.com/ru/hub/django/
-
-Django fun:
-
-> https://django.fun/
-> 
-> Статьи о Django: https://django.fun/tutorials/
-
-### Браузерные расширения Chrome и Firefox:
-
-> Как посмотреть исходный код любого расширения в браузере: https://mipped.com/polezno/9742-kak-posmotret-ishodnyy-kod-lyubogo-rasshireniya-v-brauzere.html
+> На данный момент самый "крутой" способ определить язык и сделать относительно точный перевод - использовать translate.google.com через Puppeteer или другую библиотеку, подставляя нужные значения. Еще интересный вариант - переводить с помощью функции GOOGLETRANSLATE в таблице Google: https://shagabutdinov.ru/translate_sheets/
+
+### Web Scraping
+- [GetData.io Web Scraper](https://chrome.google.com/webstore/detail/web-scraper-getdataio/)
+- [OSINTGram](https://telegra.ph/OSINTGRAM-Sobiraem-dannye-iz-Instagram-12-04), собираем данные из Instagram
+- [Web Scrapping with Go](https://www.scrapingbee.com/blog/web-scraping-go/)
 
 # Мобильная разработка
-
 ### iOS
 
 Objective C:
-
-> Официальная документация от Apple: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
-> 
-> Objective C с нуля: https://habr.com/ru/post/107126/
+- [Официальная документация от Apple](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+- [Objective C с нуля: https://habr.com/ru/post/107126/]
 
 Swift:
-
-> Официальный сайт и документация: https://www.swift.org/
-> 
-> Официальная документация от Apple: https://developer.apple.com/documentation/swift
-> 
-> Хаб на Habr: https://habr.com/ru/hub/swift/
+- [Официальный сайт и документация](https://www.swift.org/)
+-[Официальная документация от Apple](https://developer.apple.com/documentation/swift)
+- [Хаб на Habr](https://habr.com/ru/hub/swift/)
 
 Cocoa:
-
-> Официальная документация от Apple: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html
-> 
-> Учебник на русском: http://macbug.ru/cocoa.php
-> 
-> Хаб на Habr: https://habr.com/ru/hub/cocoa/
+- [Официальная документация от Apple](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html)
+- [Учебник на русском](http://macbug.ru/cocoa.php)
+- [Хаб на Habr](https://habr.com/ru/hub/cocoa/)
 
 ### Android
 
-Android Developers Community: https://developer.android.com/
-
-Android Official Documentation: https://developer.android.com/
-
-Android Studio: https://developer.android.com/studio
-
-Android JetPack: https://developer.android.com/jetpack
-
-Android.com на русском: https://www.android.com/intl/ru_ru/
-
-Хаб на Habr: https://habr.com/ru/hub/android_dev/
+Android Core:
+- [Android Official Documentation](https://developer.android.com/)
+- [Android Developers Community](https://developer.android.com/)
+- [Android Studio](https://developer.android.com/studio)
+- [Android JetPack](https://developer.android.com/jetpack)
+- [Про Android на русском](https://www.android.com/intl/ru_ru/), Android.com
+- [Хаб на Habr](https://habr.com/ru/hub/android_dev/)
 
 Kotlin:
-
-> Develop Android apps with Kotlin (official): https://developer.android.com/kotlin
+- [Develop Android apps with Kotlin (official)](https://developer.android.com/kotlin)
 
 # Популярные IDE
 
 ### Cемейство IDE от JetBrains
-
-Официальный сайт и документация: https://www.jetbrains.com/
+- [Официальный сайт и документация](https://www.jetbrains.com/)
 
 ### Eclipse IDE
-
-Официальный сайт и документация: https://www.eclipse.org/ide/
-
-# Облачные платформы и API
-
-### Google Translate API:
-
-Официальная документация: https://cloud.google.com/translate
-
-API является платным, но есть множество обходных путей:
-
-> https://qna.habr.com/q/16856
->
-> https://coderoad.ru/43155233/Google-Translate-API-%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-Google-Translate-API-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9
-
-### Google Language API:
-
-https://cloud.google.com/natural-language
-
-API является платным.
-
-Обсуждение автоматического определения языков: https://habr.com/ru/post/52239/
-
-На данный момент самый "крутой" способ орпделить язык и сделать относительно точный перевод - использовать translate.google.com через Puppeteer или другую библиотеку, подставляя нужные значения.
-Еще интересный вариант - переводить с помощью функции GOOGLETRANSLATE в таблице Google: https://shagabutdinov.ru/translate_sheets/
-
-# HTML, CSS, Bootstrap, Material UI, UX
-
-### Подготовка графики
-
--   [Squoosh](https://squoosh.app/), приложение, CLI и API для оптимизации графики;
--   [SVG URL Encoder](https://yoksel.github.io/url-encoder/ru/), кодирует SVG в URL-строку, чтобы использовать его в `background` без base64;
--   [SVG OMG](https://jakearchibald.github.io/svgomg/), оптимизатор SVG;
--   [Social Image Preview](https://socialsharepreview.com/), предпросмотрщик изображений для соцсетей;
--   [Facebook Debug](https://developers.facebook.com/tools/debug/), дебагер соц-изображений для Facebook.
-
-### HTML
-
-HTML Tutorials: https://www.w3schools.com/html/
-
-Документация от Mozilla: https://developer.mozilla.org/ru/docs/Web/HTML
-
-Справочник по HTML: http://htmlbook.ru/html
-
-### HTML5
-
-Справочник по HTML5: https://html5book.ru/html-html5/
-
-Погружение в HTML5: http://htmlbook.ru/html5
-
-Различия меду HTML(4) и HTML5: https://www.hostinger.ru/rukovodstva/chto-takoe-html-i-ih-razlichiya
-
-### HTML и доступность
-
--   [Emmet](https://www.emmet.io/), генератор HTML-кода из «CSS-селекторов»;
--   [Can I Include](https://caninclude.glitch.me/), ответит на вопрос «Можно ли класть один тег в другой?»;
--   [HTML head](https://html-head.ru/), поможет найти нужный элемент для `<head>` страницы;
--   [Logical Content Flow](https://defaced.dev/tools/logical-content-flow/), найдёт проблемы с заголовками, их порядком и отображением;
--   [Better Mobile Inputs](https://better-mobile-inputs.netlify.app/), поможет подобрать `<input>` и атрибуты для него так, чтобы им было удобно пользоваться на мобильных;
--   [Weblind](https://weblind.ru/), рекомендации по разработке сайтов для людей с нарушениями зрения;
--   [Inclusive Components](https://inclusive-components.design/), примеры реализации слайдеров, аккордеонов и других компонентов с упором на доступность;
--   [Axe](https://www.deque.com/axe/), браузерный плагин для комплексной проверки доступности страниц;
--   [Good Email Code](https://www.goodemailcode.com/), справочник и набор рекомендаций для пуленепробиваемой вёрстки писем;
--   [How to Favicon in 2021](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs), статья-чеклист о том, как добавлять фавиконку на сайт без лишнего кода;
--   [W3C Validator](https://validator.w3.org/nu/#textarea), валидатор HTML-кода.
-
-### Подготовка графики
-
--   [Squoosh](https://squoosh.app/), приложение, CLI и API для оптимизации графики;
--   [SVG URL Encoder](https://yoksel.github.io/url-encoder/ru/), кодирует SVG в URL-строку, чтобы использовать его в `background` без base64;
--   [SVG OMG](https://jakearchibald.github.io/svgomg/), оптимизатор SVG;
--   [Social Image Preview](https://socialsharepreview.com/), предпросмотрщик изображений для соцсетей;
--   [Facebook Debug](https://developers.facebook.com/tools/debug/), дебагер соц-изображений для Facebook.
-
-### Стилизация и CSS
-
-CSS Tutorials: https://www.w3schools.com/css/default.asp
-
-Документация от Mozilla: https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics
-
-Самоучитель CSS: http://htmlbook.ru/samcss
-
-CSS для начинающих: https://ru.code-basics.com/languages/css
-
--   [Can I Use](https://caniuse.com/), поможет проверить браузерную поддержку свойства;
--   [Can I Use CMD](https://github.com/sgentle/caniuse-cmd), CLI для Can I Use;
--   [Nth Tester](https://css-tricks.com/examples/nth-child-tester/), поможет проверить, так ли работает ваш `nth-child` селектор;
--   [Flexbox Playground](https://codepen.io/enxaneta/full/adLPwv/), визуализирует работу флекс-свойств;
--   [Grid by Example](https://gridbyexample.com/examples/), шпаргалка по CSS grid;
--   [Grid Lover](https://www.gridlover.net/try), конструктор вертикального ритма и отступов для заголовков и параграфов;
--   [Specificity Calc](https://specificity.keegan.st/), калькулятор специфичности селекторов;
--   [Colord](https://colord.omgovich.ru/), конвертер цветов между разными цветовыми схемами;
--   [CSS Gradient](https://cssgradient.io/), конструктор CSS градиентов;
--   [Easings](https://easings.net/), справочник по easing-функциям с примерами;
--   [Cubic Bezier](https://cubic-bezier.com/#.87,0,.13,1), конструктор и редактор кривых Безье;
--   [CSS Patterns](https://projects.verou.me/css3patterns/), коллекция фоновых узоров на чистом CSS;
--   [CSS Shapes](https://css-tricks.com/the-shapes-of-css/), набор часто используемых фигур на чистом CSS;
--   [CSS Triggers](https://csstriggers.com/), подскажет, какие свойства запускают layout, paint и composite.
-
-### Bootstrap
-
-Официальный сайт и документация: https://getbootstrap.com/
-
-Создание быстрых отзывчивых сайтов с Bootstrap. Документация на русском: https://bootstrap-4.ru/
-
-### Material UI
-
-Официальный сайт и документация: https://mui.com/
-
-Reactjs, Material-UI with JSS. Краткий гайд: https://habr.com/ru/post/492378/
-
-MUI React templates & tools satore: https://material-ui.com/store/
-
-Material Design:
-
-> https://material.io/
-> 
-> https://material.io/components
-
-### UX
-
-UX Club - самое большое российское коммьюнити по UX: https://www.facebook.com/groups/136827946465842
+- [Официальный сайт и документация](https://www.eclipse.org/ide/)
 
 # Пентестинг, безопасность и защита
+- [Application Security](https://application.security/free/owasp-top-10), интерактивный чеклист по уязвимостям веб-приложений с объяснениями и рекомендациями к защите
+- [SecurityLab - Soft](https://www.securitylab.ru/software/), огромная подборка всякого разного софта
 
--   [Application Security](https://application.security/free/owasp-top-10), интерактивный чеклист по уязвимостям веб-приложений с объяснениями и рекомендациями к защите;
+"Mac на службе у хакера" - хорошая серия статей для начинающих пентестеров:
 
-### Сервисы поиска исходного кода:
-
-SearchCode: https://searchcode.com/
-
-### Статьи и книги:
-
-### "Mac на службе у хакера" - хорошая серия статей для начинающих пентестеров:
-
-Часть 1 - Шифрование диска: https://www.securitylab.ru/analytics/491107.php
-
-Часть 2 - Создание образа шифрованного диска: https://www.securitylab.ru/analytics/491268.php
-
-Часть 3 - Управление паролями: https://www.securitylab.ru/analytics/491893.php
-
-Часть 4 - Установка iTerm2: https://www.securitylab.ru/analytics/492394.php
-
- Часть 5 - Использование Git: https://www.securitylab.ru/analytics/492395.php
-
-Часть 6 - Настройка Homebrew: https://www.securitylab.ru/analytics/492845.php
-
-Часть 7 - Установка RVM для работы с Ruby: https://www.securitylab.ru/analytics/492846.php
-
-Часть 8 - Установка Kali Linux на виртуальной машине: https://www.securitylab.ru/analytics/492847.php
-
-Часть 9 - Установка Metaspoloit Framework: https://www.securitylab.ru/analytics/492848.php
-
-Часть 10 - Упорядочивание утилит: https://www.securitylab.ru/analytics/492935.php
+- [Часть 1 - Шифрование диска](https://www.securitylab.ru/analytics/491107.php)
+- [Часть 2 - Создание образа шифрованного диска](https://www.securitylab.ru/analytics/491268.php)
+- [Часть 3 - Управление паролями](https://www.securitylab.ru/analytics/491893.php)
+- [Часть 4 - Установка iTerm2](https://www.securitylab.ru/analytics/492394.php)
+- [Часть 5 - Использование Git](https://www.securitylab.ru/analytics/492395.php)
+- [Часть 6 - Настройка Homebrew](https://www.securitylab.ru/analytics/492845.php)
+- [Часть 7 - Установка RVM для работы с Ruby](https://www.securitylab.ru/analytics/492846.php)
+- [Часть 8 - Установка Kali Linux на виртуальной машине](https://www.securitylab.ru/analytics/492847.php)
+- [Часть 9 - Установка Metaspoloit Framework](https://www.securitylab.ru/analytics/492848.php)
+- [Часть 10 - Упорядочивание утилит](https://www.securitylab.ru/analytics/492935.php_
 
 ### Honeypots:
-
-Хорошая вводная статья про инструментарий: https://habr.com/ru/company/alexhost/blog/528796/
+- [Хорошая вводная статья про инструментарий Honeypots](https://habr.com/ru/company/alexhost/blog/528796/)
 
 ### Утилиты
+- [Ciphey](https://github.com/Ciphey/Ciphey), Input encrypted text, get the decrypted text back
 
-Ciphey - Input encrypted text, get the decrypted text back: https://github.com/Ciphey/Ciphey
-
-SecurityLab - Soft: огромная подборка всякого разного софта: https://www.securitylab.ru/software/
-
-Wireshark:
-
-> Официальный сайт и документация: https://www.wireshark.org/
+- Wireshark:
+> - [Официальный сайт и документация](https://www.wireshark.org/)
 >
-> Небольшое руководство и шпаргалка: https://habr.com/ru/post/436226/
+> - [Небольшое руководство и шпаргалка](https://habr.com/ru/post/436226/)
 >
-> Огромное количество инструкций и примеров: https://networkguru.ru/wireshark/
+> - [Огромное количество инструкций и примеров](https://networkguru.ru/wireshark/)
 
-Telnet:
+- Telnet:
+> - [Простые примеры работы с Telnet](https://losst.ru/kak-polzovatsya-telnet)
+>
+> - [Документация по Telnet от Microsoft](https://docs.microsoft.com/ru-ru/windows-server/administration/windows-commands/telnet)
 
-> Простые примеры: https://losst.ru/kak-polzovatsya-telnet
->
-> Документация от Microsoft: https://docs.microsoft.com/ru-ru/windows-server/administration/windows-commands/telnet
+- NMap:
 
-NMap:
-
-> https://nmap.org/npcap/guide/
+> - [Руководство по NMap](https://nmap.org/npcap/guide/)
 >
-> Сканирование через скрипты обнаружения уязвимостей: 
+> - [Vulscan](https://github.com/scipag/vulscan) nmap -sV --script vulners domain.com
 >
->> https://github.com/scipag/vulscan (nmap -sV --script vulners domain.com)
->>
->> https://github.com/vulnersCom/nmap-vulners (nmap -sV --script=vulscan.nse domain.com)
+> - [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) nmap -sV --script=vulscan.nse domain.com
 >
-> Автоматизированный shell: https://github.com/bormaxi8080/nmap-scanner
+> - [Автоматизированный shell для NMap](https://github.com/bormaxi8080/nmap-scanner)
 >
 > Несколько интересных статей:
 >
@@ -971,62 +608,27 @@ NMap:
 >>
 >> https://antiddos.biz/kak-polzovatsya-nmap-dlya-poiska-uyazvimostej-servera/
 >
-> Еще некоторые примеры: https://xakinfo.ru/os/nmap-anonymous/
+> [Еще некоторые примеры](https://xakinfo.ru/os/nmap-anonymous/)
 
 Metasploit Framework:
 
-> https://www.metasploit.com/
->
-> Официальная документация: https://docs.rapid7.com/metasploit/
->
-> Установка: https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers
->
->Обзоры:
+- [Официальный сайт проекта](https://www.metasploit.com/)
+- [Официальная документация](https://docs.rapid7.com/metasploit/)
+- [Установка](https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers)
+- [Гид по Metasploit Framework от SecurityLab](https://www.securitylab.ru/blog/personal/Informacionnaya_bezopasnost_v_detalyah/323370.php_
+- Обзоры:
 > 
->> https://habr.com/ru/company/varonis/blog/528578/
->>
->> https://vc.ru/life/136613-metasploit-framework-kratkoe-prakticheskoe-rukovodstvo
-> 
-> Гид по Metasploit Framework от SecurityLab: https://www.securitylab.ru/blog/personal/Informacionnaya_bezopasnost_v_detalyah/323370.php
-
-theHarvester: https://github.com/laramies/theHarvester
-
-hydra: https://null-byte.wonderhowto.com/how-to/hack-like-pro-crack-online-passwords-with-tamper-data-thc-hydra-0155374/
-
-Nikto (Nikto2): https://cirt.net/Nikto2
-
-### Всякое разное
-Vulners Perimeter Scanner: https://vulners.com/vulners-perimeter-scanner
-
-Log4j Detection: https://github.com/bi-zone/Log4j_Detector
-
-WPScan - мощный фреймворк для пентеста WordPress:
-
-> https://wpscan.com/wordpress-security-scanner
-> 
-> GitHub: https://github.com/wpscanteam/wpscan
+> https://habr.com/ru/company/varonis/blog/528578/
 >
-> https://habr.com/ru/company/alexhost/blog/527612/
+> https://vc.ru/life/136613-metasploit-framework-kratkoe-prakticheskoe-rukovodstvo
 
-Команда dig (domain information groper) - многофункциональный инструмент для опроса DNS-серверов:
-
-> https://andreyex.ru/linux/komandy-linux-i-komandy-shell/kak-ispolzovat-komandu-dig-dlya-zaprosa-dns-v-linux/
->
-> https://greendail.ru/node/474
->
-> https://losst.ru/komanda-dig-v-linux#:~:text=%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20dig%20(domain%20information%20groper,%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0%D0%BC%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B5%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20DNS
-
-# Web Scraping:
-
-GetData.io Web Scraper: https://chrome.google.com/webstore/detail/web-scraper-getdataio/ofncgcgajhgnbkbmkdhbgkoopfbemhfj?hl=ru&ref=hrstack
-
-OSINTGram - собираем данные из Instagram:
-
-> https://telegra.ph/OSINTGRAM-Sobiraem-dannye-iz-Instagram-12-04
->
-> GitHub: https://github.com/Datalux/Osintgram
-
-Web Scrapping with Go: https://www.scrapingbee.com/blog/web-scraping-go/
+### Security Tools & Utilities
+- [theHarvester](https://github.com/laramies/theHarvester, a very simple to use, yet powerful tool and effective tool designed to be used in the early stages of a penetration test or red team engagement
+- [hydra](https://null-byte.wonderhowto.com/how-to/hack-like-pro-crack-online-passwords-with-tamper-data-thc-hydra-0155374/),  most powerfulcrack password tool
+- [Nikto (Nikto2)](https://cirt.net/Nikto2), an Open Source ([GPL](http://www.gnu.org/licenses/licenses.html#GPL)) web server scanner which performs comprehensive tests against web servers for multiple items
+- [Vulners Perimeter Scanner](https://vulners.com/vulners-perimeter-scanner), Vulnerability Assessment Platform
+- [Log4j Detection](https://github.com/bi-zone/Log4j_Detector), on server
+- [WPScan](https://wpscan.com/wordpress-security-scanner), мощный фреймворк для пентеста WordPress, обзор: https://habr.com/ru/company/alexhost/blog/527612/
 
 # Полезные утилиты
 
@@ -1059,23 +661,27 @@ GitHub: https://github.com/esrlabs/chipmunk
 # Интересные репозитарии в Git
 
 # Разное
+-   [You Might Not Need JS](http://youmightnotneedjs.com/), набор фич, некоторые их которых действительно можно сделать без JS;
+-   [HTML DOM](https://htmldom.dev/), набор нативных функций для работы с DOM-деревом;
+-   [Does it Mutate](https://doesitmutate.xyz/), подскажет, какие методы изменяют массив, а какие нет;
+-   [Keycode Info](http://keycode.info/), покажет код нажатой клавиши;
+-   [Tmstmp](https://bespoyasov.ru/tmstmp/), переводит даты в таймштампы и обратно;
+-   [Generating Random Integers](https://stackoverflow.com/a/1527820/3141337), пример генерации случайного целого с подробным объяснением работы;
+-   [Jest Mocking Strategies](https://mercedesbernard.com/blog/jest-mocking-strategies), мои моки в Jest никогда не работают с первого раза;
+-   [Debounce / Throttle](http://demo.nimius.net/debounce_throttle/), показывает разницу между `debounce` и `throttle`;
+-   [Anything to Anything Transformer](https://transform.tools/json-schema-to-openapi-schema), конвертирует что угодно во что угодно;
+
+### Сервисы поиска исходного кода:
+- [SearchCode](https://searchcode.com/)
 
 ### Менеджмент, управление, лидерство, корпоративная культура
-
-Умные и честные заметки от Виталия Шароватова, вынесено в отдельный репозиторий, форк:
-
-https://github.com/bormaxi8080/teamlead
+- [Умные и честные заметки от Виталия Шароватова](https://github.com/bormaxi8080/teamlead), вынесено в отдельный репозиторий, форк
 
 ### Найм, HR и все, что с этим связано
-
-Вынесено в отдельный репозиторий:
-
-https://github.com/bormaxi8080/bormaxi-about-hiring
-
-[Resume.io](https://resume.io/), конструктор CV
+- [Заметки о найме и российскрм HR](https://github.com/bormaxi8080/bormaxi-about-hiring, текст в процессе создания
+- [Resume.io](https://resume.io/), конструктор CV
 
 # Об авторе
-
 Более подробно с моей биографией можно ознакомиться здесь:
 
 > https://www.linkedin.com/in/i-maxi/
