@@ -38,11 +38,8 @@
 ### Основы работы в ОС семейства Linux. Shell и командная строка
 
 - [Advanced Bash Scripting Guide](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)
-
 - [Вводная статья по Kali Linux](https://hackware.ru/?p=2767)
-
 - [Oh My Zsh](https://ohmyz.sh/)- платформа с открытым исходным кодом для управления вашей конфигурацией Zsh. Поставляется в комплекте с тысячами полезных функций, помощников, плагинов, тем.
-
 - [Explain Shell](https://explainshell.com/), объясняет команды терминала и ключи к ним.
 
 Уведомления через Shell:
@@ -53,32 +50,22 @@
 
 ### Git:
 
-Официальный сайт и документация: https://git-scm.com/
-
-Блог: https://github.blog
-
-4 лучших Git-клиента для Mac OS: https://medium.com/os-x-tips-tricks/3-%D0%BB%D1%83%D1%87%D1%88%D0%B8%D1%85-git-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-mac-os-x-9980eaf356b6
-
-Git за полчаса - руководство для начинающих: https://proglib.io/p/git-for-half-an-hour
-
-Интерактивный курс по Git: https://githowto.com/
-
-О файле .gitignore: https://tyapk.ru/blog/post/gitignore
-
-Token authentication requirements for Git operations: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
-
--   [Oh shit! Git](https://ohshitgit.com/), подскажет, что делать, если вы допустили ошибку в гите;
--   [Git Explorer](https://gitexplorer.com/), справочник по командам и возможностям гита;
+- [Официальный сайт и документация](https://git-scm.com/)
+- [Блог GitHub](https://github.blog)
+- [4 лучших Git-клиента для Mac OS](https://medium.com/os-x-tips-tricks/3-%D0%BB%D1%83%D1%87%D1%88%D0%B8%D1%85-git-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-mac-os-x-9980eaf356b6)
+- [Git за полчаса - руководство для начинающих](https://proglib.io/p/git-for-half-an-hour)
+- [Интерактивный курс по Git](https://githowto.com/)
+- [Oh shit! Git](https://ohshitgit.com/), подскажет, что делать, если вы допустили ошибку в гите
+- [Git Explorer](https://gitexplorer.com/), справочник по командам и возможностям гита
+- [О файле .gitignore](https://tyapk.ru/blog/post/gitignore)
+- [Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
 
 ### Markdown, редактура:
 
-Краткое руководство по MD: https://paulradzkov.com/2014/markdown_cheatsheet/
-
-Obsidian - мощный редактор для работы с Markdown:
-
-> Официальный сайт и документация: https://obsidian.md/
-> 
-> Небольшая вводная: https://habr.com/ru/company/macloud/blog/560776/
+- [Краткое руководство по MD](https://paulradzkov.com/2014/markdown_cheatsheet/)
+- Obsidian - мощный редактор для работы с Markdown:
+> [Официальный сайт и документация](https://obsidian.md/)
+> [Небольшая вводная](https://habr.com/ru/company/macloud/blog/560776/)
 
 Grip - утилита для автономного просмотра разметки MD:
 > https://github.com/joeyespo/grip
