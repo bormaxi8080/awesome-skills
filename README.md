@@ -41,10 +41,12 @@
 - [Вводная статья по Kali Linux](https://hackware.ru/?p=2767)
 - [Oh My Zsh](https://ohmyz.sh/)- платформа с открытым исходным кодом для управления вашей конфигурацией Zsh. Поставляется в комплекте с тысячами полезных функций, помощников, плагинов, тем.
 - [Explain Shell](https://explainshell.com/), объясняет команды терминала и ключи к ним.
-Уведомления через Shell:
-- [Linux notify-send](https://ss64.com/bash/notify-send.html) 
-- [Собственные уведомления в Gnome](https://habr.com/ru/post/47892/)
-- [MacOS terminal-notifier](https://github.com/julienXX/terminal-notifier)
+- Уведомления через Shell:
+> - [Linux notify-send](https://ss64.com/bash/notify-send.html) 
+>
+> - [Собственные уведомления в Gnome](https://habr.com/ru/post/47892/)
+>
+> - [MacOS terminal-notifier](https://github.com/julienXX/terminal-notifier)
 
 ### Git:
 
@@ -61,13 +63,11 @@
 ### Markdown, редактура:
 
 - [Краткое руководство по MD](https://paulradzkov.com/2014/markdown_cheatsheet/)
-
-Obsidian - мощный редактор для работы с Markdown:
-- [Официальный сайт и документация](https://obsidian.md/)
-- [Небольшая вводная](https://habr.com/ru/company/macloud/blog/560776/)
-
+- Obsidian - мощный редактор для работы с Markdown:
+> - [Официальный сайт и документация](https://obsidian.md/)
+>
+> - [Небольшая вводная](https://habr.com/ru/company/macloud/blog/560776/)
 - [Grip - утилита для автономного просмотра разметки MD](https://github.com/joeyespo/grip)
-
 - [White Spaces](https://kirillbelyaev.com/s/), список всех существующих пробелов и рекомендации по использованию каждого;
 - [Типограф](https://typograf.github.io/mobile.html), правит пунктуацию, ставит неразрывные пробелы и проч.;
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), справочник по MD;
