@@ -220,7 +220,10 @@
 - [Титус Виттерс, Делай как в Google (Software Engineering in Google)](https://github.com/bormaxi8080/programming-books/blob/main/Other/Software_Engineering_in_Google.pdf)`[pb]`
 
 ### Типы приложений
+
 ### Тестирование
+-[PencilTests](https://github.com/bormaxi8080/PencilTests) `[pb]`, копия моей нашумевшей в свое время на Хабре статьи о тестировании карандаша ))
+
 ### Проблемы приложений и проектирования
 ### Рефакторинг
 ### Антипаттерны
