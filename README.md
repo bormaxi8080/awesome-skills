@@ -248,6 +248,7 @@
 - [Официальный сайт стандарта C++](https://isocpp.org/)
 - [Большой сайт по C++, документация](https://www.cplusplus.com/)
 - [Туториалы](https://www.w3schools.com/cpp/cpp_intro.asp)
+- [Бьерн Страуструп, Язык программирования C++, 2 издание](https://github.com/bormaxi8080/programming-books/blob/main/CPP/straustrup_cpp.pdf) `[pb]`
 - [Кувшинов Д., Язык C++: Основы программирования](https://github.com/bormaxi8080/programming-books/blob/main/CPP/kuvshinov_dr_osipov_si_osnovy_programmirovaniia_iazyk_c_P.pdf) `[pb]`
 
 ### Rust
