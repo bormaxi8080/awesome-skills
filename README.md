@@ -104,22 +104,22 @@
 - [Яблык](https://yablyk.com/) - все про Apple
 
 ### Ubuntu
-- [Официальный сайт и документация](https://ubuntu.com/)
+- [Официальный сайт и документация](https://ubuntu.com/), Ubuntu
 - [Про Ubuntu на русском](https://ubuntu.ru/)
 
 ### Debian
-- [Официальный сайт и документация](https://www.debian.org/)
+- [Официальный сайт и документация](https://www.debian.org/), Debian
 - [В чём разница между Debian и Ubuntu? Что и когда лучше выбрать](https://habr.com/ru/company/ruvds/blog/576380/)
 
 ### Kali Linux
-- [Официальный сайт и документация](https://kali.org)
-- [Перевод официальной документации](https://hackware.ru/?p=2767)
-- [Небольшая вводная статья](https://teletype.in/@hackerseverywhere/BympqZiD4)
+- [Официальный сайт и документация](https://kali.org), Kali Linux
+- [Перевод официальной документации](https://hackware.ru/?p=2767), Kali Linux
+- [Небольшая вводная статья](https://teletype.in/@hackerseverywhere/BympqZiD4), Kali Linux
 
 # Виртуальные машины
 
 ### Oracle VM VirtualBox
-- [Официальный сайт и документация](https://www.virtualbox.org/)
+- [Официальный сайт и документация](https://www.virtualbox.org/), Oracle VM VirtualBox
 - [Образы Windows](https://g-ek.com/skachat-oficzialnyie-virtualnyie-mashinyi-windows-10)	
 - [Образы Ubuntu](https://www.linuxvmimages.com/images/ubuntu-2004/)
 - [Образы Kali Linux](https://www.kali.org/get-kali/)
@@ -147,12 +147,14 @@
 - [Электронная почта](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-9-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D1%87%D1%82%D0%B0) `[omb]`
 - [Простое описание протокола SMTP](https://ru.wikipedia.org/wiki/SMTP)
 - (Описание протокола от ICANN](http://www2.icmm.ru/~masich/win/lexion/mail/smtp.html#relay)
+
 - Catch-all:
 > https://ru.wikipedia.org/wiki/Catch-all
 > 
 > https://golb.hplar.ch/2019/08/catch-all-smtp.html
 > 
 > [How to detect if domain has catch all policy to accept email](https://stackoverflow.com/questions/17947198/how-to-detect-if-domain-has-catch-all-policy-to-accept-email)
+
 - [Reacher](https://reacher.email/), Open-Source Email Verification API:
 > - https://github.com/orgs/reacherhq/repositories
 >
@@ -168,34 +170,34 @@
 - [Checklist for Changing Data Model](https://rtpg.co/2021/06/07/changes-checklist.html), чеклист для миграции данных и схем данных.
 
 ### MySQL
-- [Официальный сайт и документация](https://www.mysql.com/)
-- [Документация на русском](http://www.mysql.ru/docs/)
+- [Официальный сайт и документация](https://www.mysql.com/), MySQL
+- [Документация на русском](http://www.mysql.ru/docs/), MySQL
 - [Руководство по MySql на Metanit](https://metanit.com/sql/mysql/)
 - [Оригинальный API для MySQL- PHP](https://www.php.net/manual/ru/book.mysql.php)
 
 ### MariaDB
-- [Официальный сайт и документация](https://mariadb.com/)
+- [Официальный сайт и документация](https://mariadb.com/), MariaDB
 - [MariaDB foundation](https://mariadb.org/)
-- [История проекта](https://ru.wikipedia.org/wiki/MariaDB)
-- [Установка на MacOS](https://mariadb.com/kb/en/installing-mariadb-on-macos-using-homebrew/)
+- [История проекта](https://ru.wikipedia.org/wiki/MariaDB), MariaDB
+- [Установка MariaDB на MacOS](https://mariadb.com/kb/en/installing-mariadb-on-macos-using-homebrew/)
 
 ### PostrgeSQL
-- [Официальный сайт и документация](https://www.postgresql.org/)
+- [Официальный сайт и документация](https://www.postgresql.org/), PostgreSQL
 - [Установка и настройка PostgreSQL](https://wiki.calculate-linux.org/ru/postgresql)
-- [Руководство на Metanit](https://metanit.com/sql/postgresql/)
-- [Хорошие туториалы на английском](https://www.postgresqltutorial.com/)
+- [Руководство по PostgreSQL на Metanit](https://metanit.com/sql/postgresql/)
+- [Хорошие туториалы по PostgreSQL на английском](https://www.postgresqltutorial.com/)
 - [Psycopg](https://www.psycopg.org/), PostgreSQL adapter for Python
 - [PostgreSQL Notes For Professionals](https://github.com/bormaxi8080/programming-books/blob/main/Databases) `[pb]`
 
 ### SQLite
-- [Официальный сайт и документация](https://www.sqlite.org)
+- [Официальный сайт и документация](https://www.sqlite.org), SQLite
 
 ### MongoDB
-- [Официальный сайт и документация](https://www.mongodb.com/)
+- [Официальный сайт и документация](https://www.mongodb.com/), MongoDB
 - [MongoDB Twitter account](https://twitter.com/MongoDB)
-- [Руководство на Metanit](https://metanit.com/nosql/mongodb/)
-- [Руководство на CoderLessons](https://coderlessons.com/tutorials/bazy-dannykh/uchitsia-mongodb/mongodb-kratkoe-rukovodstvo)
-- [Примеры работы на Node.js](https://nodejsdev.ru/doc/mongodb/)
+- [Руководство по MongoDB на Metanit](https://metanit.com/nosql/mongodb/)
+- [Руководство по mongoDB на CoderLessons](https://coderlessons.com/tutorials/bazy-dannykh/uchitsia-mongodb/mongodb-kratkoe-rukovodstvo)
+- [Примеры работы с MongoDB на Node.js](https://nodejsdev.ru/doc/mongodb/)
 - [Бредшоу Ш., MongoDB: Полное руководство](https://github.com/bormaxi8080/programming-books/blob/main/Databases) `[pb]`
 
 # Проектирование и разработка
@@ -209,6 +211,7 @@
 ### Принципы разработки
 ### Алгоритмы
 - [Адилья Бхаргва, Грокаем алгоритмы](https://github.com/bormaxi8080/programming-books/blob/main/Other/Bkhargava_Grokaem_Algoritmy.pdf) `[pb]`
+
 ### Архитектурные шаблоны
 ### Шаблоны проектирования
 - [Джеймсон М. Смит, Элементарные шаблоны проектиования](https://github.com/bormaxi8080/programming-books/blob/main/Other/Smith_Elemental_Design_Patterns.pdf) `[pb]`
@@ -234,10 +237,12 @@
 - [JavaScript COM](https://www.javascript.com/)
 - [JavaScript RU](https://javascript.ru/), исчерпывающая информация по JavaScript на русском
 - [Learn JavaScript](https://learn.javascript.ru/), современный учебник по JavaScript
-Илья Кантор - JavaScript, полное ркуоводство `[pb]`:
+
+Илья Кантор - JavaScript, полное руководство `[pb]`:
 - [Часть 1, основная](https://github.com/bormaxi8080/programming-books/blob/main/JS/Kantor_JS_Modern_Textbook_2019/js.pdf)
 - [Часть 2, дополнения](https://github.com/bormaxi8080/programming-books/blob/main/JS/Kantor_JS_Modern_Textbook_2019/more.pdf)
 - [Часть 3, UI](https://github.com/bormaxi8080/programming-books/blob/main/JS/Kantor_JS_Modern_Textbook_2019/ui.pdf)
+
 - Вот этот парень у себя в LinkedIn делает классные мануалы/примеры кода по JS: https://www.linkedin.com/in/sam-shpakov/
 
 ### TypeScript
@@ -251,7 +256,7 @@
 - [Кувшинов Д., Язык C++: Основы программирования](https://github.com/bormaxi8080/programming-books/blob/main/CPP/kuvshinov_dr_osipov_si_osnovy_programmirovaniia_iazyk_c_P.pdf) `[pb]`
 
 ### Rust
-- [Официальный сайт и документация](https://www.rust-lang.org/)
+- [Официальный сайт и документация](https://www.rust-lang.org/), Rust
 - [Rust в примерах](https://doc.rust-lang.ru/stable/rust-by-example/)
 - [Русскоговорящее сообщество Rust](https://rust-lang.ru/)
 - [Разбор особенностей Rust и некоторые ссылки](https://habr.com/ru/post/433302/)
@@ -260,23 +265,23 @@
 - [Официальный сайт Java](https://www.java.com/)
 - [Официальная документация по Java](https://dev.java/)
 - [Java на русском](https://www.java.com/ru/)
-- [Хаб на Habr](https://habr.com/ru/hub/java/)
-- [Раздел на Metanit](https://metanit.com/java/)
+- [Хаб на Habr](https://habr.com/ru/hub/java/), Java
+- [Раздел по Java на Metanit](https://metanit.com/java/)
 
 ### Scala
-- [Официальный сайт и документация](https://www.scala-lang.org/)
-- [Хаб на Habr](https://habr.com/ru/hub/scala/)
+- [Официальный сайт и документация](https://www.scala-lang.org/), Scala
+- [Хаб на Habr](https://habr.com/ru/hub/scala/), Scala
 
 ### Python
-- [Официальный сайт и документация](https://www.python.org/)
+- [Официальный сайт и документация](https://www.python.org/), Python
 - [David Beazley, Python: подробный справочник](https://github.com/bormaxi8080/programming-books/blob/main/Python/Python.podrobnyj.spravochnik.4.e.izdanie.David.M.Beazley.2010.pdf) `[pb]`
 - [Васильев А, Программирование на Python в задачах и примерах](https://github.com/bormaxi8080/programming-books/blob/main/Python/Vasiliev_Programming_Python.pdf) `[pb]`
 - [Материалы по Python на TProger](https://tproger.ru/tag/python/)
-- [Хаб на Хабре](https://habr.com/ru/hub/python/)
+- [Хаб на Хабре](https://habr.com/ru/hub/python/), Python
 - [Find, install and publish Python packages with the Python Package Index](https://pypi.org), поисковик по библиотекам
 - [Awesome Python](https://chel-center.ru/python-yfc/awesome-python/), курс молодого бойца
 - [Абстрактные классы и интерфейсы в Python](https://habr.com/ru/post/72757/)
-- [Работа с конфигурационными файлами](https://habr.com/ru/post/485236/)
+- [Работа с конфигурационными файлами в Python](https://habr.com/ru/post/485236/)
 - [Антипаттерн settings.py](https://habr.com/ru/post/115893/)
 - [Logging facility for Python](https://docs.python.org/3/library/logging.html)
 - [Логгирование в Python](https://python-scripts.com/logging-python)
@@ -287,7 +292,7 @@
 - Celery: см. отдельный раздел ниже
 
 ### GoLang
-- [Официальный сайт и документация](https://go.dev/)
+- [Официальный сайт и документация](https://go.dev/), GoLang
 - [Материалы по Go](https://gist.github.com/egorsmkv/9df2aef2eddf51986b6d2b5833a4423e), egorsmkv
 - [GoLang Training](https://github.com/GoesToEleven/GolangTraining), GoesToEleven
 - [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU), Konstantin8105
@@ -306,29 +311,29 @@
 - [Vegeta](https://github.com/tsenart/vegeta), GoLang HTTP Load Testing Tool and Library
 
 ### PHP
-- [Официальный сайт и документация](https://www.php.net/)
+- [Официальный сайт и документация](https://www.php.net/), PHP
 - [Дэвид Скляр, PHP: Сборник рецептов](https://github.com/bormaxi8080/programming-books/blob/main/PHP/Sklyar_PHP_Reciepts.pdf) `[pb]`
 
 ### Ruby, RubyOnRails
 - [Официальный сайт и документция](https://www.ruby-lang.org/ru/), Ruby
-- [RubyOnRails](https://rubyonrails.org/)
+- [RubyOnRails ORG](https://rubyonrails.org/)
 - [Чем хорош RubyOnRails и как он ускоряет разработку](https://habr.com/ru/company/skillbox/blog/428487/)
-- [Хороший сайт на русском](http://www.rubyonrails.ru/)
+- [Хороший сайт про Ruby на русском](http://www.rubyonrails.ru/)
 
 ### Perl
-- [Официальный сайт и документация](https://www.perl.org/)
-- [Хаб на Хабре](https://habr.com/ru/hub/perl/)
+- [Официальный сайт и документация](https://www.perl.org/), Perl
+- [Хаб на Хабре](https://habr.com/ru/hub/perl/), Perl
 - [Краткий экскурс в Perl-программирование](https://www.opennet.ru/docs/RUS/perl_help/)
 
 ### Lua
-- [Официальный сайт и документация](https://www.lua.org/)
+- [Официальный сайт и документация](https://www.lua.org/), Lua
 - [Lua за 15 минут](https://habr.com/ru/post/184538/)
 - [Learn Lua](http://tylerneylon.com/a/learn-lua/)
 - [Хороший мануал по Lua на русском](https://docs.geoscan.aero/ru/master/programming/lua/lua_main.html)
-- [Хаб на Хабре](https://habr.com/ru/hub/lua/)
+- [Хаб на Хабре](https://habr.com/ru/hub/lua/), Lua
 
 ### Erlang
-- [Официальный сайт и документация](https://www.erlang.org/)
+- [Официальный сайт и документация](https://www.erlang.org/), Erlang
 - [Краткое руководство на CoderLessons](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/vyuchit-erlang/erlang-kratkoe-rukovodstvo)
 - [Руководство по программированию на языке Erlang](https://pessim50.ucoz.ru/Erlang.pdf)
 - [Специфика Erlang](https://eax.me/erlang-is-specific/)
@@ -336,7 +341,7 @@
 
 # Сервера приложений
 ### NATS
-- [Официальный сайт и документация](https://nats.io/)
+- [Официальный сайт и документация](https://nats.io/), NATS
 
 ### Redis
 - [Официальный сайт и документация](https://redis.io/), Redis is an open source in-memory data structure store, used as a database, cache, and message broker
@@ -350,7 +355,7 @@
 ### Memcached
 - [Официальный сайт и документация](https://memcached.org/), Memcached is a distributed memory object caching system
 - [Маленькая вводная по Memcached](https://habr.com/ru/post/42607/)
-- [Описание от AWS](https://aws.amazon.com/ru/memcached/), сравнение с Redis
+- [Описание Memcached от AWS](https://aws.amazon.com/ru/memcached/), сравнение с Redis
 
 ### RabbitMQ
 - [Официальный сайт и документация](https://www.rabbitmq.com/), RabbitMQ message broker
@@ -361,7 +366,7 @@
 
 ### Celery
 - [Официальный сайт и документация](http://celeryproject.org/), Celery async message queue
-- [GitHub](https://github.com/celery/celery)
+- [GitHub](https://github.com/celery/celery), Celery
 - [Введение в Celery](https://docs.celeryproject.org/en/stable/getting-started/introduction.html)
 - [Celery - лучшие практики](https://habr.com/ru/post/269347/)
 - [Celery - начинаем правильно](https://khashtamov.com/ru/celery-best-practices/)
@@ -405,31 +410,31 @@ AIOgram async framework:
 - [Как настроить прием платежей 2.0 в Telegram за 5 часов](https://vc.ru/dev/240195-kak-nastroit-priem-platezhey-2-0-v-telegram-za-5-chasov)
 
 ### Django
-- [Официальный сайт и документация](https://www.djangoproject.com/)
-- [Документация от Mozilla](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django)
+- [Официальный сайт и документация](https://www.djangoproject.com/), Django
+- [Документация по Django от Mozilla](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django)
 - [Исчерпывающая книга про Django](https://djbook.ru/rel3.0/), неплохая документация на русском
 - [DJBook](https://djbook.ru/), и тут всего остального про Django навалом
-- [Хаб по Django на Хабре](https://habr.com/ru/hub/django/)
+- [Хаб по Django на Хабре](https://habr.com/ru/hub/django/), Django
 - [Django fun](https://django.fun/)
 - [Статьи про Django](https://django.fun/tutorials/)
 
 ### Flask
-- [Официальный сайт и документация](https://flask.palletsprojects.com/en/2.0.x/)
+- [Официальный сайт и документация](https://flask.palletsprojects.com/en/2.0.x/), Flask
 - [Русский перевод документации Flask](https://flask-russian-docs.readthedocs.io/ru/latest/)
 - [Учебник по Flask на Habr](https://habr.com/ru/post/193242/)
 
 ### Pyramid
-- [Официальный сайт и документация](https://trypyramid.com/)
-- [Руководство на Habr](https://habr.com/ru/post/135916/)
-- [Еще доки](https://docs.pylonsproject.org/projects/pyramid/en/latest/index.html)
+- [Официальный сайт и документация](https://trypyramid.com/), Pyramid
+- [Руководство по Pyramid на Habr](https://habr.com/ru/post/135916/)
+- [Еще доки по Pyramid](https://docs.pylonsproject.org/projects/pyramid/en/latest/index.html)
 
 ### Tornado
-- [Официальный сайт и документация](https://www.tornadoweb.org/en/stable/)
+- [Официальный сайт и документация](https://www.tornadoweb.org/en/stable/), Tornado web server
 - [Небольшая вводная в Tornado](https://habr.com/ru/sandbox/27705/)
 
 ### Docker
-- [Официальная документация](https://docs.docker.com/)
-- [Быстрый старт](https://tproger.ru/translations/how-to-start-using-docker/)
+- [Официальный сайт и документация](https://docs.docker.com/). Docker
+- [Docker - быстрый старт](https://tproger.ru/translations/how-to-start-using-docker/)
 - [Полное практическое руководство по Docker](https://habr.com/ru/post/310460/), на русском
 - [Виртуализация Docker](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-1-%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-docker) `[omb]``
 - [Иан Милл, Docker на практике](https://github.com/bormaxi8080/programming-books/blob/main/Docker/Mill_Seers_Docker_in_Practice.pdf) `[pb]`
@@ -449,6 +454,7 @@ AIOgram async framework:
 - [Подходит ли Vue для создания большого веб-приложения](https://github.com/bormaxi8080/programming-books#:~:text=%D0%9F%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D0%B8%D1%82%20%D0%BB%D0%B8%20Vue%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B3%D0%BE%20web%2D%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.%20%D0%94%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4) `[pb]`
 
 ### Go Hugo:
+- [Официальный сайт и документация](https://gohugo.io/), Go Hugo
 - [Creating Hugo Themes](https://draft.dev/learn/creating-hugo-themes)
 - [Create Your Own Hugo Theme](https://www.youtube.com/watch?v=wcMqrb3v2SM), большое полное видео
 - [Легкое создание сайтов на Hugo](https://code.tutsplus.com/ru/tutorials/make-creating-websites-fun-again-with-hugo-the-static-website-generator-written-in-go--cms-27319)
@@ -510,7 +516,7 @@ AIOgram async framework:
 - [Создание быстрых отзывчивых сайтов с Bootstrap](https://bootstrap-4.ru/), документация на русском
 
 ### Material UI
-- [Официальный сайт и документация](https://mui.com/)
+- [Официальный сайт и документация](https://mui.com/), Material UI
 - [Reactjs, Material-UI with JSS])(https://habr.com/ru/post/492378/), крайткий гайд
 - [MUI React templates & tools satore](https://material-ui.com/store/)
 - [Material Design](https://material.io/)
@@ -521,12 +527,12 @@ AIOgram async framework:
 
 # Backend
 ### Node.js
-- [Node.js. Официальное руководство](https://github.com/bormaxi8080/programming-books/blob/main/JS/Node.js_Official_Guide.pdf) `[pb]`
 - [Официальный сайт и документация](https://nodejs.org/)
 - [Официальные руководства](https://nodeguide.ru/doc/)
 - [Руководство по Node.js на Habr](https://habr.com/ru/company/ruvds/blog/422893/)
 - [Полная версия руководства на Habr](https://habr.com/ru/company/ruvds/blog/428576/) + PDF
 - [Сайт для разработчиков Node.js](https://nodejsdev.ru/), на русском
+- [Node.js. Официальное руководство](https://github.com/bormaxi8080/programming-books/blob/main/JS/Node.js_Official_Guide.pdf) `[pb]`
 - [Руководство на Metalint](https://metanit.com/web/nodejs/)
 - [Управление версиями Node.js и NPM](https://habr.com/ru/company/timeweb/blog/541452/), с помощью NVM
 - [Using Node in JetBrains WebStorm](https://www.jetbrains.com/help/webstorm/developing-node-js-applications.html#ws_node_version)
@@ -539,14 +545,14 @@ AIOgram async framework:
 
 Express Framework:
 
-- [Официальный сайт и документация](https://expressjs.com/ru/)
+- [Официальный сайт и документация](https://expressjs.com/ru/), Express
 - [Руководство по Express от Mozilla](https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs)
 
 - [Fastify](https://www.fastify.io/), краткий обзор: https://habr.com/ru/post/555668/
 
 Async Framework:
 
-> - [Официальная документация](https://caolan.github.io/async/v3/docs.html) 
+> - [Async, официальная документация](https://caolan.github.io/async/v3/docs.html) 
 >
 > - [Руководство по Async](https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async), от Mozilla
 
@@ -603,18 +609,18 @@ Async Framework:
 ### iOS
 
 Objective C:
-- [Официальная документация от Apple](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+- [Официальная документация по ObectiveC от Apple](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 - [Objective C с нуля](https://habr.com/ru/post/107126/)
 
 Swift:
-- [Официальный сайт и документация](https://www.swift.org/)
--[Официальная документация от Apple](https://developer.apple.com/documentation/swift)
-- [Хаб на Habr](https://habr.com/ru/hub/swift/)
+- [Официальный сайт и документация](https://www.swift.org/), Swift
+- [Официальная документация по Swift от Apple](https://developer.apple.com/documentation/swift)
+- [Хаб на Habr](https://habr.com/ru/hub/swift/), Swift
 
 Cocoa:
-- [Официальная документация от Apple](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html)
-- [Учебник на русском](http://macbug.ru/cocoa.php)
-- [Хаб на Habr](https://habr.com/ru/hub/cocoa/)
+- [Официальная документация по Cocoa от Apple](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html)
+- [Учебник Cocoa на русском](http://macbug.ru/cocoa.php)
+- [Хаб на Habr](https://habr.com/ru/hub/cocoa/), Cocoa
 
 Flutter:
 - [Фрэнк Заметти, Flutter на практике](https://github.com/bormaxi8080/programming-books/blob/main/Other/Flutter_on_practice_2020.pdf) `[pb]`
@@ -627,17 +633,17 @@ Android Core:
 - [Android Studio](https://developer.android.com/studio)
 - [Android JetPack](https://developer.android.com/jetpack)
 - [Про Android на русском](https://www.android.com/intl/ru_ru/), Android.com
-- [Хаб на Habr](https://habr.com/ru/hub/android_dev/)
+- [Хаб на Habr](https://habr.com/ru/hub/android_dev/), Android
 
 Kotlin:
 - [Develop Android apps with Kotlin (official)](https://developer.android.com/kotlin)
 
 # Популярные IDE
 ### Cемейство IDE от JetBrains
-- [Официальный сайт и документация](https://www.jetbrains.com/)
+- [Официальный сайт и документация](https://www.jetbrains.com/), JetBrains
 
 ### Eclipse IDE
-- [Официальный сайт и документация](https://www.eclipse.org/ide/)
+- [Официальный сайт и документация](https://www.eclipse.org/ide/), Eclipse IDE
 
 # Пентестинг, безопасность и защита
 - [Безопасность](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-7-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C) `[omb]`
@@ -697,12 +703,12 @@ Kotlin:
 > [Еще некоторые примеры](https://xakinfo.ru/os/nmap-anonymous/)
 
 Metasploit Framework:
-
 - [Официальный сайт проекта](https://www.metasploit.com/)
 - [Официальная документация](https://docs.rapid7.com/metasploit/)
 - [Установка](https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers)
 - [Гид по Metasploit Framework от SecurityLab](https://www.securitylab.ru/blog/personal/Informacionnaya_bezopasnost_v_detalyah/323370.php_
-- Обзоры:
+
+- Обзоры Metasploit:
 > 
 > https://habr.com/ru/company/varonis/blog/528578/
 >
@@ -730,7 +736,7 @@ Metasploit Framework:
 
 ### Chipmunk
 - [GitHub](https://github.com/esrlabs/chipmunk), Chipmunk - утилита для работы с большими логами
-- [Описание на Habr](https://habr.com/ru/post/496126/)
+- [Описание на Habr](https://habr.com/ru/post/496126/), Chipmunk
 
 # Полезные утилиты
 ### Balena Etcher - создание образов дисков на MacOS
