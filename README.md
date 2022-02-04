@@ -10,17 +10,22 @@
 
 В репозитории я постарался собрать максимальное количество ссылок на полезные ресурсы по интересующим меня темам, не вдаваясь в длинные описания технологий и холивары по поводу их использования.
 
-Некоторые книги и мануалы в формате PDF для удобства выложены в отдельный репозиторий:
+Некоторые книги и мануалы в формате PDF для удобства выложены в отдельный постоянно пополняющийся репозитарий:
 
-> https://github.com/bormaxi8080/programming-books
+> [programming-books](https://github.com/bormaxi8080/programming-books)
+
+По части материалов в данной документации ссылка ведет в репозитарий oh-my-backend, Ссылки на такие материалы отмечены меткой `[omb]`
+
+> [oh-my-backend](https://github.com/bzick/oh-my-backend)
 
 ## Содержание:
 
-- [Основные понятия и концепции](#основные-понятия-и-концепции)
+- [Общие знания](#общие-знания)
 - [Операционные системы](#операционные-системы)
 - [Виртуальные машины](#виртуальные-машины)
 - [Протоколы и стандарты передачи данных](#протоколы-и-стандарты)
 - [Базы данных](#базы-данных)
+- [Проектирование и разработка](#проектирование-и-разработка)
 - [Языки программирования](#языки-программирования)
 - [Сервера приложений](#сервера-приложений)
 - [Библиотеки и фреймворки](#бибилиотеки-и-фреймворки)
@@ -29,13 +34,15 @@
 - [Мобильная разработка](#мобильная-разработка)
 - [Популярные IDE](#популярные-IDE)
 - [Пентестинг, безопасность и защита](#пентестинг-безопасность-и-защита)
+- [Логи и метрики](#логи-и-метрики)
 - [Полезные утилиты](#полезные-утилиты)
 - [Интересные репозитарии в Git](#интересные-репозитарии-в-git)
 - [Разное](#разное)
 
-# Основные понятия и концепции
+# Общие знания
 
 ### Основы работы в ОС семейства Linux. Shell и командная строка
+- [Linux](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-2-linux) `[omb]`
 - [Advanced Bash Scripting Guide](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)
 - [Вводная статья по Kali Linux](https://hackware.ru/?p=2767)
 - [Oh My Zsh](https://ohmyz.sh/)- платформа с открытым исходным кодом для управления вашей конфигурацией Zsh. Поставляется в комплекте с тысячами полезных функций, помощников, плагинов, тем.
@@ -48,6 +55,7 @@
 > - [MacOS terminal-notifier](https://github.com/julienXX/terminal-notifier)
 
 ### Git
+- [Базова работа с Git](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-7-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C) `[omb]`
 - [Официальный сайт и документация](https://git-scm.com/)
 - [Блог GitHub](https://github.blog)
 - [4 лучших Git-клиента для Mac OS](https://medium.com/os-x-tips-tricks/3-%D0%BB%D1%83%D1%87%D1%88%D0%B8%D1%85-git-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-mac-os-x-9980eaf356b6)
@@ -57,6 +65,12 @@
 - [Git Explorer](https://gitexplorer.com/), справочник по командам и возможностям гита
 - [О файле .gitignore](https://tyapk.ru/blog/post/gitignore)
 - [Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
+
+### Форматы хранения и передачи данных
+- [Форматы хранения и передачи данных](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-7-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C) `[omb]`
+
+### Работа с сетью
+- [Сеть](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-4-%D1%81%D0%B5%D1%82%D1%8C) `[omb]`
 
 ### Markdown, редактура
 - [Краткое руководство по MD](https://paulradzkov.com/2014/markdown_cheatsheet/)
@@ -72,8 +86,14 @@
 - [Polacode](https://github.com/octref/polacode), скриншоттер для фрагментов кода
 - [Vale: a command-line tool that brings code-like linting to prose](https://github.com/errata-ai/vale)
 
-### Regular Expressions
+### Регулярные выражения
 -   [Regex 101](https://regex101.com/), редактор и тестер регулярных выражений с объяснениями каждого символа и примерами
+
+### Криптография
+- [Криптография](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-7-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C) `[omb]`
+
+### Полнотекстовый поиск
+- [Полнотекстовый поиск](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-10-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA) `[omb]`
 
 # Операционные системы
 
@@ -122,9 +142,11 @@
 - [Команда dig (domain information groper)](https://andreyex.ru/linux/komandy-linux-i-komandy-shell/kak-ispolzovat-komandu-dig-dlya-zaprosa-dns-v-linux/), многофункциональный инструмент для опроса DNS-серверов
 
 ### HTTP/HTTPS:
--   [HTTP Statuses](https://httpstatuses.com/), список HTTP статусов ответа с их значениями;
+- [Протокол HTTP](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-6-%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB-http) `[omb]`
+- [HTTP Statuses](https://httpstatuses.com/), список HTTP статусов ответа с их значениями;
 
 ### SMTP:
+- [Электронная почта](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-9-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D1%87%D1%82%D0%B0) `[omb]`
 - [Простое описание протокола SMTP](https://ru.wikipedia.org/wiki/SMTP)
 - (Описание протокола от ICANN](http://www2.icmm.ru/~masich/win/lexion/mail/smtp.html#relay)
 - Catch-all:
@@ -143,8 +165,7 @@
 - [More about MTA](https://mailtrap.io/blog/mail-transfer-agent/)
 
 # Базы данных
-
-### Теория и основные концепции работы с БД
+- [Базы данных](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-5-%D0%B1%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85) `[omb]`
 - [List of tz database time zones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
 - [Checklist for Changing Data Model](https://rtpg.co/2021/06/07/changes-checklist.html), чеклист для миграции данных и схем данных.
 
@@ -177,7 +198,24 @@
 - [Руководство на CoderLessons](https://coderlessons.com/tutorials/bazy-dannykh/uchitsia-mongodb/mongodb-kratkoe-rukovodstvo)
 - [Примеры работы на Node.js](https://nodejsdev.ru/doc/mongodb/)
 
+# Проектирование и разработка
+- [Проектирование и разработка](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-12-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0) `[omb]`
+
+- Принципы разработки
+- Архитектурные шаблоны
+- Шаблоны проектирования
+- Методологии разработки
+- Типы приложений
+- Тестирование
+- Проблемы приложений и проектирования
+- Рефакторинг
+- Антипаттерны
+- Semver
+- Распределенные системы
+- Микросервисная архитектура
+
 # Языки программирования
+- [Языки программирования](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-8-%D1%82%D1%83%D1%82-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B1%D1%8B%D1%82%D1%8C-%D0%B2%D0%B0%D1%88-%D1%8F%D0%B7%D1%8B%D0%BA-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F) `[omb]`
 
 ### JavaScript и SPA
 - [JavaScript RU](https://javascript.ru/), исчерпывающая информация по JavaScript на русском
@@ -365,6 +403,7 @@ AIOgram async framework:
 - [Небольшая вводная в Tornado](https://habr.com/ru/sandbox/27705/)
 
 ### Docker
+- [Виртуализация Docker](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-1-%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-docker) `[omb]``
 - [Официальная документация](https://docs.docker.com/)
 - [Быстрый старт](https://tproger.ru/translations/how-to-start-using-docker/)
 - [Полное практическое руководство по Docker](https://habr.com/ru/post/310460/), на русском
@@ -445,10 +484,6 @@ AIOgram async framework:
 - [UX Club](https://www.facebook.com/groups/136827946465842), самое большое российское коммьюнити по UX
 
 # Backend
-Подробный roadmap по backend технологиям есть в этом репозитарии: https://github.com/bzick/oh-my-backend
-
-Часть материалов из данного репозитария скопировано сюда.
-
 ### Node.js
 - [Официальный сайт и документация](https://nodejs.org/)
 - [Официальные руководства](https://nodeguide.ru/doc/)
@@ -565,6 +600,7 @@ Kotlin:
 - [Официальный сайт и документация](https://www.eclipse.org/ide/)
 
 # Пентестинг, безопасность и защита
+- [Безопасность](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-7-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C) `[omb]`
 - [Application Security](https://application.security/free/owasp-top-10), интерактивный чеклист по уязвимостям веб-приложений с объяснениями и рекомендациями к защите
 - [SecurityLab - Soft](https://www.securitylab.ru/software/), огромная подборка всякого разного софта
 
@@ -639,7 +675,8 @@ Metasploit Framework:
 - [Log4j Detection](https://github.com/bi-zone/Log4j_Detector), on server
 - [WPScan](https://wpscan.com/wordpress-security-scanner), мощный фреймворк для пентеста WordPress, обзор: https://habr.com/ru/company/alexhost/blog/527612/
 
-# Полезные утилиты
+# Логи и метрики
+- [Логи и метрики](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-11-%D0%BB%D0%BE%D0%B3%D0%B8-%D0%B8-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8) `[omb]`
 
 ### Prometheus
 - [Официальный сайт и документация](https://prometheus.io/), Prometheus - metrics and alerting with the leading open-source monitoring solution
@@ -653,6 +690,8 @@ Metasploit Framework:
 ### Chipmunk
 - [GitHub](https://github.com/esrlabs/chipmunk), Chipmunk - утилита для работы с большими логами
 - [Описание на Habr](https://habr.com/ru/post/496126/)
+
+# Полезные утилиты
 
 ### Balena Etcher - создание образов дисков на MacOS
 - [Официальный сайт](https://www.balena.io/etcher/)
