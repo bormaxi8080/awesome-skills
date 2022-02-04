@@ -14,7 +14,7 @@
 
 > [programming-books](https://github.com/bormaxi8080/programming-books)
 
-По части материалов в данной документации ссылка ведет в репозитарий oh-my-backend, ссылки на такие материалы отмечены меткой `[omb]`
+По части материалов в данной документации ссылка ведет в репозитарий oh-my-backend (fork на roadmap по современным технологиям backend). Ссылки на такие материалы отмечены меткой `[omb]`
 
 > [oh-my-backend](https://github.com/bzick/oh-my-backend)
 
@@ -46,6 +46,7 @@
 - [Вводная статья по Kali Linux](https://hackware.ru/?p=2767)
 - [Oh My Zsh](https://ohmyz.sh/)- платформа с открытым исходным кодом для управления вашей конфигурацией Zsh. Поставляется в комплекте с тысячами полезных функций, помощников, плагинов, тем.
 - [Explain Shell](https://explainshell.com/), объясняет команды терминала и ключи к ним.
+
 - Уведомления через Shell:
 > - [Linux notify-send](https://ss64.com/bash/notify-send.html) 
 >
@@ -73,10 +74,12 @@
 
 ### Markdown, редактура
 - [Краткое руководство по MD](https://paulradzkov.com/2014/markdown_cheatsheet/)
+
 - Obsidian - мощный редактор для работы с Markdown:
 > - [Официальный сайт и документация](https://obsidian.md/)
 >
 > - [Небольшая вводная](https://habr.com/ru/company/macloud/blog/560776/)
+
 - [Grip - утилита для автономного просмотра разметки MD](https://github.com/joeyespo/grip)
 - [White Spaces](https://kirillbelyaev.com/s/), список всех существующих пробелов и рекомендации по использованию каждого
 - [Типограф](https://typograf.github.io/mobile.html), правит пунктуацию, ставит неразрывные пробелы и проч.
@@ -508,7 +511,7 @@ AIOgram async framework:
 - [CSS Gradient](https://cssgradient.io/), конструктор CSS градиентов
 - [Easings](https://easings.net/), справочник по easing-функциям с примерами
 - [Cubic Bezier](https://cubic-bezier.com/#.87,0,.13,1), конструктор и редактор кривых Безье
-- [CSS Paterns](https://projects.verou.me/css3patterns/), коллекция фоновых узоров на чистом CSS
+- [CSS Patterns](https://projects.verou.me/css3patterns/), коллекция фоновых узоров на чистом CSS
 - [CSS Shapes](https://css-tricks.com/the-shapes-of-css/), набор часто используемых фигур на чистом CSS
 - [CSS Triggers](https://csstriggers.com/), подскажет, какие свойства запускают layout, paint и composite
 
