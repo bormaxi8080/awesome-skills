@@ -10,16 +10,15 @@
 
 В репозитории я постарался собрать максимальное количество ссылок на полезные ресурсы по интересующим меня темам, не вдаваясь в длинные описания технологий и холивары по поводу их использования.
 
-Некоторые книги и мануалы в формате PDF для удобства выложены в отдельный постоянно пополняющийся репозитарий:
+Некоторые книги и мануалы в формате PDF для удобства выложены в репозитарий programming-books, ссылки на них отмечены меткой `pb`:
 
 > [programming-books](https://github.com/bormaxi8080/programming-books)
 
-По части материалов в данной документации ссылка ведет в репозитарий oh-my-backend, Ссылки на такие материалы отмечены меткой `[omb]`
+По части материалов в данной документации ссылка ведет в репозитарий oh-my-backend, ссылки на такие материалы отмечены меткой `[omb]`
 
 > [oh-my-backend](https://github.com/bzick/oh-my-backend)
 
 ## Содержание:
-
 - [Общие знания](#общие-знания)
 - [Операционные системы](#операционные-системы)
 - [Виртуальные машины](#виртуальные-машины)
@@ -40,10 +39,10 @@
 - [Разное](#разное)
 
 # Общие знания
-
 ### Основы работы в ОС семейства Linux. Shell и командная строка
 - [Linux](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-2-linux) `[omb]`
 - [Advanced Bash Scripting Guide](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)
+- [Шпигорь И., Программирование на Bash с нуля](https://github.com/bormaxi8080/programming-books/blob/main/Shell/Bash_programming.pdf) `[pb]`
 - [Вводная статья по Kali Linux](https://hackware.ru/?p=2767)
 - [Oh My Zsh](https://ohmyz.sh/)- платформа с открытым исходным кодом для управления вашей конфигурацией Zsh. Поставляется в комплекте с тысячами полезных функций, помощников, плагинов, тем.
 - [Explain Shell](https://explainshell.com/), объясняет команды терминала и ключи к ним.
@@ -87,7 +86,8 @@
 - [Vale: a command-line tool that brings code-like linting to prose](https://github.com/errata-ai/vale)
 
 ### Регулярные выражения
--   [Regex 101](https://regex101.com/), редактор и тестер регулярных выражений с объяснениями каждого символа и примерами
+- [Regex 101](https://regex101.com/), редактор и тестер регулярных выражений с объяснениями каждого символа и примерами
+- [Regular Excpressions Cheat Sheet](https://github.com/bormaxi8080/programming-books/blob/main/Other/RegExp_cheat_sheet.pdf) `[pb]` 
 
 ### Криптография
 - [Криптография](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-7-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C) `[omb]`
@@ -127,7 +127,6 @@
 - [Образ MacOS High Sierra](https://betacode.net/12025/install-mac-os-virtual-machine-in-virtualbox)
 
 # Протоколы и стандарты передачи данных
-
 ### RFC и IETF:
 - [Полный список стандартов RFC](https://www.rfc-editor.org/standards)
 - [Наиболее популярные RFC](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_RFC)
@@ -187,6 +186,7 @@
 - [Руководство на Metanit](https://metanit.com/sql/postgresql/)
 - [Хорошие туториалы на английском](https://www.postgresqltutorial.com/)
 - [Psycopg](https://www.psycopg.org/), PostgreSQL adapter for Python
+- [PostgreSQL Notes For Professionals](https://github.com/bormaxi8080/programming-books/blob/main/Databases) `[pb]`
 
 ### SQLite
 - [Официальный сайт и документация](https://www.sqlite.org)
@@ -197,29 +197,48 @@
 - [Руководство на Metanit](https://metanit.com/nosql/mongodb/)
 - [Руководство на CoderLessons](https://coderlessons.com/tutorials/bazy-dannykh/uchitsia-mongodb/mongodb-kratkoe-rukovodstvo)
 - [Примеры работы на Node.js](https://nodejsdev.ru/doc/mongodb/)
+- [Бредшоу Ш., MongoDB: Полное руководство](https://github.com/bormaxi8080/programming-books/blob/main/Databases) `[pb]`
 
 # Проектирование и разработка
 - [Проектирование и разработка](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-12-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0) `[omb]`
 
-- Принципы разработки
-- Архитектурные шаблоны
-- Шаблоны проектирования
-- Методологии разработки
-- Типы приложений
-- Тестирование
-- Проблемы приложений и проектирования
-- Рефакторинг
-- Антипаттерны
-- Semver
-- Распределенные системы
-- Микросервисная архитектура
+### Дональд Кнут - Искусство программирования:
+- [Том I](https://github.com/bormaxi8080/programming-books/blob/main/Other/Knut-1.pdf) `[pb]`
+- [Том II](https://github.com/bormaxi8080/programming-books/blob/main/Other/Knut-2.pdf) `[pb]`
+- [Том III](https://github.com/bormaxi8080/programming-books/blob/main/Other/Knut-3.pdf) `[pb]`
+
+### Принципы разработки
+### Алгоритмы
+- [Адилья Бхаргва, Грокаем алгоритмы](https://github.com/bormaxi8080/programming-books/blob/main/Other/Bkhargava_Grokaem_Algoritmy.pdf) `[pb]`
+### Архитектурные шаблоны
+### Шаблоны проектирования
+- [Джеймсон М. Смит, Элементарные шаблоны проектиования](https://github.com/bormaxi8080/programming-books/blob/main/Other/Smith_Elemental_Design_Patterns.pdf) `[pb]`
+
+### Методологии разработки
+- [Титус Виттерс, Делай как в Google (Software Engineering in Google)](https://github.com/bormaxi8080/programming-books/blob/main/Other/Software_Engineering_in_Google.pdf)`[pb]`
+
+### Типы приложений
+### Тестирование
+### Проблемы приложений и проектирования
+### Рефакторинг
+### Антипаттерны
+### Semver
+### Распределенные системы
+### Микросервисная архитектура
 
 # Языки программирования
 - [Языки программирования](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-8-%D1%82%D1%83%D1%82-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B1%D1%8B%D1%82%D1%8C-%D0%B2%D0%B0%D1%88-%D1%8F%D0%B7%D1%8B%D0%BA-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F) `[omb]`
+- [Тэйт Брюс, 7 языков за 7 недель](https://github.com/bormaxi8080/programming-books/blob/main/Other/Bruce_7langs_on_7weeks.pdf) `[pb]`
 
 ### JavaScript и SPA
+- [Метриалы по JS, спецификация и учебник от Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+- [JavaScript COM](https://www.javascript.com/)
 - [JavaScript RU](https://javascript.ru/), исчерпывающая информация по JavaScript на русском
 - [Learn JavaScript](https://learn.javascript.ru/), современный учебник по JavaScript
+Илья Кантор - JavaScript, полное ркуоводство `[pb]`:
+- [Часть 1, основная](https://github.com/bormaxi8080/programming-books/blob/main/JS/Kantor_JS_Modern_Textbook_2019/js.pdf)
+- [Часть 2, дополнения](https://github.com/bormaxi8080/programming-books/blob/main/JS/Kantor_JS_Modern_Textbook_2019/more.pdf)
+- [Часть 3, UI](https://github.com/bormaxi8080/programming-books/blob/main/JS/Kantor_JS_Modern_Textbook_2019/ui.pdf)
 - Вот этот парень у себя в LinkedIn делает классные мануалы/примеры кода по JS: https://www.linkedin.com/in/sam-shpakov/
 
 ### TypeScript
@@ -229,6 +248,7 @@
 - [Официальный сайт стандарта C++](https://isocpp.org/)
 - [Большой сайт по C++, документация](https://www.cplusplus.com/)
 - [Туториалы](https://www.w3schools.com/cpp/cpp_intro.asp)
+- [Кувшинов Д., Язык C++: Основы программирования](https://github.com/bormaxi8080/programming-books/blob/main/CPP/kuvshinov_dr_osipov_si_osnovy_programmirovaniia_iazyk_c_P.pdf) `[pb]`
 
 ### Rust
 - [Официальный сайт и документация](https://www.rust-lang.org/)
@@ -249,6 +269,8 @@
 
 ### Python
 - [Официальный сайт и документация](https://www.python.org/)
+- [David Beazley, Python: подробный справочник](https://github.com/bormaxi8080/programming-books/blob/main/Python/Python.podrobnyj.spravochnik.4.e.izdanie.David.M.Beazley.2010.pdf) `[pb]`
+- [Васильев А, Программирование на Python в задачах и примерах](https://github.com/bormaxi8080/programming-books/blob/main/Python/Vasiliev_Programming_Python.pdf) `[pb]`
 - [Материалы по Python на TProger](https://tproger.ru/tag/python/)
 - [Хаб на Хабре](https://habr.com/ru/hub/python/)
 - [Find, install and publish Python packages with the Python Package Index](https://pypi.org), поисковик по библиотекам
@@ -273,6 +295,8 @@
 
 Книги:
 - [Введение в программирование на Go](http://golang-book.ru/), GitHub: https://github.com/maxpoletaev/golang-book
+- [Максим Жашкевич, Язык Go для начинающих](https://github.com/bormaxi8080/programming-books/blob/main/GoLang/Zhashkevich_Go_for_Beginners_2021.pdf) `[pb]`
+- [Мэтью А. Титмус, Облачный Go](https://github.com/bormaxi8080/programming-books/blob/main/GoLang/Titmus_Cloud_Native_Go_2022.pdf) `[pb]`
 - [Cloud Native Go examples](https://github.com/cloud-native-go/examples)
 - [Маленькая книга о Go](https://sefus.ru/little-go-book/)
 
@@ -283,6 +307,7 @@
 
 ### PHP
 - [Официальный сайт и документация](https://www.php.net/)
+- [Дэвид Скляр, PHP: Сборник рецептов](https://github.com/bormaxi8080/programming-books/blob/main/PHP/Sklyar_PHP_Reciepts.pdf) `[pb]`
 
 ### Ruby, RubyOnRails
 - [Официальный сайт и документция](https://www.ruby-lang.org/ru/), Ruby
@@ -307,6 +332,7 @@
 - [Краткое руководство на CoderLessons](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/vyuchit-erlang/erlang-kratkoe-rukovodstvo)
 - [Руководство по программированию на языке Erlang](https://pessim50.ucoz.ru/Erlang.pdf)
 - [Специфика Erlang](https://eax.me/erlang-is-specific/)
+- [Программирование на языке Erlang](https://github.com/bormaxi8080/programming-books/blob/main/Other/Erlang-programming-guide.pdf) `[pb]`
 
 # Сервера приложений
 ### NATS
@@ -314,7 +340,7 @@
 
 ### Redis
 - [Официальный сайт и документация](https://redis.io/), Redis is an open source in-memory data structure store, used as a database, cache, and message broker
-- [Маленькая книга о Redis](https://3s.group/upload/iblock/890/890258c1a79e7154773b210ea701b184.pdf)
+- [Маленькая книга о Redis](https://3s.group/upload/iblock/890/890258c1a79e7154773b210ea701b184.pdf), оно же [тут](https://github.com/bormaxi8080/programming-books/blob/main/Other/Seguin_redis-liitle-book.pdf) `[pb]`
 - [Redis для начинающих](https://webdevblog.ru/redis-dlya-nachinajushhij/)
 - [Вводная по Redis на AWS](https://aws.amazon.com/ru/redis/)
 - [Шпаргалка по Redis на Хабре](https://habr.com/ru/post/204354/)
@@ -357,7 +383,6 @@
 
 # Библиотеки и фреймворки
 ### Telegram
-
 Управление ботами в Telegram:
 - [Telegram на русском](https://tlgrm.ru/blog), очень много всякой информации
 - [Telegram-боты](https://tlgrm.ru/docs/bots#botfather), информация для разработчиков
@@ -403,14 +428,25 @@ AIOgram async framework:
 - [Небольшая вводная в Tornado](https://habr.com/ru/sandbox/27705/)
 
 ### Docker
-- [Виртуализация Docker](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-1-%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-docker) `[omb]``
 - [Официальная документация](https://docs.docker.com/)
 - [Быстрый старт](https://tproger.ru/translations/how-to-start-using-docker/)
 - [Полное практическое руководство по Docker](https://habr.com/ru/post/310460/), на русском
+- [Виртуализация Docker](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-1-%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-docker) `[omb]``
+- [Иан Милл, Docker на практике](https://github.com/bormaxi8080/programming-books/blob/main/Docker/Mill_Seers_Docker_in_Practice.pdf) `[pb]`
+
+### Kubernetes
+- [Бернс, Kubernetes: Лучшие практики для профессионалов](https://github.com/bormaxi8080/programming-books/blob/main/DevOps/Berns_Kubernetes_Best_Practices.pdf) `[pb]`
 
 # Frontend
 ### React.js
 - [Learn React.js](https://learn-reactjs.ru/home), полное руководство по React
+- [Пацианский М., React.js для начинающих](https://github.com/bormaxi8080/programming-books/blob/main/Frontend/react-course-ru.pdf) `[pb]`
+- [Пацианский М., React Router](https://github.com/bormaxi8080/programming-books/blob/main/Frontend/react-router-course-ru.pdf) `[pb]`
+- [Пацианский М., Reduх](https://github.com/bormaxi8080/programming-books/blob/main/Frontend/redux-course-ru.pdf) `[pb]`
+
+### Vue.js
+- [Хэнчетт Э,, Vue.js в действии](https://github.com/bormaxi8080/programming-books/blob/main/Frontend/Hanchett_Vue-in-acion.pdf) `[pb]`
+- [Подходит ли Vue для создания большого веб-приложения](https://github.com/bormaxi8080/programming-books#:~:text=%D0%9F%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D0%B8%D1%82%20%D0%BB%D0%B8%20Vue%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B3%D0%BE%20web%2D%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.%20%D0%94%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4) `[pb]`
 
 ### Go Hugo:
 - [Creating Hugo Themes](https://draft.dev/learn/creating-hugo-themes)
@@ -485,6 +521,7 @@ AIOgram async framework:
 
 # Backend
 ### Node.js
+- [Node.js. Официальное руководство](https://github.com/bormaxi8080/programming-books/blob/main/JS/Node.js_Official_Guide.pdf) `[pb]`
 - [Официальный сайт и документация](https://nodejs.org/)
 - [Официальные руководства](https://nodeguide.ru/doc/)
 - [Руководство по Node.js на Habr](https://habr.com/ru/company/ruvds/blog/422893/)
@@ -560,6 +597,7 @@ Async Framework:
 - [GetData.io Web Scraper](https://chrome.google.com/webstore/detail/web-scraper-getdataio/)
 - [OSINTGram](https://telegra.ph/OSINTGRAM-Sobiraem-dannye-iz-Instagram-12-04), собираем данные из Instagram
 - [Web Scrapping with Go](https://www.scrapingbee.com/blog/web-scraping-go/)
+- [Райанн Митчелл, Современный скраппинг веб-сайтов с помощью Python](https://github.com/bormaxi8080/programming-books/blob/main/Other/Mitchel_Python_Web_Scraping.pdf) `[pb]`
 
 # Мобильная разработка
 ### iOS
@@ -578,6 +616,9 @@ Cocoa:
 - [Учебник на русском](http://macbug.ru/cocoa.php)
 - [Хаб на Habr](https://habr.com/ru/hub/cocoa/)
 
+Flutter:
+- [Фрэнк Заметти, Flutter на практике](https://github.com/bormaxi8080/programming-books/blob/main/Other/Flutter_on_practice_2020.pdf) `[pb]`
+
 ### Android
 
 Android Core:
@@ -592,7 +633,6 @@ Kotlin:
 - [Develop Android apps with Kotlin (official)](https://developer.android.com/kotlin)
 
 # Популярные IDE
-
 ### Cемейство IDE от JetBrains
 - [Официальный сайт и документация](https://www.jetbrains.com/)
 
@@ -601,6 +641,7 @@ Kotlin:
 
 # Пентестинг, безопасность и защита
 - [Безопасность](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-7-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C) `[omb]`
+- [Эндрю Хоффман, Безопасность web-приложений: разведка, защита, нападение](https://github.com/bormaxi8080/programming-books/blob/main/Other/Hoffman_Web_applications_security.pdf) `[pb]`
 - [Application Security](https://application.security/free/owasp-top-10), интерактивный чеклист по уязвимостям веб-приложений с объяснениями и рекомендациями к защите
 - [SecurityLab - Soft](https://www.securitylab.ru/software/), огромная подборка всякого разного софта
 
