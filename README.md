@@ -44,8 +44,9 @@
 - [Advanced Bash Scripting Guide](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)
 - [Шпигорь И., Программирование на Bash с нуля](https://github.com/bormaxi8080/programming-books/blob/main/Shell/Bash_programming.pdf) `[pb]`
 - [Вводная статья по Kali Linux](https://hackware.ru/?p=2767)
-- [Oh My Zsh](https://ohmyz.sh/)- платформа с открытым исходным кодом для управления вашей конфигурацией Zsh. Поставляется в комплекте с тысячами полезных функций, помощников, плагинов, тем.
-- [Explain Shell](https://explainshell.com/), объясняет команды терминала и ключи к ним.
+- [Oh My Zsh](https://ohmyz.sh/)- платформа с открытым исходным кодом для управления вашей конфигурацией Zsh. Поставляется в комплекте с тысячами полезных функций, помощников, плагинов, тем
+- [Explain Shell](https://explainshell.com/), объясняет команды терминала и ключи к ним
+- [watch](https://andreyex.ru/operacionnaya-sistema-linux/komanda-watch-v-linux/), команда watch
 
 - Уведомления через Shell:
 > - [Linux notify-send](https://ss64.com/bash/notify-send.html) 
@@ -565,9 +566,10 @@ Async Framework:
 
 - [Lodash](https://lodash.com/docs/), краткий обзор: https://habr.com/ru/post/217515/
 
-- [Node-fetch](https://www.npmjs.com/package/node-fetch), XMLHttpRequest emplementation libraru
+- [Node-fetch](https://www.npmjs.com/package/node-fetch), XMLHttpRequest emplementation library
 - [Chalk](https://github.com/chalk/chalk), раскраска терминала
 - [Debug](https://developer.ibm.com/articles/intro-to-the-nodejs-debug-module/), библиотека для отладки
+- [Moment](https://momentjs.com/), библиотека для работы с датой и временем
 
 - Puppeteer - скрапинг web-сайтов:
 > - https://github.com/puppeteer/puppeteer 
