@@ -374,7 +374,7 @@
 - [Pika](https://pika.readthedocs.io/en/stable/index.html), pure Python implementation of the AMQP 0-9-1 protocol
 
 ### Celery
-- [Официальный сайт и документация](http://celeryproject.org/), Celery async message queue
+- [Официальный сайт и документация](http://celeryproject.org/), Celery Async Message Queue
 - [GitHub](https://github.com/celery/celery), Celery
 - [Введение в Celery](https://docs.celeryproject.org/en/stable/getting-started/introduction.html)
 - [Celery - лучшие практики](https://habr.com/ru/post/269347/)
@@ -385,7 +385,11 @@
 - [Django и Celery](https://django.fun/tutorials/django-i-celery-1-ustanovka/), в связке
 - [Пакет django-celery](https://github.com/adilkhash/django-celery)
 - [Flask & Celery](https://chel-center.ru/python-yfc/2021/05/12/asinhronnye-zadachi-s-celery-v-python/), Асинхронные задачи с Celery в Python
-- [Flower](https://github.com/mher/flower), web based tool for monitoring and administrating Celery clusters:
+- [Flower](https://github.com/mher/flower), web based tool for monitoring and administrating Celery clusters
+- [Celery Configuration and Defaults](https://docs.celeryproject.org/en/stable/userguide/configuration.html)
+- [Настраиваем Celery в Django проекте](https://hashsum.ru/celery-django-redis/)
+- [Celery Periodic Tasks](https://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html?highlight=periodic)
+- [Usign Celery with Django](https://docs.celeryproject.org/en/stable/django/first-steps-with-django.html)
 
 Автоматический веб-скрапинг с помощью Python и Celery:
 - [Часть 1](https://www.internet-technologies.ru/articles/sozdanie-skrapera-rss-kanala-s-pomoschyu-python.html)
