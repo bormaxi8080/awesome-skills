@@ -385,11 +385,14 @@
 - [Django и Celery](https://django.fun/tutorials/django-i-celery-1-ustanovka/), в связке
 - [Пакет django-celery](https://github.com/adilkhash/django-celery)
 - [Flask & Celery](https://chel-center.ru/python-yfc/2021/05/12/asinhronnye-zadachi-s-celery-v-python/), Асинхронные задачи с Celery в Python
-- [Flower](https://github.com/mher/flower), web based tool for monitoring and administrating Celery clusters
 - [Celery Configuration and Defaults](https://docs.celeryproject.org/en/stable/userguide/configuration.html)
 - [Настраиваем Celery в Django проекте](https://hashsum.ru/celery-django-redis/)
 - [Celery Periodic Tasks](https://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html?highlight=periodic)
 - [Usign Celery with Django](https://docs.celeryproject.org/en/stable/django/first-steps-with-django.html)
+- [Asynchronous Tasks with Celery, Flask & RabbitMQ](https://docs.google.com/presentation/d/14tXlzbsMwZXCum5jQDI_WLO-FJKSjAO0xIpP-hrn6r8/htmlpresent)
+
+- [Flower](https://github.com/mher/flower), web based tool for monitoring and administrating Celery clusters
+- [Kombu](https://docs.celeryproject.org/projects/kombu/en/stable/index.html)
 
 Автоматический веб-скрапинг с помощью Python и Celery:
 - [Часть 1](https://www.internet-technologies.ru/articles/sozdanie-skrapera-rss-kanala-s-pomoschyu-python.html)
