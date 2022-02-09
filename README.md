@@ -371,7 +371,13 @@
 - [Введение в RabbitMQ](https://habr.com/ru/post/488654/)
 - [Установка и настройка RabbitMQ в MacOS](https://russianblogs.com/article/91201405100/)
 - [Коротко о работе с RabbitMQ из Python](https://habr.com/ru/post/434510/)
+- [Cloud AMQP Blog](https://www.cloudamqp.com/blog/index.html), хороший блог про AMQP, RabbitMQ и все, связанное с протоколом
 - [Pika](https://pika.readthedocs.io/en/stable/index.html), pure Python implementation of the AMQP 0-9-1 protocol
+- [Using the Pika client](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
+
+RabbitMQ for Beginners - Sample code for Python:
+- [Part 1](https://www.cloudamqp.com/blog/avalanchemq-for-beginners-part-1-what-is-avalanchemq.html)
+- [Part 2](https://www.cloudamqp.com/blog/avalanchemq-for-beginners-part-2-getting-started-with-python.html)
 
 ### Celery
 - [Официальный сайт и документация](http://celeryproject.org/), Celery Async Message Queue
