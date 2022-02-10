@@ -374,7 +374,8 @@
 - [Cloud AMQP Blog](https://www.cloudamqp.com/blog/index.html), хороший блог про AMQP, RabbitMQ и все, связанное с протоколом
 - [Pika](https://pika.readthedocs.io/en/stable/index.html), pure Python implementation of the AMQP 0-9-1 protocol
 - [Using the Pika client](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
-
+- [aio-pika](https://aio-pika.readthedocs.io/en/latest/rabbitmq-tutorial/2-work-queues.html), AsyncIO Pika library
+x
 RabbitMQ for Beginners - Sample code for Python:
 - [Part 1](https://www.cloudamqp.com/blog/avalanchemq-for-beginners-part-1-what-is-avalanchemq.html)
 - [Part 2](https://www.cloudamqp.com/blog/avalanchemq-for-beginners-part-2-getting-started-with-python.html)
@@ -382,7 +383,7 @@ RabbitMQ for Beginners - Sample code for Python:
 ### Celery
 - [Официальный сайт и документация](http://celeryproject.org/), Celery Async Message Queue
 - [GitHub](https://github.com/celery/celery), Celery
-- [Введение в Celery](https://docs.celeryproject.org/en/stable/getting-started/introduction.html)
+- [Введение в Celery](https://docs.celeryproject.org/en/stable/getting-started/introduction.html), оно же [на русском](https://django.fun/docs/celery/ru/5.1/userguide/)
 - [Celery - лучшие практики](https://habr.com/ru/post/269347/)
 - [Celery - начинаем правильно](https://khashtamov.com/ru/celery-best-practices/)
 - [50 оттенков Celery](https://habr.com/ru/company/oleg-bunin/blog/433476/)
