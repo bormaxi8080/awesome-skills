@@ -400,8 +400,8 @@ RabbitMQ for Beginners - Sample code for Python:
 - [# Creating a click counter using Kombu and celery](https://docs.celeryproject.org/en/v2.3.3/tutorials/clickcounter.html), и тут [примерно оно же](https://tproger.ru/articles/ispolzovanie-django-celery-beat-dlja-sozdanija-periodicheskih-zadach-v-django-proektah/) на русском
 
 - [Flower](https://github.com/mher/flower), web based tool for monitoring and administrating Celery clusters
-- [Kombu](https://docs.celeryproject.org/projects/kombu/en/stable/index.html)
-- [celery-message-consumer](https://github.com/depop/celery-message-consumer)
+- [Kombu](https://docs.celeryproject.org/projects/kombu/en/stable/index.html), messaging library for Python
+- [celery-message-consumer](https://github.com/depop/celery-message-consumer), Tool for using the bin/celery worker to consume vanilla AMQP messages (i.e. not Celery tasks)
 
 Автоматический веб-скрапинг с помощью Python и Celery:
 - [Часть 1](https://www.internet-technologies.ru/articles/sozdanie-skrapera-rss-kanala-s-pomoschyu-python.html)
