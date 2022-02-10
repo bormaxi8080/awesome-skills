@@ -401,6 +401,7 @@ RabbitMQ for Beginners - Sample code for Python:
 
 - [Flower](https://github.com/mher/flower), web based tool for monitoring and administrating Celery clusters
 - [Kombu](https://docs.celeryproject.org/projects/kombu/en/stable/index.html)
+- [celery-message-consumer](https://github.com/depop/celery-message-consumer)
 
 Автоматический веб-скрапинг с помощью Python и Celery:
 - [Часть 1](https://www.internet-technologies.ru/articles/sozdanie-skrapera-rss-kanala-s-pomoschyu-python.html)
