@@ -438,6 +438,7 @@ AIOgram async framework:
 - [Telegram-бот на Python за полчаса с AIOgram](https://tproger.ru/articles/telegram-bot-create-and-deploy/)
 - [Знакомство с AIOgram](https://mastergroosha.github.io/telegram-tutorial-2/quickstart/)
 - [AIOgram Broadcaster Library](https://botfather.dev/blog/aiogram-broadcaster-library)
+- [aiojobs](https://aiojobs.readthedocs.io/en/stable/), Jobs scheduler library for managing background task
 
 Платежи в Telegram:
 - [Подключение оплат](https://vc.ru/dev/240195-kak-nastroit-priem-platezhey-2-0-v-telegram-za-5-chasov)
