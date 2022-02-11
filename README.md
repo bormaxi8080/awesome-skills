@@ -418,7 +418,8 @@ RabbitMQ for Beginners - Sample code for Python:
 ### Telegram
 Управление ботами в Telegram:
 - [Telegram на русском](https://tlgrm.ru/blog), очень много всякой информации
-- [Telegram-боты](https://tlgrm.ru/docs/bots#botfather), информация для разработчиков
+- [Telegram-боты](https://tlgrm.ru/docs/bots): информация для разработчиков (официальная документация)
+- [Telegram API](https://core.telegram.org/api/obtaining_api_id)
 - [Модуль Telegram](https://vc.ru/services/278869-modul-telegram-sozdanie-chat-bota-i-kanala-minimalnye-nastroyki-komponentov), создание чат-бота и канала, минимальные настройки компонентов
 - [Всё, о чём должен знать разработчик Телеграм-ботов](https://habr.com/ru/post/543676/)
 - [Пишем ботов для Telegram на языке Python](https://mastergroosha.github.io/telegram-tutorial/)
@@ -432,6 +433,7 @@ AIOgram async framework:
 - [Быстрый старт]https://surik00.gitbooks.io/aiogram-lessons/content/chapter1.html)
 - [Telegram-бот на Python за полчаса с aiogram](https://tproger.ru/articles/telegram-bot-create-and-deploy/)
 - [Знакомство с AIOgram](https://mastergroosha.github.io/telegram-tutorial-2/quickstart/)
+- [AIOgram Broadcaster Library](https://botfather.dev/blog/aiogram-broadcaster-library)
 
 Платежи в Telegram:
 - [Подключение оплат](https://vc.ru/dev/240195-kak-nastroit-priem-platezhey-2-0-v-telegram-za-5-chasov)
