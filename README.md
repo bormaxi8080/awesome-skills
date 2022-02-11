@@ -373,6 +373,7 @@
 - [Коротко о работе с RabbitMQ из Python](https://habr.com/ru/post/434510/)
 - [Cloud AMQP Blog](https://www.cloudamqp.com/blog/index.html), хороший блог про AMQP, RabbitMQ и все, связанное с протоколом
 - [Pika](https://pika.readthedocs.io/en/stable/index.html), pure Python implementation of the AMQP 0-9-1 protocol
+- [Pika Examples](https://github.com/pika/pika/tree/master/examples), official
 - [Using the Pika client](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
 - [Простые примеры на Pika](https://habr.com/ru/sandbox/126064/) Python для работы со статичными (reject) очередями RabbitMQ
 - [aio-pika](https://aio-pika.readthedocs.io/en/latest/rabbitmq-tutorial/2-work-queues.html), AsyncIO Pika library
