@@ -434,7 +434,7 @@ Async.IO:
 AIOgram async framework:
 - [AIOgram GitHub](https://github.com/aiogram/aiogram)
 - [Официальная документация по AIOgram](https://docs.aiogram.dev/en/latest/)
-- [Быстрый старт]https://surik00.gitbooks.io/aiogram-lessons/content/chapter1.html)
+- [Быстрый старт](https://surik00.gitbooks.io/aiogram-lessons/content/chapter1.html)
 - [Telegram-бот на Python за полчаса с aiogram](https://tproger.ru/articles/telegram-bot-create-and-deploy/)
 - [Знакомство с AIOgram](https://mastergroosha.github.io/telegram-tutorial-2/quickstart/)
 - [AIOgram Broadcaster Library](https://botfather.dev/blog/aiogram-broadcaster-library)
