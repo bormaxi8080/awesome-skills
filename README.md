@@ -376,7 +376,7 @@
 - [Using the Pika client](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
 - [Простые примеры на Pika](https://habr.com/ru/sandbox/126064/) Python для работы со статичными (reject) очередями RabbitMQ
 - [aio-pika](https://aio-pika.readthedocs.io/en/latest/rabbitmq-tutorial/2-work-queues.html), AsyncIO Pika library
-x
+
 RabbitMQ for Beginners - Sample code for Python:
 - [Part 1](https://www.cloudamqp.com/blog/avalanchemq-for-beginners-part-1-what-is-avalanchemq.html)
 - [Part 2](https://www.cloudamqp.com/blog/avalanchemq-for-beginners-part-2-getting-started-with-python.html)
