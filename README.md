@@ -427,6 +427,10 @@ RabbitMQ for Beginners - Sample code for Python:
 - [Python telegram.ext package](https://python-telegram-bot.readthedocs.io/en/stable/telegram.ext.html_
 - [Лимиты, существующие в Telegram](https://www.vamtlgrm.com/limity-sushhestvuyushhie-v-telegram/)
 
+Async.IO:
+
+- [Async.IO в Python 3](http://onreader.mdl.ru/UsingAsyncioPython3/content/index.html#ToC)
+
 AIOgram async framework:
 - [AIOgram GitHub](https://github.com/aiogram/aiogram)
 - [Официальная документация по AIOgram](https://docs.aiogram.dev/en/latest/)
