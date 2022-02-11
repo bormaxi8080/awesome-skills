@@ -376,6 +376,8 @@
 - [Using the Pika client](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
 - [Простые примеры на Pika](https://habr.com/ru/sandbox/126064/) Python для работы со статичными (reject) очередями RabbitMQ
 - [aio-pika](https://aio-pika.readthedocs.io/en/latest/rabbitmq-tutorial/2-work-queues.html), AsyncIO Pika library
+- [Мониторинг сообщений в RabbitMQ](https://habr.com/ru/post/447412/)
+- [Building microservices for Telegram bot using Node.js, RabbitMQ, MongoDB and Docker from scratch](https://medium.com/@denismalykhin/building-microservices-for-telegram-bot-using-node-js-rabbitmq-mongodb-and-docker-from-scratch-12640d172b8f)
 
 RabbitMQ for Beginners - Sample code for Python:
 - [Part 1](https://www.cloudamqp.com/blog/avalanchemq-for-beginners-part-1-what-is-avalanchemq.html)
