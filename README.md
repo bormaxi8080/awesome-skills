@@ -450,6 +450,7 @@ AIOgram async framework:
 - [Документация по Django от Mozilla](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django)
 - [Исчерпывающая книга про Django](https://djbook.ru/rel3.0/), неплохая документация на русском
 - [DJBook](https://djbook.ru/), и тут всего остального про Django навалом
+- [Django models best practices](https://techrocks.ru/2021/04/22/django-models-best-practices/)
 - [Хаб по Django на Хабре](https://habr.com/ru/hub/django/), Django
 - [Django fun](https://django.fun/)
 - [Статьи про Django](https://django.fun/tutorials/)
