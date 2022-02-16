@@ -457,7 +457,8 @@ AIOgram async framework:
 - [Django models best practices](https://techrocks.ru/2021/04/22/django-models-best-practices/)
 - [Справочник по полям модели](https://djbook.ru/rel1.9/ref/models/fields.html#django.db.models.DateField)
 - [Транзакции в Django](https://django.fun/docs/django/ru/3.2/topics/db/transactions/)
-- [# Transaction Management with Djang](https://realpython.com/transaction-management-with-django-1-6/)
+- [Transaction Management with Django](https://realpython.com/transaction-management-with-django-1-6/)
+- [django-filter module](https://django-filter.readthedocs.io/en/stable/guide/usage.html)
 
 ### Flask
 - [Официальный сайт и документация](https://flask.palletsprojects.com/en/2.0.x/), Flask
