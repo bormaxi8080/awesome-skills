@@ -452,6 +452,7 @@ AIOgram async framework:
 - [Исчерпывающая книга про Django](https://djbook.ru/rel3.0/), неплохая документация на русском
 - [DJBook](https://djbook.ru/), и тут всего остального про Django навалом
 - [Django models best practices](https://techrocks.ru/2021/04/22/django-models-best-practices/)
+- [Справочник по полям модели](https://djbook.ru/rel1.9/ref/models/fields.html#django.db.models.DateField)
 - [Хаб по Django на Хабре](https://habr.com/ru/hub/django/), Django
 - [Django fun](https://django.fun/)
 - [Статьи про Django](https://django.fun/tutorials/)
