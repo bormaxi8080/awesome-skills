@@ -400,6 +400,7 @@ RabbitMQ for Beginners - Sample code for Python:
 - [Настраиваем Celery в Django проекте](https://hashsum.ru/celery-django-redis/)
 - [Celery Periodic Tasks](https://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html?highlight=periodic)
 - [Usign Celery with Django](https://docs.celeryproject.org/en/stable/django/first-steps-with-django.html)
+- [Example Django project using Celery](https://github.com/celery/celery/tree/master/examples/django/)
 - [Asynchronous Tasks with Celery, Flask & RabbitMQ](https://docs.google.com/presentation/d/14tXlzbsMwZXCum5jQDI_WLO-FJKSjAO0xIpP-hrn6r8/htmlpresent)
 - [# Creating a click counter using Kombu and celery](https://docs.celeryproject.org/en/v2.3.3/tutorials/clickcounter.html), и тут [примерно оно же](https://tproger.ru/articles/ispolzovanie-django-celery-beat-dlja-sozdanija-periodicheskih-zadach-v-django-proektah/) на русском
 
