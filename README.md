@@ -370,6 +370,7 @@
 - [Официальный сайт и документация](https://www.rabbitmq.com/), RabbitMQ message broker
 - [Введение в RabbitMQ](https://habr.com/ru/post/488654/)
 - [Установка и настройка RabbitMQ в MacOS](https://russianblogs.com/article/91201405100/)
+- Маленькое руководство по старту на Habr: [часть 1](https://habr.com/ru/post/149694/) и [часть 2](https://habr.com/ru/post/150134/)
 - [Коротко о работе с RabbitMQ из Python](https://habr.com/ru/post/434510/)
 - [Cloud AMQP Blog](https://www.cloudamqp.com/blog/index.html), хороший блог про AMQP, RabbitMQ и все, связанное с протоколом
 - [Pika](https://pika.readthedocs.io/en/stable/index.html), pure Python implementation of the AMQP 0-9-1 protocol
