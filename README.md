@@ -783,9 +783,14 @@ Metasploit Framework:
 - [Описание на Habr](https://habr.com/ru/post/496126/), Chipmunk
 
 # Полезные утилиты
-### Balena Etcher - создание образов дисков на MacOS
+
+Balena Etcher - создание образов дисков на MacOS:
 - [Официальный сайт](https://www.balena.io/etcher/)
 - [На русском](https://balena-etcher.com/)
+
+Calibre - управление электронной библиотекой:
+- [Руководство пользователя Calibre](https://manual.calibre-ebook.com/ru/)
+- [Настройка среды разработки Calibre](https://manual.calibre-ebook.com/ru/develop.html)
 
 # Разное
 -   [You Might Not Need JS](http://youmightnotneedjs.com/), набор фич, некоторые их которых действительно можно сделать без JS
