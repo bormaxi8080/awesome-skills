@@ -55,6 +55,10 @@
 >
 > - [MacOS terminal-notifier](https://github.com/julienXX/terminal-notifier)
 
+- [Работа с файлами в терминале Linux](https://comp-security.net/%D0%BA%D0%B0%D0%BA-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C-%D1%84%D0%B0%D0%B9%D0%BB-%D0%B2-%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D0%B5-linux/#:~:text=%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%20Nano-,%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%20cat%20%D0%B8%20tac,%E2%80%93%20%D1%8D%D1%82%D0%BE%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20%C2%ABcat%C2%BB.&text=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%20%D0%B2%D1%81%D0%B5,%D0%B1%D1%83%D0%B4%D0%B5%D1%82%20%D0%B2%D1%8B%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%BE%20%D0%B2%20%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%20Linux.)
+- [Работа с файлами по SSH на Linux](https://help.reg.ru/hc/ru/articles/4408047804433-%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-SSH)
+- [Права доступа к файлам в Linux](https://losst.ru/prava-dostupa-k-fajlam-v-linux)
+
 ### Git
 - [Базовая работа с Git](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-7-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C) `[omb]`
 - [Официальный сайт и документация](https://git-scm.com/)
@@ -73,6 +77,7 @@
 
 ### Работа с сетью
 - [Сеть](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-4-%D1%81%D0%B5%D1%82%D1%8C) `[omb]`
+- [Traceroute](https://ru.wikipedia.org/wiki/Traceroute)
 
 ### Markdown, редактура
 - [Краткое руководство по MD](https://paulradzkov.com/2014/markdown_cheatsheet/)
@@ -194,6 +199,12 @@
 - [Хорошие туториалы по PostgreSQL на английском](https://www.postgresqltutorial.com/)
 - [Psycopg](https://www.psycopg.org/), PostgreSQL adapter for Python
 - [PostgreSQL Notes For Professionals](https://github.com/bormaxi8080/programming-books/blob/main/Databases) `[pb]`
+- [Шпаргалка по основным командам PostgreSQL](https://www.oslogic.ru/knowledge/598/shpargalka-po-osnovnym-komandam-postgresql/)
+
+Pgpool-II:
+- [Main page](https://pgpool.net/mediawiki/index.php/Main_Page)
+- [Documentation (v.4.2)](https://www.pgpool.net/docs/42/en/html/index.html)
+- [Перевод на русском](https://undenied.ru/2009/03/04/uchebnoe-rukovodstvo-po-pgpool-ii/)
 
 ### SQLite
 - [Официальный сайт и документация](https://www.sqlite.org), SQLite
