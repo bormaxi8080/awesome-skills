@@ -47,6 +47,8 @@
 - [Oh My Zsh](https://ohmyz.sh/)- платформа с открытым исходным кодом для управления вашей конфигурацией Zsh. Поставляется в комплекте с тысячами полезных функций, помощников, плагинов, тем
 - [Explain Shell](https://explainshell.com/), объясняет команды терминала и ключи к ним
 - [watch](https://andreyex.ru/operacionnaya-sistema-linux/komanda-watch-v-linux/), команда watch
+- [Команда ps, управление процессами в LInux](https://losst.ru/spisok-protsessov-linux)
+- [Команда kill](https://www.linuxfoundation.org/blog/classic-sysadmin-how-to-kill-a-process-from-the-command-line/)
 
 - Уведомления через Shell:
 > - [Linux notify-send](https://ss64.com/bash/notify-send.html) 
@@ -617,6 +619,7 @@ Async Framework:
 - [Chalk](https://github.com/chalk/chalk), раскраска терминала
 - [Debug](https://developer.ibm.com/articles/intro-to-the-nodejs-debug-module/), библиотека для отладки
 - [Moment](https://momentjs.com/), библиотека для работы с датой и временем
+- [Nodemon](https://www.digitalocean.com/community/tutorials/workflow-nodemon-ru)
 
 - Puppeteer - скрапинг web-сайтов:
 > - https://github.com/puppeteer/puppeteer 
