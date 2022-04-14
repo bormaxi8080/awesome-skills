@@ -817,6 +817,7 @@ Calibre - управление электронной библиотекой:
 -   [Jest Mocking Strategies](https://mercedesbernard.com/blog/jest-mocking-strategies), мои моки в Jest никогда не работают с первого раза
 -   [Debounce / Throttle](http://demo.nimius.net/debounce_throttle/), показывает разницу между `debounce` и `throttle`
 -   [Anything to Anything Transformer](https://transform.tools/json-schema-to-openapi-schema), конвертирует что угодно во что угодно
+-   [List of Chrome URLs](chrome://chrome-urls/)
 
 ### Сервисы поиска исходного кода:
 - [SearchCode](https://searchcode.com/)
