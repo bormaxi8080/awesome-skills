@@ -606,6 +606,7 @@ Express Framework:
 - [Руководство по Express от Mozilla](https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs)
 
 - [Fastify](https://www.fastify.io/), краткий обзор: https://habr.com/ru/post/555668/
+- [cors](https://expressjs.com/en/resources/middleware/cors.html)
 
 Async Framework:
 
@@ -632,6 +633,11 @@ Async Framework:
 
 - [Lerna](https://github.com/lerna/lerna), A tool for managing JavaScript projects with multiple packages
 
+Swagger:
+
+- [Node.js: документирование и визуализация API с помощью Swagger](https://habr.com/ru/company/timeweb/blog/594081/)
+- [swagger-autogen npm package](https://www.npmjs.com/package/swagger-autogen)
+
 - Модули node для работы с SQLite:
 
 > - [node-sqlite](https://github.com/grumdrig/node-sqlite)
@@ -657,6 +663,7 @@ Async Framework:
 > Обсуждение автоматического определения языков: https://habr.com/ru/post/52239/
 >
 > На данный момент самый "крутой" способ определить язык и сделать относительно точный перевод - использовать translate.google.com через Puppeteer или другую библиотеку, подставляя нужные значения. Еще интересный вариант - переводить с помощью функции GOOGLETRANSLATE в таблице Google: https://shagabutdinov.ru/translate_sheets/
+
 
 ### Web Scraping
 - [GetData.io Web Scraper](https://chrome.google.com/webstore/detail/web-scraper-getdataio/)
