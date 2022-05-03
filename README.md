@@ -60,6 +60,7 @@
 - [Работа с файлами в терминале Linux](https://comp-security.net/%D0%BA%D0%B0%D0%BA-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C-%D1%84%D0%B0%D0%B9%D0%BB-%D0%B2-%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D0%B5-linux/#:~:text=%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%20Nano-,%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%20cat%20%D0%B8%20tac,%E2%80%93%20%D1%8D%D1%82%D0%BE%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20%C2%ABcat%C2%BB.&text=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%20%D0%B2%D1%81%D0%B5,%D0%B1%D1%83%D0%B4%D0%B5%D1%82%20%D0%B2%D1%8B%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%BE%20%D0%B2%20%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%20Linux.)
 - [Работа с файлами по SSH на Linux](https://help.reg.ru/hc/ru/articles/4408047804433-%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-SSH)
 - [Права доступа к файлам в Linux](https://losst.ru/prava-dostupa-k-fajlam-v-linux)
+- [Утилита PM2](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-18-04-ru) для развертывания беперебойной работы Node.js на сервере
 
 ### Git
 - [Базовая работа с Git](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-7-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C) `[omb]`
@@ -621,6 +622,7 @@ Async Framework:
 - [Debug](https://developer.ibm.com/articles/intro-to-the-nodejs-debug-module/), библиотека для отладки
 - [Moment](https://momentjs.com/), библиотека для работы с датой и временем
 - [Nodemon](https://www.digitalocean.com/community/tutorials/workflow-nodemon-ru)
+- [request-ip](https://www.npmjs.com/package/request-ip)
 
 - Puppeteer - скрапинг web-сайтов:
 > - https://github.com/puppeteer/puppeteer 
@@ -637,6 +639,8 @@ Swagger:
 
 - [Node.js: документирование и визуализация API с помощью Swagger](https://habr.com/ru/company/timeweb/blog/594081/)
 - [swagger-autogen npm package](https://www.npmjs.com/package/swagger-autogen)
+- [API versioning in Node.js](https://stackoverflow.com/questions/51513715/node-js-rest-api-versioning-the-right-way)
+- [Setting Up Automated Semantic Versioning For Your NodeJS Project](https://soshace.com/setting-up-automated-semantic-versioning-for-your-nodejs-project/)
 
 - Модули node для работы с SQLite:
 
@@ -790,6 +794,7 @@ Metasploit Framework:
 
 # Логи и метрики
 - [Логи и метрики](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-11-%D0%BB%D0%BE%D0%B3%D0%B8-%D0%B8-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8) `[omb]`
+- [Retrace](https://stackify.com/retrace/), log analyzing platform
 
 ### Prometheus
 - [Официальный сайт и документация](https://prometheus.io/), Prometheus - metrics and alerting with the leading open-source monitoring solution
