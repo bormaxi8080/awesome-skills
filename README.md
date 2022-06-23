@@ -370,6 +370,7 @@ Pgpool-II:
 ### Redis
 - [Официальный сайт и документация](https://redis.io/), Redis is an open source in-memory data structure store, used as a database, cache, and message broker
 - [Маленькая книга о Redis](https://3s.group/upload/iblock/890/890258c1a79e7154773b210ea701b184.pdf), оно же [тут](https://github.com/bormaxi8080/programming-books/blob/main/Other/Seguin_redis-liitle-book.pdf) `[pb]`
+- [Команды Redis](https://redis.io/commands/)
 - [Redis для начинающих](https://webdevblog.ru/redis-dlya-nachinajushhij/)
 - [Вводная по Redis на AWS](https://aws.amazon.com/ru/redis/)
 - [Шпаргалка по Redis на Хабре](https://habr.com/ru/post/204354/)
@@ -491,11 +492,14 @@ AIOgram async framework:
 - [Небольшая вводная в Tornado](https://habr.com/ru/sandbox/27705/)
 
 ### Docker
-- [Официальный сайт и документация](https://docs.docker.com/). Docker
+- [Docker - Официальный сайт и документация](https://docs.docker.com/)
+- [Установка и настройка Docker в Ubuntu](https://selectel.ru/blog/docker-install-ubuntu/)
 - [Docker - быстрый старт](https://tproger.ru/translations/how-to-start-using-docker/)
 - [Полное практическое руководство по Docker](https://habr.com/ru/post/310460/), на русском
 - [Виртуализация Docker](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-1-%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-docker) `[omb]``
 - [Иан Милл, Docker на практике](https://github.com/bormaxi8080/programming-books/blob/main/Docker/Mill_Seers_Docker_in_Practice.pdf) `[pb]`
+- [Основные команды Docker](https://timeweb.com/ru/community/articles/osnovnye-komandy-docker)
+- [10 команд для Docker, без которых вам не обойтись](https://tproger.ru/translations/top-10-docker-commands/)
 
 ### Kubernetes
 - [Бернс, Kubernetes: Лучшие практики для профессионалов](https://github.com/bormaxi8080/programming-books/blob/main/DevOps/Berns_Kubernetes_Best_Practices.pdf) `[pb]`
@@ -594,6 +598,9 @@ AIOgram async framework:
 - [Руководство на Metalint](https://metanit.com/web/nodejs/)
 - [Управление версиями Node.js и NPM](https://habr.com/ru/company/timeweb/blog/541452/), с помощью NVM
 - [Using Node in JetBrains WebStorm](https://www.jetbrains.com/help/webstorm/developing-node-js-applications.html#ws_node_version)
+- [Многопоточность в Node.js](https://tproger.ru/translations/guide-to-threads-in-node-js/)
+- [Как работает Event Loop в Node.js](https://frontender.info/understanding-the-node-js-event-loop/)
+- [Докеризация приложения Node.js](https://nodejs.org/ru/docs/guides/nodejs-docker-webapp/)
 
 Книги:
 
@@ -615,6 +622,15 @@ Async Framework:
 >
 > - [Руководство по Async](https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async), от Mozilla
 
+Passport.js:
+
+- [Passport.js - официальный сайт и документация](https://www.passportjs.org/)
+- [Еще раз о passport.js](https://habr.com/ru/post/435106/)
+
+Push notifications:
+
+- [push.js](https://ru.stackoverflow.com/questions/264422/push-notifications)
+
 - [Lodash](https://lodash.com/docs/), краткий обзор: https://habr.com/ru/post/217515/
 
 - [Node-fetch](https://www.npmjs.com/package/node-fetch), XMLHttpRequest emplementation library
@@ -635,12 +651,17 @@ Async Framework:
 
 - [Lerna](https://github.com/lerna/lerna), A tool for managing JavaScript projects with multiple packages
 
+Socket.IO
+
+- [Socket.IO - сайт и документация](https://socket.io/)
+
 Swagger:
 
 - [Node.js: документирование и визуализация API с помощью Swagger](https://habr.com/ru/company/timeweb/blog/594081/)
 - [swagger-autogen npm package](https://www.npmjs.com/package/swagger-autogen)
 - [API versioning in Node.js](https://stackoverflow.com/questions/51513715/node-js-rest-api-versioning-the-right-way)
 - [Setting Up Automated Semantic Versioning For Your NodeJS Project](https://soshace.com/setting-up-automated-semantic-versioning-for-your-nodejs-project/)
+- [Swagger-autogen](https://www.npmjs.com/package/swagger-autogen)
 
 - Модули node для работы с SQLite:
 
