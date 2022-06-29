@@ -630,8 +630,19 @@ Passport.js:
 Push notifications:
 
 - [push.js](https://ru.stackoverflow.com/questions/264422/push-notifications)
+- [Pusher - Powering realtime experiences for mobile and web](https://pusher.com/)
+- [Pusher - NPM](https://www.npmjs.com/package/pusher)
+
+Lodash:
 
 - [Lodash](https://lodash.com/docs/), краткий обзор: https://habr.com/ru/post/217515/
+
+Nest.js:
+
+- [Официальный сайт Nest.js](https://nestjs.com)
+- [Nest.js documentation](https://docs.nestjs.com/)
+- [Гайд по Nest.js: что это такое и как написать свой первый код](https://ru.hexlet.io/blog/posts/gid-po-nest-js)
+- [NestJS - тот самый, настоящий бэкенд на nodejs](https://habr.com/ru/post/439434/)
 
 - [Node-fetch](https://www.npmjs.com/package/node-fetch), XMLHttpRequest emplementation library
 - [Chalk](https://github.com/chalk/chalk), раскраска терминала
