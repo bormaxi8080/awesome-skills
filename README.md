@@ -2,7 +2,7 @@
 
 ### Что это?
 
-Этот репозитарий содержит систематизированную коллекцию материалов о составляющих различных экосистем (основные концепции, ОС, языки и среды разработки, фреймворки, API, различные утилиты, базы данных, безопасность, тестирование и пентест и др.), с которыми сталкиваются современные квалифицированные разработчики.
+Этот репозитарий содержит систематизированную коллекцию материалов о составляющих различных экосистем (основные концепции, ОС, языки и среды разработки, фреймворки, API, различные утилиты, базы данных, безопасность, тестирование и пентест и др.), с которыми сталкиваются современные разработчики. Руководство подойдет как для начинающих, так и для продвинутых специалистов.
 
 > Репозитарий изначально создавался для личных нужд как справочник, но, возможно, будет полезен широкому кругу специалистов.
 > Большая часть материалов касается работы на ОС стека MacOS и Linux, поскольку автору они ближе, чем остальные.
@@ -130,6 +130,9 @@
 - [Перевод официальной документации](https://hackware.ru/?p=2767), Kali Linux
 - [Небольшая вводная статья](https://teletype.in/@hackerseverywhere/BympqZiD4), Kali Linux
 
+# Облачные хостинги
+- [Выбираем бесплатный сервер в облаке для тестовых целей, домашних проектов и т.д](https://habr.com/ru/post/332130/)
+
 # Виртуальные машины
 
 ### Oracle VM VirtualBox
@@ -192,7 +195,7 @@
 ### MariaDB
 - [Официальный сайт и документация](https://mariadb.com/), MariaDB
 - [MariaDB foundation](https://mariadb.org/)
-- [История проекта](https://ru.wikipedia.org/wiki/MariaDB), MariaDB
+- [История проекта MariaDB](https://ru.wikipedia.org/wiki/MariaDB), MariaDB
 - [Установка MariaDB на MacOS](https://mariadb.com/kb/en/installing-mariadb-on-macos-using-homebrew/)
 
 ### PostrgeSQL
@@ -203,9 +206,10 @@
 - [Psycopg](https://www.psycopg.org/), PostgreSQL adapter for Python
 - [PostgreSQL Notes For Professionals](https://github.com/bormaxi8080/programming-books/blob/main/Databases) `[pb]`
 - [Шпаргалка по основным командам PostgreSQL](https://www.oslogic.ru/knowledge/598/shpargalka-po-osnovnym-komandam-postgresql/)
+- [Запускаем PostgreSQL в Docker: от простого к сложному](https://habr.com/ru/post/578744/)
 
 Pgpool-II:
-- [Main page](https://pgpool.net/mediawiki/index.php/Main_Page)
+- [PgPool-II Main page](https://pgpool.net/mediawiki/index.php/Main_Page)
 - [Documentation (v.4.2)](https://www.pgpool.net/docs/42/en/html/index.html)
 - [Перевод на русском](https://undenied.ru/2009/03/04/uchebnoe-rukovodstvo-po-pgpool-ii/)
 
@@ -219,6 +223,12 @@ Pgpool-II:
 - [Руководство по mongoDB на CoderLessons](https://coderlessons.com/tutorials/bazy-dannykh/uchitsia-mongodb/mongodb-kratkoe-rukovodstvo)
 - [Примеры работы с MongoDB на Node.js](https://nodejsdev.ru/doc/mongodb/)
 - [Бредшоу Ш., MongoDB: Полное руководство](https://github.com/bormaxi8080/programming-books/blob/main/Databases) `[pb]`
+
+### InfluxDB
+- [Знакомство с InfluxDB и базами данных временных рядов](https://tproger.ru/translations/influxdb-guide/)
+- [Installing InfluxDB OSS](https://docs.influxdata.com/influxdb/v1.7/introduction/installation/)
+- [The Definitive Guide To InfluxDB In 2019](https://devconnected.com/the-definitive-guide-to-influxdb-in-2019/)
+- [Influx Admin Panel](https://grafana.com/grafana/plugins/natel-influx-admin-panel/)
 
 # Проектирование и разработка
 - [Проектирование и разработка](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-12-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0) `[omb]`
@@ -241,7 +251,6 @@ Pgpool-II:
 - [Титус Виттерс, Делай как в Google (Software Engineering in Google)](https://github.com/bormaxi8080/programming-books/blob/main/Other/Software_Engineering_in_Google.pdf)`[pb]`
 
 ### Типы приложений
-
 ### Тестирование
 -[PencilTests](https://github.com/bormaxi8080/PencilTests) `[pb]`, копия моей нашумевшей в свое время на Хабре статьи о тестировании карандаша ))
 
@@ -258,8 +267,8 @@ Pgpool-II:
 
 ### JavaScript и SPA
 - [Метриалы по JS, спецификация и учебник от Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-- [JavaScript COM](https://www.javascript.com/)
-- [JavaScript RU](https://javascript.ru/), исчерпывающая информация по JavaScript на русском
+- [JavaScript.COM](https://www.javascript.com/)
+- [JavaScript.RU](https://javascript.ru/), исчерпывающая информация по JavaScript на русском
 - [Learn JavaScript](https://learn.javascript.ru/), современный учебник по JavaScript
 
 Илья Кантор - JavaScript, полное руководство `[pb]`:
@@ -270,12 +279,13 @@ Pgpool-II:
 - Вот этот парень у себя в LinkedIn делает классные мануалы/примеры кода по JS: https://www.linkedin.com/in/sam-shpakov/
 
 ### TypeScript
+- [Официальный сайт и документация](https://www.typescriptlang.org/), TypeScript
 - [Running and debugging TypeScript in JetBrains WebStorm](https://www.jetbrains.com/help/webstorm/running-and-debugging-typescript.html)
 
 ### C++
 - [Официальный сайт стандарта C++](https://isocpp.org/)
 - [Большой сайт по C++, документация](https://www.cplusplus.com/)
-- [Туториалы](https://www.w3schools.com/cpp/cpp_intro.asp)
+- [Туториалы по C++](https://www.w3schools.com/cpp/cpp_intro.asp)
 - [Бьерн Страуструп, Язык программирования C++, 2 издание](https://github.com/bormaxi8080/programming-books/blob/main/CPP/straustrup_cpp.pdf) `[pb]`
 - [Кувшинов Д., Язык C++: Основы программирования](https://github.com/bormaxi8080/programming-books/blob/main/CPP/kuvshinov_dr_osipov_si_osnovy_programmirovaniia_iazyk_c_P.pdf) `[pb]`
 
@@ -335,7 +345,7 @@ Pgpool-II:
 - [Vegeta](https://github.com/tsenart/vegeta), GoLang HTTP Load Testing Tool and Library
 
 ### PHP
-- [Официальный сайт и документация](https://www.php.net/), PHP
+- [Официальный сайт и документация по PHP](https://www.php.net/), PHP
 - [Дэвид Скляр, PHP: Сборник рецептов](https://github.com/bormaxi8080/programming-books/blob/main/PHP/Sklyar_PHP_Reciepts.pdf) `[pb]`
 
 ### Ruby, RubyOnRails
@@ -502,6 +512,7 @@ AIOgram async framework:
 - [10 команд для Docker, без которых вам не обойтись](https://tproger.ru/translations/top-10-docker-commands/)
 
 ### Kubernetes
+- [Официальная документация по Kubernetes](https://kubernetes.io/ru/docs/home/)
 - [Бернс, Kubernetes: Лучшие практики для профессионалов](https://github.com/bormaxi8080/programming-books/blob/main/DevOps/Berns_Kubernetes_Best_Practices.pdf) `[pb]`
 
 # Frontend
@@ -588,11 +599,15 @@ AIOgram async framework:
 - [UX Club](https://www.facebook.com/groups/136827946465842), самое большое российское коммьюнити по UX
 
 # Backend
+### Nest.js
+- [Официальный сайт и документация по Nest.js](https://nestjs.com/)
+- [Гайд по Nest.js: что это такое и как написать свой первый код](https://ru.hexlet.io/blog/posts/gid-po-nest-js)
+
 ### Node.js
-- [Официальный сайт и документация](https://nodejs.org/)
+- [Официальный сайт и документация по Node.js](https://nodejs.org/)
 - [Официальные руководства](https://nodeguide.ru/doc/)
 - [Руководство по Node.js на Habr](https://habr.com/ru/company/ruvds/blog/422893/)
-- [Полная версия руководства на Habr](https://habr.com/ru/company/ruvds/blog/428576/) + PDF
+- [Полная версия руководства по Node.js на Habr](https://habr.com/ru/company/ruvds/blog/428576/) + PDF
 - [Сайт для разработчиков Node.js](https://nodejsdev.ru/), на русском
 - [Node.js. Официальное руководство](https://github.com/bormaxi8080/programming-books/blob/main/JS/Node.js_Official_Guide.pdf) `[pb]`
 - [Руководство на Metalint](https://metanit.com/web/nodejs/)
@@ -610,7 +625,7 @@ AIOgram async framework:
 
 Express Framework:
 
-- [Официальный сайт и документация](https://expressjs.com/ru/), Express
+- [Официальный сайт и документация по Express](https://expressjs.com/ru/), Express
 - [Руководство по Express от Mozilla](https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs)
 
 - [Fastify](https://www.fastify.io/), краткий обзор: https://habr.com/ru/post/555668/
@@ -618,13 +633,13 @@ Express Framework:
 
 Async Framework:
 
-> - [Async, официальная документация](https://caolan.github.io/async/v3/docs.html) 
+> - [Async, официальная документация по Async](https://caolan.github.io/async/v3/docs.html) 
 >
 > - [Руководство по Async](https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async), от Mozilla
 
 Passport.js:
 
-- [Passport.js - официальный сайт и документация](https://www.passportjs.org/)
+- [Passport.js - официальный сайт и документация по Passport.js](https://www.passportjs.org/)
 - [Еще раз о passport.js](https://habr.com/ru/post/435106/)
 
 Push notifications:
@@ -830,7 +845,8 @@ Metasploit Framework:
 
 ### Prometheus
 - [Официальный сайт и документация](https://prometheus.io/), Prometheus - metrics and alerting with the leading open-source monitoring solution
-- [Вводная статья на Habr](https://habr.com/ru/company/southbridge/blog/455290/)
+- [Введение в мониторинг серверов с помощью Prometheus и Grafana](https://habr.com/ru/post/652185/)
+- [Полное руководство по Prometheus в 2019 году](https://habr.com/ru/company/southbridge/blog/455290/)
 
 ### Grafana
 - [Официальный сайт и документация](https://grafana.com/), Grafana - operational dashboards
