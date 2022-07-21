@@ -61,6 +61,7 @@
 - [Работа с файлами по SSH на Linux](https://help.reg.ru/hc/ru/articles/4408047804433-%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-SSH)
 - [Права доступа к файлам в Linux](https://losst.ru/prava-dostupa-k-fajlam-v-linux)
 - [Утилита PM2](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-18-04-ru) для развертывания беперебойной работы Node.js на сервере
+- [Утилиты top, htop, atop и др.](https://habr.com/ru/post/114082/)
 
 ### Git
 - [Базовая работа с Git](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-7-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C) `[omb]`
