@@ -202,6 +202,7 @@
 ### PostrgeSQL
 - [Официальный сайт и документация](https://www.postgresql.org/), PostgreSQL
 - [Установка и настройка PostgreSQL](https://wiki.calculate-linux.org/ru/postgresql)
+- [Настройка PostgreSQL под Linux](https://habr.com/ru/post/590599/)
 - [Руководство по PostgreSQL на Metanit](https://metanit.com/sql/postgresql/)
 - [Хорошие туториалы по PostgreSQL на английском](https://www.postgresqltutorial.com/)
 - [Psycopg](https://www.psycopg.org/), PostgreSQL adapter for Python
