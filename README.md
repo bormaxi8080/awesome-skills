@@ -201,8 +201,14 @@
 
 ### PostrgeSQL
 - [Официальный сайт и документация](https://www.postgresql.org/), PostgreSQL
-- [Установка и настройка PostgreSQL](https://wiki.calculate-linux.org/ru/postgresql)
+- [Установка и настройка PostgreSQL на Linux](https://wiki.calculate-linux.org/ru/postgresql)
+- [Установка и настройка PostgreSQL на MacOS](https://www.sqlshack.com/setting-up-a-postgresql-database-on-mac/)
+- [Setting up a PostgreSQL Database on Mac](https://www.sqlshack.com/setting-up-a-postgresql-database-on-mac/)
 - [Настройка PostgreSQL под Linux](https://habr.com/ru/post/590599/)
+- [Утилита psql](https://sysadminium.ru/postgresql-psql/)
+- [How to change PostgreSQL user password?](https://stackoverflow.com/questions/12720967/how-to-change-postgresql-user-password)
+- [PostgreSql Software Catalogue - Administration/development tools](https://www.postgresql.org/download/products/1-administrationdevelopment-tools/)
+- [11 Best PostgreSQL Monitoring Tools](https://www.comparitech.com/net-admin/best-postgresql-monitoring-tools/)
 - [Руководство по PostgreSQL на Metanit](https://metanit.com/sql/postgresql/)
 - [Хорошие туториалы по PostgreSQL на английском](https://www.postgresqltutorial.com/)
 - [Psycopg](https://www.psycopg.org/), PostgreSQL adapter for Python
@@ -609,6 +615,8 @@ AIOgram async framework:
 - [Официальный сайт и документация по Node.js](https://nodejs.org/)
 - [Официальные руководства](https://nodeguide.ru/doc/)
 - [Руководство по Node.js на Habr](https://habr.com/ru/company/ruvds/blog/422893/)
+- [Install Node.js via Package Manager](https://nodejs.org/tr/download/package-manager/#macos)
+- [Управление версиями Node.js и NPM с помощью NVM](https://habr.com/ru/company/timeweb/blog/541452/)
 - [Полная версия руководства по Node.js на Habr](https://habr.com/ru/company/ruvds/blog/428576/) + PDF
 - [Сайт для разработчиков Node.js](https://nodejsdev.ru/), на русском
 - [Node.js. Официальное руководство](https://github.com/bormaxi8080/programming-books/blob/main/JS/Node.js_Official_Guide.pdf) `[pb]`
