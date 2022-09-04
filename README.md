@@ -853,6 +853,7 @@ Metasploit Framework:
 - [WPScan](https://wpscan.com/wordpress-security-scanner), мощный фреймворк для пентеста WordPress, обзор: https://habr.com/ru/company/alexhost/blog/527612/
 
 # Логи и метрики
+
 - [Логи и метрики](https://github.com/bzick/oh-my-backend#%D1%8D%D1%82%D0%B0%D0%BF-11-%D0%BB%D0%BE%D0%B3%D0%B8-%D0%B8-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8) `[omb]`
 - [Retrace](https://stackify.com/retrace/), log analyzing platform
 
@@ -867,10 +868,18 @@ Metasploit Framework:
 - [Пример внедрения](https://habr.com/ru/company/southbridge/blog/431122/)
 
 ### Chipmunk
+
 - [GitHub](https://github.com/esrlabs/chipmunk), Chipmunk - утилита для работы с большими логами
 - [Описание на Habr](https://habr.com/ru/post/496126/), Chipmunk
 
 # Полезные утилиты
+
+[Bookmarklets](https://habr.com/ru/company/theonlypage/blog/234427/) - simple Javascript code features:
+- [Использование bookmarklets](https://habr.com/ru/post/52346/)
+- [Содание букмарклетов - правильный путь](https://coderlessons.com/articles/veb-razrabotka-articles/sozdanie-bukmarkletov-pravilnyi-put)
+- [bookmarklets.com collection](http://bookmarklets.com/tools/categor.html)
+- [Favelets](https://tantek.com/favelets/)
+- [squarefree.com bookmarklets collection](https://www.squarefree.com/bookmarklets/)
 
 Balena Etcher - создание образов дисков на MacOS:
 - [Официальный сайт](https://www.balena.io/etcher/)
@@ -881,16 +890,17 @@ Calibre - управление электронной библиотекой:
 - [Настройка среды разработки Calibre](https://manual.calibre-ebook.com/ru/develop.html)
 
 # Разное
--   [You Might Not Need JS](http://youmightnotneedjs.com/), набор фич, некоторые их которых действительно можно сделать без JS
--   [HTML DOM](https://htmldom.dev/), набор нативных функций для работы с DOM-деревом
--   [Does it Mutate](https://doesitmutate.xyz/), подскажет, какие методы изменяют массив, а какие нет
--   [Keycode Info](http://keycode.info/), покажет код нажатой клавиши
--   [Tmstmp](https://bespoyasov.ru/tmstmp/), переводит даты в таймштампы и обратно
--   [Generating Random Integers](https://stackoverflow.com/a/1527820/3141337), пример генерации случайного целого с подробным объяснением работы
--   [Jest Mocking Strategies](https://mercedesbernard.com/blog/jest-mocking-strategies), мои моки в Jest никогда не работают с первого раза
--   [Debounce / Throttle](http://demo.nimius.net/debounce_throttle/), показывает разницу между `debounce` и `throttle`
--   [Anything to Anything Transformer](https://transform.tools/json-schema-to-openapi-schema), конвертирует что угодно во что угодно
--   [List of Chrome URLs](chrome://chrome-urls/)
+
+- [You Might Not Need JS](http://youmightnotneedjs.com/), набор фич, некоторые их которых действительно можно сделать без JS
+- [HTML DOM](https://htmldom.dev/), набор нативных функций для работы с DOM-деревом
+- [Does it Mutate](https://doesitmutate.xyz/), подскажет, какие методы изменяют массив, а какие нет
+- [Keycode Info](http://keycode.info/), покажет код нажатой клавиши
+- [Tmstmp](https://bespoyasov.ru/tmstmp/), переводит даты в таймштампы и обратно
+- [Generating Random Integers](https://stackoverflow.com/a/1527820/3141337), пример генерации случайного целого с подробным объяснением работы
+- [Jest Mocking Strategies](https://mercedesbernard.com/blog/jest-mocking-strategies), мои моки в Jest никогда не работают с первого раза
+- [Debounce / Throttle](http://demo.nimius.net/debounce_throttle/), показывает разницу между `debounce` и `throttle`
+- [Anything to Anything Transformer](https://transform.tools/json-schema-to-openapi-schema), конвертирует что угодно во что угодно
+- [List of Chrome URLs](chrome://chrome-urls/)
 
 ### Сервисы поиска исходного кода:
 - [SearchCode](https://searchcode.com/)
