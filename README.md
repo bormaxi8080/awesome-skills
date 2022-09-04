@@ -672,6 +672,9 @@ Nest.js:
 - [Гайд по Nest.js: что это такое и как написать свой первый код](https://ru.hexlet.io/blog/posts/gid-po-nest-js)
 - [NestJS - тот самый, настоящий бэкенд на nodejs](https://habr.com/ru/post/439434/)
 
+
+Разное:
+- [json2md](https://www.npmjs.com/package/json2md), JSON to Markdown converter
 - [Node-fetch](https://www.npmjs.com/package/node-fetch), XMLHttpRequest emplementation library
 - [Chalk](https://github.com/chalk/chalk), раскраска терминала
 - [Debug](https://developer.ibm.com/articles/intro-to-the-nodejs-debug-module/), библиотека для отладки
