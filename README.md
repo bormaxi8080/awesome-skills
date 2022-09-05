@@ -784,6 +784,18 @@ Kotlin:
 - [Application Security](https://application.security/free/owasp-top-10), интерактивный чеклист по уязвимостям веб-приложений с объяснениями и рекомендациями к защите
 - [SecurityLab - Soft](https://www.securitylab.ru/software/), огромная подборка всякого разного софта
 
+Maltego Sources:
+
+- [maltego.com](https://www.maltego.com)
+- [Maltego Communitu](https://www.maltego.com/maltego-community/)
+- [Maltego. Часть 1. 4 релиза Maltego. Принципы работы и возможности](https://habr.com/ru/company/tomhunter/blog/462457/)
+- [Maltego. Часть 2. Ближе к телу](https://habr.com/ru/company/tomhunter/blog/466799/)
+- [Maltego. Часть 3. Facebook плачет, Social Links смеется, Maltego кури](https://habr.com/ru/company/tomhunter/blog/486338/)
+- [Maltego. Часть 4. ВК, Instagram, LinkedIN и другие фантастические твари](https://habr.com/ru/company/tomhunter/blog/492666/)
+- [Maltego. Часть 5. Твое лицо тебя сдало](https://habr.com/ru/company/tomhunter/blog/493544/)
+
+- [Настройки приватности Facebook VS OSINT](https://habr.com/ru/company/tomhunter/blog/530460/)
+
 "Mac на службе у хакера" - хорошая серия статей для начинающих пентестеров:
 
 - [Часть 1 - Шифрование диска](https://www.securitylab.ru/analytics/491107.php)
