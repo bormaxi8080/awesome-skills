@@ -485,10 +485,10 @@ AIOgram async framework:
 - [Как настроить прием платежей 2.0 в Telegram за 5 часов](https://vc.ru/dev/240195-kak-nastroit-priem-platezhey-2-0-v-telegram-za-5-chasov)
 
 ### Django
+
 - [Официальный сайт и документация](https://www.djangoproject.com/), Django
 - [Документация по Django от Mozilla](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django)
-- [Исчерпывающая книга про Django](https://djbook.ru/rel3.0/), неплохая документация на русском
-- [DJBook](https://djbook.ru/), и тут всего остального про Django навалом
+
 - [Хаб по Django на Хабре](https://habr.com/ru/hub/django/), Django
 - [Django fun](https://django.fun/)
 - [Статьи про Django](https://django.fun/tutorials/)
@@ -497,6 +497,14 @@ AIOgram async framework:
 - [Транзакции в Django](https://django.fun/docs/django/ru/3.2/topics/db/transactions/)
 - [Transaction Management with Django](https://realpython.com/transaction-management-with-django-1-6/)
 - [django-filter module](https://django-filter.readthedocs.io/en/stable/guide/usage.html)
+
+К сожалению, мертвый уже сайт (не пингуется) dbbook.ru:
+- [Исчерпывающая книга про Django](https://djbook.ru/rel3.0/), неплохая документация на русском
+- [DJBook](https://djbook.ru/), и тут всего остального про Django навалом
+
+тут [Адекватная копия](https://ejudge.lksh.ru/lang_docs/djbook.ru/rel1.9/) но информация только по старым версиям!
+
+!!! Документация по последней версии [тут](https://django.fun/ru/docs/django/4.1/)
 
 ### Flask
 - [Официальный сайт и документация](https://flask.palletsprojects.com/en/2.0.x/), Flask
