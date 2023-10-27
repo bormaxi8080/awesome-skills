@@ -12,7 +12,7 @@
 
 Некоторые книги и мануалы в формате PDF для удобства выложены в репозитарий programming-books, ссылки на них отмечены меткой `pb`
 
-> [programming-books](https://github.com/bormaxi8080/programming-books)
+> [awesome-books](https://github.com/bormaxi8080/awesome-books)
 
 По части материалов в данной документации ссылка ведет в репозитарий oh-my-backend (fork на roadmap по современным технологиям backend). Ссылки на такие материалы отмечены меткой `[omb]`
 
