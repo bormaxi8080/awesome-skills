@@ -1,4 +1,4 @@
-# oh-my-skills
+# awesome-skills
 
 ### Что это?
 
